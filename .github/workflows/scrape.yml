@@ -1,0 +1,125 @@
+name: Scrape Jobs
+
+on:
+  schedule:
+    - cron: "0 */4 * * *"   # every 4 hours, runs in "any" mode by default
+  workflow_dispatch:          # manual trigger — lets you choose role/location per source
+    inputs:
+      role:
+        description: "Role to search (e.g. software, marketing, or 'any')"
+        required: false
+        default: "any"
+        type: string
+      location:
+        description: "Location to search (e.g. bangalore, remote, or 'any')"
+        required: false
+        default: "any"
+        type: string
+
+jobs:
+  scrape-internshala:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          pip install playwright requests tf-playwright-stealth
+          playwright install chromium
+
+      - name: Run Internshala scraper
+        env:
+          HEADLESS: "true"
+          PYTHONIOENCODING: "utf-8"
+        run: |
+          ROLE="${{ github.event.inputs.role || 'any' }}"
+          LOCATION="${{ github.event.inputs.location || 'any' }}"
+          echo "Scraping Internshala role=$ROLE location=$LOCATION"
+          printf "${ROLE}\n${LOCATION}\nn\n" | python3 internshala_scraper.py
+
+      - name: Filter out jobs already seen in previous runs
+        run: python3 dedup_filter.py internshala
+
+      - name: Upload only new jobs as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: internshala-jobs-new
+          path: internshala_jobs_new.json
+
+      - name: Upload all unique jobs (cumulative) as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: internshala-all-unique-jobs
+          path: all_unique_jobs_internshala.json
+
+      - name: Commit updated tracking files back to repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase
+          git add seen_jobs_internshala.json all_unique_jobs_internshala.json
+          git diff --staged --quiet || git commit -m "Update Internshala tracking files [skip ci]"
+          git push
+
+
+  scrape-indeed:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          pip install playwright requests tf-playwright-stealth
+          playwright install chromium
+
+      - name: Run Indeed scraper
+        env:
+          HEADLESS: "true"
+          PYTHONIOENCODING: "utf-8"
+        run: |
+          ROLE="${{ github.event.inputs.role || 'software' }}"
+          LOCATION="${{ github.event.inputs.location || 'bangalore' }}"
+          echo "Scraping Indeed role=$ROLE location=$LOCATION"
+          printf "${ROLE}\n${LOCATION}\nn\n" | python3 indeed_scraper.py
+
+      - name: Filter out jobs already seen in previous runs
+        run: python3 dedup_filter.py indeed
+
+      - name: Upload only new jobs as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: indeed-jobs-new
+          path: indeed_jobs_new.json
+
+      - name: Upload all unique jobs (cumulative) as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: indeed-all-unique-jobs
+          path: all_unique_jobs_indeed.json
+
+      - name: Commit updated tracking files back to repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase
+          git add seen_jobs_indeed.json all_unique_jobs_indeed.json
+          git diff --staged --quiet || git commit -m "Update Indeed tracking files [skip ci]"
+          git push

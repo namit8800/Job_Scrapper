@@ -1,0 +1,454 @@
+2026-06-15 12:02:58,452 [ERROR] Server connection refused
+2026-06-15 12:05:02,235 [ERROR] Server connection refused
+2026-06-15 12:06:37,520 [ERROR] Server connection refused
+2026-06-15 12:08:57,321 [DEBUG] Using selector: KqueueSelector
+2026-06-15 12:09:03,706 [ERROR] [Naukri] Card parse error: local variable 'salary_text' referenced before assignment
+2026-06-15 12:09:03,714 [ERROR] [Naukri] Card parse error: local variable 'salary_text' referenced before assignment
+2026-06-15 12:09:03,721 [ERROR] [Naukri] Card parse error: local variable 'salary_text' referenced before assignment
+2026-06-15 12:09:03,727 [ERROR] [Naukri] Card parse error: local variable 'salary_text' referenced before assignment
+2026-06-15 12:09:03,733 [ERROR] [Naukri] Card parse error: local variable 'salary_text' referenced before assignment
+2026-06-15 12:09:03,739 [ERROR] [Naukri] Card parse error: local variable 'salary_text' referenced before assignment
+2026-06-15 12:09:03,745 [ERROR] [Naukri] Card parse error: local variable 'salary_text' referenced before assignment
+2026-06-15 12:09:03,751 [ERROR] [Naukri] Card parse error: local variable 'salary_text' referenced before assignment
+2026-06-15 12:09:03,757 [ERROR] [Naukri] Card parse error: local variable 'salary_text' referenced before assignment
+2026-06-15 12:09:03,763 [ERROR] [Naukri] Card parse error: local variable 'salary_text' referenced before assignment
+2026-06-15 12:09:03,770 [ERROR] [Naukri] Card parse error: local variable 'salary_text' referenced before assignment
+2026-06-15 12:09:03,776 [ERROR] [Naukri] Card parse error: local variable 'salary_text' referenced before assignment
+2026-06-15 12:09:03,782 [ERROR] [Naukri] Card parse error: local variable 'salary_text' referenced before assignment
+2026-06-15 12:09:03,787 [ERROR] [Naukri] Card parse error: local variable 'salary_text' referenced before assignment
+2026-06-15 12:09:03,793 [ERROR] [Naukri] Card parse error: local variable 'salary_text' referenced before assignment
+2026-06-15 12:09:03,799 [ERROR] [Naukri] Card parse error: local variable 'salary_text' referenced before assignment
+2026-06-15 12:09:03,805 [ERROR] [Naukri] Card parse error: local variable 'salary_text' referenced before assignment
+2026-06-15 12:09:03,811 [ERROR] [Naukri] Card parse error: local variable 'salary_text' referenced before assignment
+2026-06-15 12:09:03,817 [ERROR] [Naukri] Card parse error: local variable 'salary_text' referenced before assignment
+2026-06-15 12:09:03,823 [ERROR] [Naukri] Card parse error: local variable 'salary_text' referenced before assignment
+2026-06-15 12:10:23,400 [DEBUG] Using selector: KqueueSelector
+2026-06-15 12:10:29,589 [ERROR] [Naukri] Card parse error: local variable 'salary_text' referenced before assignment
+2026-06-15 12:10:29,597 [ERROR] [Naukri] Card parse error: local variable 'salary_text' referenced before assignment
+2026-06-15 12:10:29,603 [ERROR] [Naukri] Card parse error: local variable 'salary_text' referenced before assignment
+2026-06-15 12:10:29,610 [ERROR] [Naukri] Card parse error: local variable 'salary_text' referenced before assignment
+2026-06-15 12:10:29,616 [ERROR] [Naukri] Card parse error: local variable 'salary_text' referenced before assignment
+2026-06-15 12:10:29,623 [ERROR] [Naukri] Card parse error: local variable 'salary_text' referenced before assignment
+2026-06-15 12:10:29,629 [ERROR] [Naukri] Card parse error: local variable 'salary_text' referenced before assignment
+2026-06-15 12:10:29,635 [ERROR] [Naukri] Card parse error: local variable 'salary_text' referenced before assignment
+2026-06-15 12:10:29,641 [ERROR] [Naukri] Card parse error: local variable 'salary_text' referenced before assignment
+2026-06-15 12:10:29,648 [ERROR] [Naukri] Card parse error: local variable 'salary_text' referenced before assignment
+2026-06-15 12:10:29,655 [ERROR] [Naukri] Card parse error: local variable 'salary_text' referenced before assignment
+2026-06-15 12:10:29,661 [ERROR] [Naukri] Card parse error: local variable 'salary_text' referenced before assignment
+2026-06-15 12:10:29,667 [ERROR] [Naukri] Card parse error: local variable 'salary_text' referenced before assignment
+2026-06-15 12:10:29,673 [ERROR] [Naukri] Card parse error: local variable 'salary_text' referenced before assignment
+2026-06-15 12:10:29,679 [ERROR] [Naukri] Card parse error: local variable 'salary_text' referenced before assignment
+2026-06-15 12:10:29,685 [ERROR] [Naukri] Card parse error: local variable 'salary_text' referenced before assignment
+2026-06-15 12:10:29,690 [ERROR] [Naukri] Card parse error: local variable 'salary_text' referenced before assignment
+2026-06-15 12:10:29,696 [ERROR] [Naukri] Card parse error: local variable 'salary_text' referenced before assignment
+2026-06-15 12:10:29,702 [ERROR] [Naukri] Card parse error: local variable 'salary_text' referenced before assignment
+2026-06-15 12:10:29,709 [ERROR] [Naukri] Card parse error: local variable 'salary_text' referenced before assignment
+2026-06-15 12:13:17,250 [DEBUG] Using selector: KqueueSelector
+2026-06-15 12:13:24,689 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-15 12:13:24,691 [ERROR] Server connection refused
+2026-06-15 12:19:31,293 [DEBUG] Using selector: KqueueSelector
+2026-06-15 12:36:35,729 [ERROR] Server connection refused
+2026-06-15 13:19:20,954 [ERROR] Server connection refused
+2026-06-15 23:26:35,098 [DEBUG] Using selector: KqueueSelector
+2026-06-15 23:26:40,709 [ERROR] [Naukri] No listings found at https://www.naukri.com/software-jobs-in-bangalore â€” page layout may have changed
+2026-06-15 23:27:06,084 [DEBUG] Using selector: KqueueSelector
+2026-06-15 23:27:12,072 [ERROR] [Naukri] No listings found at https://www.naukri.com/software-jobs-in-bangalore â€” page layout may have changed
+2026-06-15 23:27:46,768 [DEBUG] Using selector: KqueueSelector
+2026-06-15 23:27:52,575 [ERROR] [Naukri] No listings found at https://www.naukri.com/software-jobs-in-delhi â€” page layout may have changed
+2026-06-15 23:42:15,581 [DEBUG] Using selector: KqueueSelector
+2026-06-15 23:42:21,347 [ERROR] [Naukri] No listings found at https://www.naukri.com/software-jobs-in-bangalore â€” page layout may have changed
+2026-06-16 00:33:45,471 [DEBUG] Using selector: KqueueSelector
+2026-06-16 00:33:50,821 [ERROR] [Naukri] No listings found at https://www.naukri.com/marketing-jobs-in-bangalore â€” page layout may have changed
+2026-06-16 00:34:06,521 [DEBUG] Using selector: KqueueSelector
+2026-06-16 00:34:11,864 [ERROR] [Naukri] No listings found at https://www.naukri.com/marketing-jobs-in-bangalore â€” page layout may have changed
+2026-06-16 00:34:39,226 [DEBUG] Using selector: KqueueSelector
+2026-06-16 00:34:44,597 [ERROR] [Naukri] No listings found at https://www.naukri.com/marketing-jobs-in-bangalore â€” page layout may have changed
+2026-06-16 00:37:51,997 [DEBUG] Using selector: KqueueSelector
+2026-06-16 00:37:57,348 [ERROR] [Naukri] No listings found at https://www.naukri.com/marketing-jobs-in-bangalore â€” page layout may have changed
+2026-06-16 00:38:23,788 [DEBUG] Using selector: KqueueSelector
+2026-06-16 00:38:29,144 [ERROR] [Naukri] No listings found at https://www.naukri.com/marketing-jobs-in-bangalore â€” page layout may have changed
+2026-06-16 00:51:09,686 [DEBUG] Using selector: KqueueSelector
+2026-06-16 00:51:20,046 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 00:51:20,053 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 00:51:20,054 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 00:51:20,056 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 00:51:20,057 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 00:51:20,059 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 00:51:20,060 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 00:51:20,062 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 00:51:20,063 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 00:51:20,065 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 00:51:20,065 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 00:51:20,068 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 00:51:20,068 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 00:51:20,070 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 00:51:20,071 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 00:51:20,073 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 00:51:20,074 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 00:51:20,077 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 00:51:20,078 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 00:51:20,079 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 00:51:20,080 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 00:51:20,082 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 00:51:20,082 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 00:51:20,084 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 00:51:20,085 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 00:51:20,086 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 00:51:20,087 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 00:51:20,089 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 00:51:20,089 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 00:51:20,091 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 00:51:20,091 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 00:51:20,093 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 00:51:20,093 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 00:51:20,095 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 00:51:20,095 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 00:51:20,097 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 00:51:20,098 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 00:51:20,099 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 00:51:20,100 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 00:51:20,102 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:01:37,187 [DEBUG] Using selector: KqueueSelector
+2026-06-16 01:01:45,972 [ERROR] [Naukri] No listings found at https://www.naukri.com/marketing-jobs-in-work-from-home?wfhType=1 â€” page layout may have changed
+2026-06-16 01:02:07,284 [DEBUG] Using selector: KqueueSelector
+2026-06-16 01:02:15,686 [ERROR] [Naukri] No listings found at https://www.naukri.com/marketing-jobs-in-delhi â€” page layout may have changed
+2026-06-16 01:02:52,893 [DEBUG] Using selector: KqueueSelector
+2026-06-16 01:03:01,236 [ERROR] [Naukri] No listings found at https://www.naukri.com/marketing-jobs-in-delhi â€” page layout may have changed
+2026-06-16 01:08:28,141 [DEBUG] Using selector: KqueueSelector
+2026-06-16 01:08:41,428 [ERROR] [Naukri] No listings found at https://www.naukri.com/software-jobs-in-work-from-home?wfhType=1 â€” may be blocked or layout changed
+2026-06-16 01:12:01,414 [DEBUG] Using selector: KqueueSelector
+2026-06-16 01:12:14,728 [ERROR] [Naukri] No listings found at https://www.naukri.com/marketing-jobs-in-work-from-home?wfhType=1 â€” may be blocked or layout changed
+2026-06-16 01:13:14,305 [DEBUG] Using selector: KqueueSelector
+2026-06-16 01:13:27,194 [ERROR] [Naukri] No listings found at https://www.naukri.com/marketing-jobs-in-bangalore â€” may be blocked or layout changed
+2026-06-16 01:41:07,130 [DEBUG] Using selector: KqueueSelector
+2026-06-16 01:41:20,400 [ERROR] [Naukri] No listings found at https://www.naukri.com/software-jobs-in-bangalore â€” may be blocked or layout changed
+2026-06-16 01:45:52,381 [DEBUG] Using selector: KqueueSelector
+2026-06-16 01:46:09,827 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:46:09,832 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:46:09,833 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:46:09,835 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:46:09,835 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:46:09,837 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:46:09,838 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:46:09,839 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:46:09,840 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:46:09,842 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:46:09,842 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:46:09,844 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:46:09,845 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:46:09,847 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:46:09,847 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:46:09,849 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:46:09,850 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:46:09,853 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:46:09,853 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:46:09,856 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:46:09,857 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:46:09,859 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:46:09,859 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:46:09,861 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:46:09,862 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:46:09,863 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:46:09,864 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:46:09,865 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:46:09,866 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:46:09,867 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:46:09,868 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:46:09,869 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:46:09,870 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:46:09,872 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:46:20,310 [DEBUG] Using selector: KqueueSelector
+2026-06-16 01:46:37,077 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:46:37,079 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:46:37,080 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:46:37,082 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:46:37,083 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:46:37,085 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:46:37,085 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:46:37,087 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:46:37,088 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:46:37,089 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:46:37,090 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:46:37,092 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:46:37,092 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:46:37,094 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:46:37,094 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:46:37,096 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:46:37,096 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:46:37,097 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-16 01:46:37,098 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:46:37,099 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:46:37,100 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:46:37,101 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-16 01:46:37,102 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:46:37,104 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:46:37,104 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:46:37,106 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:46:37,107 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:46:37,109 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:46:37,109 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:46:37,111 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:46:37,112 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:46:37,113 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:46:37,114 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:46:37,115 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:46:37,116 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:46:37,118 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:46:37,118 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:46:37,120 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:54:22,986 [DEBUG] Using selector: KqueueSelector
+2026-06-16 01:54:39,173 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:54:39,175 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:54:39,176 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:54:39,178 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:54:39,178 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:54:39,180 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:54:39,181 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:54:39,182 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:54:39,183 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:54:39,185 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:54:39,186 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:54:39,188 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:54:39,188 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:54:39,190 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:54:39,190 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:54:39,192 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:54:39,193 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:54:39,194 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:54:39,195 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:54:39,197 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:54:39,197 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:54:39,200 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:54:39,200 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:54:39,202 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:54:39,203 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:54:39,205 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:54:39,206 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:54:39,208 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:54:39,208 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:54:39,210 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:54:39,210 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:54:39,212 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:54:39,213 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:54:39,215 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:54:39,215 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:54:39,217 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:54:39,217 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:54:39,219 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 01:54:39,219 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 01:54:39,221 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 13:48:06,439 [DEBUG] Using selector: KqueueSelector
+2026-06-16 13:48:30,670 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 13:48:30,672 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-16 13:48:30,673 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 13:48:30,674 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-16 13:48:30,675 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 13:48:30,675 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-16 13:48:30,676 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 13:48:30,677 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-16 13:48:30,678 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 13:48:30,679 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-16 13:48:30,680 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 13:48:30,681 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-16 13:48:30,681 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 13:48:30,682 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-16 13:48:30,683 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 13:48:30,684 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-16 13:48:30,684 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 13:48:30,685 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-16 13:48:30,686 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 13:48:30,687 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-16 13:48:30,687 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 13:48:30,688 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-16 13:48:30,689 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 13:48:30,689 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-16 13:48:30,690 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 13:48:30,691 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-16 13:48:30,691 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 13:48:30,692 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-16 13:48:30,693 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 13:48:30,694 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-16 13:48:30,695 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 13:48:30,697 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-16 13:48:30,697 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-16 13:48:30,699 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-16 14:44:06,022 [ERROR] [Indeed] Request failed: 403 Client Error: Forbidden for url: https://in.indeed.com/jobs?q=software+engineer&sc=0kf%3Aattr%28DSQF7%29%3B&sort=date
+2026-06-16 14:45:48,973 [ERROR] [Indeed] Request failed: 403 Client Error: Forbidden for url: https://in.indeed.com/jobs?q=software+engineer&sc=0kf%3Aattr%28DSQF7%29%3B&sort=date
+2026-06-16 15:19:14,993 [DEBUG] Using proactor: IocpProactor
+2026-06-16 15:19:27,993 [ERROR] [Naukri] No listings found at https://www.naukri.com/software-jobs-in-bangalore — may be blocked or layout changed
+2026-06-16 15:24:18,140 [DEBUG] Using proactor: IocpProactor
+2026-06-16 15:24:31,153 [ERROR] [Naukri] No listings found at https://www.naukri.com/software-jobs-in-bangalore — may be blocked or layout changed
+2026-06-16 15:25:01,352 [DEBUG] Using proactor: IocpProactor
+2026-06-16 15:25:14,287 [ERROR] [Naukri] No listings found at https://www.naukri.com/software-jobs-in-bangalore — may be blocked or layout changed
+2026-06-16 15:29:31,513 [DEBUG] Using proactor: IocpProactor
+2026-06-16 15:29:44,482 [ERROR] [Naukri] No listings found at https://www.naukri.com/software-jobs?jobAge=7&wfhType=2 — may be blocked or layout changed
+2026-06-19 16:55:58,375 [DEBUG] Using proactor: IocpProactor
+2026-06-19 16:56:12,723 [ERROR] [Naukri] No listings found at https://www.naukri.com/marketing-jobs-in-bangalore — may be blocked or layout changed
+2026-06-20 09:47:08,584 [DEBUG] Using proactor: IocpProactor
+2026-06-20 09:47:21,532 [ERROR] [Naukri] No listings found at https://www.naukri.com/java-jobs-in-bangalore — may be blocked or layout changed
+2026-06-20 09:47:37,937 [DEBUG] Using proactor: IocpProactor
+2026-06-20 09:47:50,878 [ERROR] [Naukri] No listings found at https://www.naukri.com/software-jobs?jobAge=7&wfhType=2 — may be blocked or layout changed
+2026-06-20 10:01:51,230 [ERROR] [Internshala] Failed to load https://internshala.com/internships/software-internship-in-banglore/: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://internshala.com/internships/software-internship-in-banglore/", waiting until "load"
+
+2026-06-20 10:02:22,763 [DEBUG] Using proactor: IocpProactor
+2026-06-20 10:02:35,707 [ERROR] [Naukri] No listings found at https://www.naukri.com/software-jobs-in-bangalore — may be blocked or layout changed
+2026-06-20 10:44:39,848 [DEBUG] Using proactor: IocpProactor
+2026-06-20 10:44:55,938 [ERROR] [Naukri] No listings found at https://www.naukri.com/software-jobs-in-bangalore — may be blocked or layout changed
+2026-06-20 10:46:20,846 [DEBUG] Using proactor: IocpProactor
+2026-06-20 10:46:34,192 [ERROR] [Naukri] No listings found at https://www.naukri.com/software-jobs-in-bangalore — may be blocked or layout changed
+2026-06-20 10:47:53,219 [DEBUG] Using proactor: IocpProactor
+2026-06-20 10:48:18,319 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 10:48:18,331 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-20 10:48:18,334 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 10:48:18,348 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-20 10:48:18,350 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 10:48:18,353 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-20 10:48:18,355 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 10:48:18,363 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-20 10:48:18,365 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 10:48:18,368 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-20 10:48:18,370 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 10:48:18,380 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-20 10:48:18,382 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 10:48:18,391 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-20 10:48:18,393 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 10:48:18,402 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-20 10:48:18,404 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 10:48:18,413 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-20 10:48:18,414 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 10:48:18,422 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-20 10:48:18,424 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 10:48:18,437 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-20 10:48:18,440 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 10:48:18,451 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-20 10:48:18,453 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 10:48:18,457 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-20 10:48:18,458 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 10:48:18,470 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-20 10:48:18,473 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 10:48:18,484 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-20 10:48:18,486 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 10:48:18,498 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-20 10:48:18,501 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 10:48:18,514 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-20 10:48:18,517 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 10:48:18,531 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-20 10:48:18,533 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 10:48:18,543 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-20 10:48:47,249 [DEBUG] Using proactor: IocpProactor
+2026-06-20 10:49:12,528 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 10:49:12,555 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-20 10:49:12,557 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 10:49:12,560 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-20 10:49:12,562 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 10:49:12,565 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-20 10:49:12,567 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 10:49:12,570 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-20 10:49:12,572 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 10:49:12,575 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-20 10:49:12,577 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 10:49:12,579 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-20 10:49:12,581 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 10:49:12,583 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-20 10:49:12,584 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 10:49:12,586 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-20 10:49:12,587 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 10:49:12,589 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-20 10:49:12,591 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 10:49:12,601 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-20 10:49:12,602 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 10:49:12,605 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-20 10:49:12,606 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 10:49:12,608 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-20 10:49:12,609 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 10:49:12,611 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-20 10:49:12,612 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 10:49:12,614 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-20 10:49:12,616 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 10:49:12,617 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-20 10:49:12,619 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 10:49:12,622 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-20 10:49:12,623 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 10:49:12,625 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-20 10:49:12,626 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 10:49:12,628 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-20 10:49:12,629 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 10:49:12,631 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-20 17:04:25,908 [DEBUG] Using proactor: IocpProactor
+2026-06-20 17:04:45,751 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 17:04:45,768 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-20 17:04:45,769 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 17:04:45,771 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-20 17:04:45,772 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 17:04:45,787 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-20 17:04:45,788 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 17:04:45,803 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-20 17:04:45,804 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 17:04:45,806 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-20 17:04:45,806 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 17:04:45,812 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-20 17:04:45,813 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 17:04:45,814 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-20 17:04:45,815 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 17:04:45,817 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-20 17:04:45,818 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 17:04:45,824 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-20 17:04:45,825 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 17:04:45,829 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-20 17:04:45,831 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 17:04:45,833 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-20 17:04:45,834 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 17:04:45,836 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-20 17:04:45,837 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 17:04:45,843 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-20 17:04:45,844 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 17:04:45,845 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-20 17:04:45,846 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 17:04:45,850 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-20 17:04:45,852 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 17:04:45,858 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-20 17:04:45,860 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 17:04:45,862 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 22
+2026-06-20 17:14:16,918 [DEBUG] Using proactor: IocpProactor
+2026-06-20 17:14:36,057 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 17:14:36,069 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-20 17:14:36,071 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 17:14:36,078 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-20 17:14:36,080 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 17:14:36,084 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-20 17:14:36,085 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 17:14:36,090 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-20 17:14:36,091 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 17:14:36,095 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-20 17:14:36,096 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 17:14:36,103 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-20 17:14:36,104 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 17:14:36,128 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-20 17:14:36,130 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 17:14:36,137 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-20 17:14:36,140 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 17:14:36,155 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-20 17:14:36,156 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 17:14:36,160 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-20 17:14:36,161 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 17:14:36,164 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-20 17:14:36,165 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 17:14:36,169 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-20 17:14:36,170 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 17:14:36,175 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-20 17:14:36,176 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 17:14:36,179 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-20 17:14:36,181 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 17:14:36,186 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-20 17:14:36,188 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 17:14:36,218 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-20 17:14:36,219 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 17:14:36,250 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-20 17:14:36,252 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 17:14:36,281 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-20 17:14:36,282 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 17:14:36,310 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19
+2026-06-20 17:14:36,311 [DEBUG] Starting new HTTP connection (1): localhost:3000
+2026-06-20 17:14:36,315 [DEBUG] http://localhost:3000 "POST /api/jobs HTTP/1.1" 200 19

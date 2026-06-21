@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SyncUp Job Search</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: #f5f5f0;
+      color: #1a1a1a;
+      min-height: 100vh;
+    }
+
+    header {
+      background: #fff;
+      border-bottom: 0.5px solid #e0e0d8;
+      padding: 1rem 2rem;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    header h1 {
+      font-size: 18px;
+      font-weight: 500;
+      color: #1a1a1a;
+    }
+
+    header span {
+      font-size: 13px;
+      color: #888;
+      background: #f0f0ea;
+      padding: 2px 10px;
+      border-radius: 20px;
+    }
+
+    .search-section {
+      background: #fff;
+      border-bottom: 0.5px solid #e0e0d8;
+      padding: 1.5rem 2rem;
+    }
+
+    .search-row {
+      display: flex;
+      gap: 12px;
+      max-width: 900px;
+      flex-wrap: wrap;
+    }
+
+    .search-row input,
+    .search-row select {
+      height: 40px;
+      border: 0.5px solid #d0d0c8;
+      border-radius: 8px;
+      padding: 0 14px;
+      font-size: 14px;
+      background: #fff;
+      color: #1a1a1a;
+      outline: none;
+    }
+
+    .search-row input:focus,
+    .search-row select:focus {
+      border-color: #888;
+    }
+
+    .search-row input[placeholder="Role"] { flex: 2; min-width: 160px; }
+    .search-row input[placeholder="Location"] { flex: 2; min-width: 160px; }
+    .search-row select { flex: 1; min-width: 140px; }
+
+    .search-row button {
+      height: 40px;
+      padding: 0 24px;
+      background: #1a1a1a;
+      color: #fff;
+      border: none;
+      border-radius: 8px;
+      font-size: 14px;
+      cursor: pointer;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+
+    .search-row button:hover { background: #333; }
+    .search-row button:disabled { background: #999; cursor: not-allowed; }
+
+    .results-section {
+      padding: 1.5rem 2rem;
+      max-width: 960px;
+    }
+
+    .results-meta {
+      font-size: 13px;
+      color: #888;
+      margin-bottom: 1rem;
+    }
+
+    .job-card {
+      background: #fff;
+      border: 0.5px solid #e0e0d8;
+      border-radius: 12px;
+      padding: 1.25rem;
+      margin-bottom: 12px;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 1rem;
+    }
+
+    .job-card:hover { border-color: #bbb; }
+
+    .job-info { flex: 1; }
+
+    .job-title {
+      font-size: 15px;
+      font-weight: 500;
+      color: #1a1a1a;
+      margin-bottom: 4px;
+    }
+
+    .job-company {
+      font-size: 13px;
+      color: #555;
+      margin-bottom: 8px;
+    }
+
+    .job-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 8px;
+    }
+
+    .tag {
+      font-size: 12px;
+      padding: 2px 10px;
+      border-radius: 20px;
+      background: #f0f0ea;
+      color: #555;
+    }
+
+    .tag.source-internshala { background: #e8f4fd; color: #1565c0; }
+    .tag.source-naukri { background: #fff3e0; color: #e65100; }
+    .tag.source-indeed { background: #e8f5e9; color: #1b5e20; }
+    .tag.salary { background: #e8f5e9; color: #2e7d32; }
+
+    .job-meta {
+      font-size: 12px;
+      color: #aaa;
+    }
+
+    .apply-btn {
+      display: inline-block;
+      padding: 8px 18px;
+      background: #fff;
+      border: 0.5px solid #d0d0c8;
+      border-radius: 8px;
+      font-size: 13px;
+      color: #1a1a1a;
+      text-decoration: none;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+
+    .apply-btn:hover { border-color: #888; background: #f5f5f0; }
+
+    .status {
+      font-size: 14px;
+      color: #888;
+      padding: 2rem 0;
+      text-align: center;
+    }
+
+    .spinner {
+      display: inline-block;
+      width: 16px;
+      height: 16px;
+      border: 2px solid #ddd;
+      border-top-color: #888;
+      border-radius: 50%;
+      animation: spin 0.7s linear infinite;
+      vertical-align: -3px;
+      margin-right: 8px;
+    }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    .skills-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 4px;
+      margin-top: 6px;
+    }
+
+    .skill-tag {
+      font-size: 11px;
+      padding: 2px 8px;
+      border-radius: 20px;
+      background: #f5f5f0;
+      color: #666;
+      border: 0.5px solid #e0e0d8;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>SyncUp Job Search</h1>
+  <span>Beta</span>
+</header>
+
+<div class="search-section">
+  <div class="search-row">
+    <input type="text" id="role" placeholder="Role" value="software" />
+    <input type="text" id="location" placeholder="Location" value="bangalore" />
+    <select id="source" onchange="toggleSalaryFilter()">
+      <option value="all">Any (all sources)</option>
+      <option value="internshala">Internshala</option>
+      <option value="naukri">Naukri</option>
+      <option value="indeed">Indeed</option>
+    </select>
+    <button id="search-btn" onclick="runSearch()">Search jobs</button>
+  </div>
+  <div id="salary-filter" style="margin-top: 14px; display: none; align-items: center; gap: 12px;">
+    <span style="font-size: 13px; color: #888;">Min stipend</span>
+    <input type="range" id="min-salary" min="0" max="50000" step="1000" value="0"
+      oninput="updateSalaryDisplay()" style="width: 180px;" />
+    <span id="min-label" style="font-size: 13px; font-weight: 500; min-width: 80px;">No min</span>
+  </div>
+</div>
+
+<div class="results-section">
+  <div class="results-meta" id="meta"></div>
+  <div id="results">
+    <p class="status">Enter a role and location to find jobs.</p>
+  </div>
+</div>
+
+<script>
+  const API = "http://localhost:3000";
+
+  function toggleSalaryFilter() {
+    const source = document.getElementById("source").value;
+    document.getElementById("salary-filter").style.display =
+      source === "internshala" ? "flex" : "none";
+  }
+
+  function updateSalaryDisplay() {
+    const minVal = parseInt(document.getElementById("min-salary").value);
+    document.getElementById("min-label").textContent =
+      minVal === 0 ? "No min" : "Rs " + minVal.toLocaleString() + "/mo";
+  }
+
+  // Hide salary filter on load since Internshala is default but Naukri shouldn't show it
+  // Actually show it for Internshala (default) on load
+  window.onload = () => toggleSalaryFilter();
+
+  async function runSearch() {
+    const role     = document.getElementById("role").value.trim();
+    const location = document.getElementById("location").value.trim();
+    const source   = document.getElementById("source").value;
+    const btn      = document.getElementById("search-btn");
+    const results  = document.getElementById("results");
+    const meta     = document.getElementById("meta");
+
+    // Salary filter — only for Internshala
+    const minRaw    = parseInt(document.getElementById("min-salary").value);
+    const minSalary = source === "internshala" && minRaw > 0 ? minRaw : null;
+    const maxSalary = null;
+
+    if (!role || !location) {
+      results.innerHTML = '<p class="status">Please enter both a role and location.</p>';
+      return;
+    }
+
+    btn.disabled = true;
+    btn.textContent = "Searching...";
+    results.innerHTML = '<p class="status"><span class="spinner"></span>Searching ' + role + ' in ' + location + (source === "all" ? " across all sources" : " on " + source) + '...</p>';
+    meta.textContent = "";
+
+    try {
+      const sources = source === "all" ? ["internshala", "naukri", "indeed"] : [source];
+      let allJobs   = [];
+
+      for (const src of sources) {
+        const scrapeRes = await fetch(API + "/api/scrape", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ role, location, source: src, minSalary, maxSalary })
+        });
+
+        if (!scrapeRes.ok) continue;
+
+        const jobsRes  = await fetch(API + "/api/results");
+        const jobsData = await jobsRes.json();
+        allJobs = allJobs.concat(jobsData.jobs);
+
+        if (sources.length > 1) {
+          results.innerHTML = '<p class="status"><span class="spinner"></span>Done with ' + src + ', fetching next source...</p>';
+        }
+      }
+
+      renderJobs(allJobs, role, location, source);
+
+    } catch (err) {
+      results.innerHTML = '<p class="status">Could not connect to server. Make sure it is running: <code>node api/server.js</code></p>';
+    } finally {
+      btn.disabled = false;
+      btn.textContent = "Search jobs";
+    }
+  }
+
+  function renderJobs(jobs, role, location, source) {
+    const results = document.getElementById("results");
+    const meta    = document.getElementById("meta");
+
+    if (!jobs.length) {
+      meta.textContent = "";
+      results.innerHTML = '<p class="status">No jobs found for "' + role + '" in "' + location + '".</p>';
+      return;
+    }
+
+    const sourceLabel = source === "all" ? "all sources" : source;
+    meta.textContent = jobs.length + " jobs found on " + sourceLabel;
+
+    results.innerHTML = jobs.map(job => {
+      const sourceClass = "source-" + (job.source_platform || "").toLowerCase();
+      const salary      = job.salary && job.salary !== "N/A" && job.salary !== "Not disclosed"
+                          ? '<span class="tag salary">' + job.salary + '</span>' : "";
+      const skills      = (job.skills_required || []).slice(0, 4)
+                          .map(s => '<span class="skill-tag">' + s + '</span>').join("");
+      const applyLink   = job.apply_link && job.apply_link !== "N/A"
+                          ? '<a class="apply-btn" href="' + job.apply_link + '" target="_blank">Apply</a>'
+                          : '<span class="apply-btn" style="color:#aaa;cursor:default">No link</span>';
+
+      return `
+        <div class="job-card">
+          <div class="job-info">
+            <div class="job-title">${job.title}</div>
+            <div class="job-company">${job.company}</div>
+            <div class="job-tags">
+              <span class="tag ${sourceClass}">${job.source_platform}</span>
+              ${job.location ? '<span class="tag">' + job.location + '</span>' : ""}
+              ${job.job_type && job.job_type !== "N/A" ? '<span class="tag">' + job.job_type + '</span>' : ""}
+              ${salary}
+            </div>
+            ${skills ? '<div class="skills-list">' + skills + '</div>' : ""}
+            <div class="job-meta">${job.posting_date || ""} ${job.duration && job.duration !== "N/A" ? "· " + job.duration : ""}</div>
+          </div>
+          ${applyLink}
+        </div>`;
+    }).join("");
+  }
+</script>
+</body>
+</html>
