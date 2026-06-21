@@ -97,8 +97,8 @@ jobs:
           HEADLESS: "true"
           PYTHONIOENCODING: "utf-8"
         run: |
-          ROLE="${{ github.event.inputs.role || 'software' }}"
-          LOCATION="${{ github.event.inputs.location || 'bangalore' }}"
+          ROLE="${{ github.event.inputs.role || 'any' }}"
+          LOCATION="${{ github.event.inputs.location || 'any' }}"
           echo "Scraping Indeed role=$ROLE location=$LOCATION"
           printf "${ROLE}\n${LOCATION}\nn\n" | python3 indeed_scraper.py
 
@@ -153,8 +153,8 @@ jobs:
           HEADLESS: "true"
           PYTHONIOENCODING: "utf-8"
         run: |
-          ROLE="${{ github.event.inputs.role || 'software' }}"
-          LOCATION="${{ github.event.inputs.location || 'bangalore' }}"
+          ROLE="${{ github.event.inputs.role || 'any' }}"
+          LOCATION="${{ github.event.inputs.location || 'any' }}"
           echo "Scraping Naukri role=$ROLE location=$LOCATION"
           printf "${ROLE}\n${LOCATION}\nn\n" | python3 naukri_scraper.py
 
