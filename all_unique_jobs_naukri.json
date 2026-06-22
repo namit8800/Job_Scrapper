@@ -2287,5 +2287,222 @@
     "apply_link": "https://www.naukri.com/job-listings-java-automation-api-automation-tata-consultancy-services-bhubaneswar-hyderabad-pune-6-to-11-years-220626005893",
     "source_platform": "Naukri",
     "scraped_at": "2026-06-22T06:13:05.754375Z"
+  },
+  {
+    "title": "Visualization Specialist",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, bengaluru, mumbai (all areas)",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Visualizing",
+      "Power Bi",
+      "Data Visualization",
+      "Tableau",
+      "Artificial Intelligence",
+      "Python",
+      "SQL",
+      "Data"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-visualization-specialist-tata-consultancy-services-hyderabad-bengaluru-mumbai-all-areas-5-to-10-years-220626015905",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-22T13:41:21.871663Z"
+  },
+  {
+    "title": "Cypress automation",
+    "company": "Tata Consultancy Services",
+    "location": "bengaluru, delhi / ncr, mumbai (all areas)",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Web Application Testing",
+      "Cypress",
+      "Playwright",
+      "QA Automation",
+      "Postman",
+      "Lambda Test",
+      "Automation Testing",
+      "Quality assurance"
+    ],
+    "posting_date": "Today",
+    "apply_link": "https://www.naukri.com/job-listings-cypress-automation-tata-consultancy-services-bengaluru-delhi-ncr-mumbai-all-areas-5-to-10-years-220626013749",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-22T13:41:22.223735Z"
+  },
+  {
+    "title": "Uft Automation Tester",
+    "company": "Tata Consultancy Services",
+    "location": "pune, chennai, mumbai (all areas)",
+    "job_type": "4-7 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Uft",
+      "Uft Automation",
+      "Uft Testing",
+      "QTP Testing",
+      "Alm",
+      "Automation",
+      "Software testing",
+      "Automation testing"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-uft-automation-tester-tata-consultancy-services-pune-chennai-mumbai-all-areas-4-to-7-years-220626016036",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-22T13:41:22.453880Z"
+  },
+  {
+    "title": "Mdm Engineer",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, bengaluru, mumbai (all areas)",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Informatica Master Data Management",
+      "Mdm Informatica",
+      "Power Automate",
+      "Master data",
+      "Data management",
+      "Informatica",
+      "MDM",
+      "Master data management"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-mdm-engineer-tata-consultancy-services-hyderabad-bengaluru-mumbai-all-areas-5-to-10-years-220626021239",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-22T13:41:22.691336Z"
+  },
+  {
+    "title": "Java Full Stack Developer (Java, Angular) - Bangalore/ Mumbai/ Pune",
+    "company": "Capgemini",
+    "location": "hybrid - pune, bengaluru, mumbai (all areas)",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Java",
+      "Java Fullstack",
+      "Angular",
+      "Angularjs",
+      "angular js",
+      "Full Stack",
+      "Spring Boot",
+      "J2Ee"
+    ],
+    "posting_date": "Today",
+    "apply_link": "https://www.naukri.com/job-listings-java-full-stack-developer-java-angular-bangalore-mumbai-pune-capgemini-pune-bengaluru-mumbai-all-areas-5-to-10-years-220526013800",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-22T13:41:22.805088Z"
+  },
+  {
+    "title": "Elastic Path Developer",
+    "company": "Tata Consultancy Services",
+    "location": "mumbai, hyderabad, bengaluru",
+    "job_type": "4-6 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Java",
+      "J2Ee",
+      "Elastic Path",
+      "Elastic Search",
+      "Development"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-elastic-path-developer-tata-consultancy-services-mumbai-hyderabad-bengaluru-4-to-6-years-220626016593",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-22T13:41:22.895120Z"
+  },
+  {
+    "title": "Java Agentic AI/GenAI Professionals",
+    "company": "Capgemini",
+    "location": "hybrid - pune, bengaluru, mumbai (all areas)",
+    "job_type": "8-13 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Agentic Ai",
+      "GenAI",
+      "Java",
+      "Copilot",
+      "MCP",
+      "Generative Ai",
+      "AI",
+      "Spring Boot"
+    ],
+    "posting_date": "Today",
+    "apply_link": "https://www.naukri.com/job-listings-java-agentic-ai-genai-professionals-capgemini-pune-bengaluru-mumbai-all-areas-8-to-13-years-220626008132",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-22T13:41:23.005545Z"
+  },
+  {
+    "title": "Sap Project Delivery Manager",
+    "company": "Capgemini",
+    "location": "hybrid - hyderabad, bengaluru, mumbai (all areas)",
+    "job_type": "10-20 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SAP Project Management",
+      "Sap Delivery Management",
+      "SAP Implementation",
+      "Project management",
+      "Management",
+      "Delivery management",
+      "Project",
+      "Delivery"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-sap-project-delivery-manager-capgemini-hyderabad-bengaluru-mumbai-all-areas-10-to-20-years-030226032434",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-22T13:41:23.142947Z"
+  },
+  {
+    "title": "SAP Functional Project Manager",
+    "company": "Capgemini",
+    "location": "hybrid - pune, bengaluru, mumbai (all areas)",
+    "job_type": "10-20 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SAP Project Management",
+      "Function Modules",
+      "SAP Implementation",
+      "Project management",
+      "SAP Knowledge",
+      "Management",
+      "SAP",
+      "Functional"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-sap-functional-project-manager-capgemini-pune-bengaluru-mumbai-all-areas-10-to-20-years-080426013751",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-22T13:41:23.395627Z"
+  },
+  {
+    "title": "Mainframe Developer",
+    "company": "Hexaware Technologies",
+    "location": "pune, chennai, bengaluru",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Cics",
+      "Mainframes",
+      "JCL",
+      "db2",
+      "Cobol",
+      "Development",
+      "DBMS",
+      "Mainframe Production Support"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-mainframe-developer-hexaware-technologies-pune-chennai-bengaluru-6-to-11-years-220626023096",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-22T13:41:23.620802Z"
   }
 ]
