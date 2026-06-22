@@ -1,4 +1,3 @@
-
 """
 indeed_scraper.py
 SyncUp — Project 02 / Job Scraper
@@ -95,8 +94,13 @@ def scrape_indeed(
     role_slug     = role.strip().lower().replace(" ", "+")
     location_slug = location.strip().lower().replace(" ", "+")
     is_remote     = location.strip().lower() in ("remote", "work-from-home", "wfh")
+    is_any_mode   = role.strip().lower() in ("any", "all", "") and location.strip().lower() in ("any", "all", "")
 
-    if is_remote:
+    if is_any_mode:
+        # Indeed has no true "browse all" page — use a broad query sorted by
+        # newest first across all of India, no specific role keyword
+        url = "https://in.indeed.com/jobs?l=India&sort=date"
+    elif is_remote:
         url = f"https://in.indeed.com/jobs?q={role_slug}&sc=0kf%3Aattr%28DSQF7%29%3B&sort=date"
     else:
         url = f"https://in.indeed.com/jobs?q={role_slug}&l={location_slug}&sort=date"
@@ -139,7 +143,7 @@ def scrape_indeed(
             print("[STEALTH] Stealth mode active")
 
         try:
-            page.goto(url, timeout=30_000, wait_until="networkidle")
+            page.goto(url, timeout=60_000, wait_until="domcontentloaded")
             page.wait_for_timeout(5000)
         except Exception as e:
             msg = f"[Indeed] Failed to load {url}: {e}"

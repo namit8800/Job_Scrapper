@@ -1,0 +1,11 @@
+node_modules/
+scraper.log
+jobs_store.json
+internshala_jobs.json
+naukri_jobs.json
+indeed_jobs.json
+internshala_jobs_new.json
+naukri_jobs_new.json
+indeed_jobs_new.json
+.DS_Store
+from playwright.py

@@ -55,6 +55,10 @@ def alert_slack(message: str) -> None:
 # ── URL builder ───────────────────────────────────────────────────────────────
 
 def build_url(role_slug: str, location_slug: str, is_remote: bool) -> str:
+    # Special "any" mode — scrapes Internshala's general latest-internships page,
+    # no role or location filter at all, just whatever's currently listed
+    if role_slug in ("any", "all", "") and location_slug in ("any", "all", ""):
+        return "https://internshala.com/internships/"
     if is_remote:
         return f"https://internshala.com/internships/work-from-home-{role_slug}-internship/"
     return f"https://internshala.com/internships/{role_slug}-internship-in-{location_slug}/"
@@ -216,8 +220,13 @@ def scrape_internshala(
                 location_text = get_text(job, ".locations").lower()
                 full_text     = job.inner_text().lower()
 
+                is_any_mode = role.strip().lower() in ("any", "all", "") and location.strip().lower() in ("any", "all", "")
+
                 # Location filter — fuzzy match so minor typos still work
-                if is_remote:
+                # Skipped entirely in "any" mode — take whatever the page shows
+                if is_any_mode:
+                    pass
+                elif is_remote:
                     if not any(w in full_text for w in ["remote", "work from home", "wfh"]):
                         continue
                 else:

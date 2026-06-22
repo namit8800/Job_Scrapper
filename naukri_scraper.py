@@ -45,6 +45,9 @@ def alert_slack(message: str) -> None:
 
 # ── URL builder ───────────────────────────────────────────────────────────────
 def build_url(role_slug: str, location_slug: str, is_remote: bool) -> str:
+    # Special "any" mode — Naukri's general latest-jobs page, no role/location filter
+    if role_slug in ("any", "all", "") and location_slug in ("any", "all", ""):
+        return "https://www.naukri.com/jobs-in-india?jobAge=1"
     if is_remote:
         # Use India-wide search with work-from-home keyword — avoids Cloudflare block
         return f"https://www.naukri.com/{role_slug}-jobs?jobAge=7&wfhType=2"

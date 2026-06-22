@@ -214,8 +214,8 @@
 
 <div class="search-section">
   <div class="search-row">
-    <input type="text" id="role" placeholder="Role" value="software" />
-    <input type="text" id="location" placeholder="Location" value="bangalore" />
+    <input type="text" id="role" placeholder="Role (leave blank for all)" />
+    <input type="text" id="location" placeholder="Location (leave blank for all)" />
     <select id="source" onchange="toggleSalaryFilter()">
       <option value="all">Any (all sources)</option>
       <option value="internshala">Internshala</option>
@@ -259,8 +259,10 @@
   window.onload = () => toggleSalaryFilter();
 
   async function runSearch() {
-    const role     = document.getElementById("role").value.trim();
-    const location = document.getElementById("location").value.trim();
+    const roleInput     = document.getElementById("role").value.trim();
+    const locationInput = document.getElementById("location").value.trim();
+    const role     = roleInput     || "any";
+    const location = locationInput || "any";
     const source   = document.getElementById("source").value;
     const btn      = document.getElementById("search-btn");
     const results  = document.getElementById("results");
@@ -270,11 +272,6 @@
     const minRaw    = parseInt(document.getElementById("min-salary").value);
     const minSalary = source === "internshala" && minRaw > 0 ? minRaw : null;
     const maxSalary = null;
-
-    if (!role || !location) {
-      results.innerHTML = '<p class="status">Please enter both a role and location.</p>';
-      return;
-    }
 
     btn.disabled = true;
     btn.textContent = "Searching...";
