@@ -2199,5 +2199,93 @@
     "apply_link": "https://www.naukri.com/job-listings-pega-smart-investigation-consultant-infosys-hyderabad-pune-bengaluru-7-to-12-years-220626002450",
     "source_platform": "Naukri",
     "scraped_at": "2026-06-22T05:57:08.843676Z"
+  },
+  {
+    "title": "Data Engineer-Data Integration",
+    "company": "IBM",
+    "location": "hyderabad, pune, bangalore rural",
+    "job_type": "7-9 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "ab initio",
+      "software",
+      "data mapping",
+      "business intelligence",
+      "sql",
+      "solution design",
+      "load",
+      "design"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-data-engineer-data-integration-ibm-hyderabad-pune-bangalore-rural-7-to-9-years-220626005653",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-22T06:13:04.258451Z"
+  },
+  {
+    "title": "Automation Test Engineer",
+    "company": "Tata Consultancy Services",
+    "location": "mumbai, pune, bengaluru",
+    "job_type": "8-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Rest Assured",
+      "Rest Api Testing",
+      "Automation Testing",
+      "Selenium",
+      "API Testing",
+      "Rest",
+      "Software testing",
+      "API"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-automation-test-engineer-tata-consultancy-services-mumbai-pune-bengaluru-8-to-10-years-220626002342",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-22T06:13:04.953761Z"
+  },
+  {
+    "title": "Test Automation",
+    "company": "Tata Consultancy Services",
+    "location": "noida, hyderabad, pune",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "API Testing",
+      "Automation Testing",
+      "MongoDB",
+      "Java Selenium",
+      "Cucumber",
+      "j unit",
+      "Bdd",
+      "Ci/Cd"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-test-automation-tata-consultancy-services-noida-hyderabad-pune-6-to-11-years-220626005570",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-22T06:13:05.229263Z"
+  },
+  {
+    "title": "Java Automation, API, Automation",
+    "company": "Tata Consultancy Services",
+    "location": "bhubaneswar, hyderabad, pune",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Java Automation",
+      "MongoDB",
+      "Api Test Automation",
+      "Java Selenium",
+      "SQL",
+      "Bdd Framework",
+      "Api Automation",
+      "API Testing"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-java-automation-api-automation-tata-consultancy-services-bhubaneswar-hyderabad-pune-6-to-11-years-220626005893",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-22T06:13:05.754375Z"
   }
 ]
