@@ -2653,5 +2653,156 @@
     "apply_link": "https://www.naukri.com/job-listings-hiring-for-sophis-hcltech-hyderabad-pune-bengaluru-5-to-10-years-150626012367",
     "source_platform": "Naukri",
     "scraped_at": "2026-06-23T04:06:23.400632Z"
+  },
+  {
+    "title": "Non IT recruiter - Bangalore",
+    "company": "Trigent Professional Services",
+    "location": "jaipur, bengaluru, mumbai (all areas)",
+    "job_type": "1-5 Yrs",
+    "salary": "1-5 Lacs PA",
+    "salary_numeric": 500000,
+    "skills_required": [
+      "Non IT Recruitment",
+      "Volume Hiring",
+      "Bulk Hiring",
+      "BPO Hiring",
+      "Staffing",
+      "Bfsi Recruitment",
+      "Mass Hiring",
+      "Talent Acquisition"
+    ],
+    "posting_date": "Today",
+    "apply_link": "https://www.naukri.com/job-listings-non-it-recruiter-bangalore-trigent-software-jaipur-bengaluru-mumbai-all-areas-1-to-5-years-070426030648",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-23T11:24:30.115417Z"
+  },
+  {
+    "title": "Consultant - Tax Services",
+    "company": "EY",
+    "location": "mumbai",
+    "job_type": "1-2 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Compliance",
+      "Tds",
+      "C",
+      "Analytical Skills",
+      "Direct Tax",
+      "Legal",
+      "Accountant",
+      "Research"
+    ],
+    "posting_date": "Today",
+    "apply_link": "https://www.naukri.com/job-listings-consultant-tax-services-ernst-young-llp-mumbai-1-to-2-years-230626909817",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-23T11:24:30.222607Z"
+  },
+  {
+    "title": "Trainee",
+    "company": "AtkinsR\u00e9alis",
+    "location": "mumbai, pune, bengaluru",
+    "job_type": "0-2 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Engineering services",
+      "Administration",
+      "Basic",
+      "hydrology",
+      "Hydraulics",
+      "Maritime",
+      "MS Office tools",
+      "Urban design"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-trainee-atkins-global-mumbai-pune-bengaluru-0-to-2-years-230626502242",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-23T11:24:30.319284Z"
+  },
+  {
+    "title": "Data Scientist",
+    "company": "Fractal Analytics",
+    "location": "pune, bengaluru, mumbai (all areas)",
+    "job_type": "8-12 Yrs",
+    "salary": "15-25 Lacs PA",
+    "salary_numeric": 2500000,
+    "skills_required": [
+      "Artificial Intelligence",
+      "AIML",
+      "Machine Learning",
+      "Deep Learning",
+      "Python",
+      "Data",
+      "Intelligence",
+      "Machine"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-data-scientist-fractal-analytics-pune-bengaluru-mumbai-all-areas-8-to-12-years-230626021250",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-23T11:24:30.628901Z"
+  },
+  {
+    "title": "Analyst II Clinical Data Manager",
+    "company": "Johnson & Johnson Innovative Medicine",
+    "location": "mumbai, hyderabad, bengaluru",
+    "job_type": "2-7 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Procurement",
+      "Statistical programming",
+      "CRO",
+      "Coding",
+      "GCP",
+      "Clinical trials",
+      "Data collection",
+      "Healthcare"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-analyst-ii-clinical-data-manager-johnson-johnson-innovative-medicine-mumbai-hyderabad-bengaluru-2-to-7-years-230626501036",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-23T11:24:30.913012Z"
+  },
+  {
+    "title": "Payment Lifecycle Associate II",
+    "company": "JPMorgan Chase Bank",
+    "location": "mumbai",
+    "job_type": "0-4 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Data analysis",
+      "Change management",
+      "Automation",
+      "ISO",
+      "Performance management",
+      "Workflow",
+      "Troubleshooting",
+      "Continuous improvement"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-lifecycle-associate-ii-jp-morgan-and-chase-mumbai-0-to-4-years-230626500957",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-23T11:24:31.564935Z"
+  },
+  {
+    "title": "3D Experience",
+    "company": "Atos",
+    "location": "hybrid - mumbai, chennai, bengaluru",
+    "job_type": "3-5 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "3Dexperience",
+      "Customization",
+      "ENOVIA",
+      "3D",
+      "Custom"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-3d-experience-atos-mumbai-chennai-bengaluru-3-to-5-years-230626021359",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-23T11:24:31.832214Z"
   }
 ]
