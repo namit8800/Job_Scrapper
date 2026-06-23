@@ -2014,5 +2014,61 @@
     "source_platform": "Internshala",
     "duration": "N/A",
     "scraped_at": "2026-06-22T22:09:32.582954Z"
+  },
+  {
+    "title": "Fundraising",
+    "company": "Queens Of Change Foundation",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "\u20b9 1,501 - 15,001 lump sum",
+    "salary_numeric": 1501,
+    "skills_required": [],
+    "posting_date": "Today",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-part-time-fundraising-internship-at-queens-of-change-foundation1782127131",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-06-23T04:06:18.248852Z"
+  },
+  {
+    "title": "Clinical Psychologist",
+    "company": "Jarurat Care",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "Unpaid",
+    "salary_numeric": null,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-part-time-clinical-psychologist-internship-at-jarurat-care1782165736",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-06-23T04:06:20.236024Z"
+  },
+  {
+    "title": "Graphic Design",
+    "company": "Jarurat Care",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "Unpaid",
+    "salary_numeric": null,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-part-time-graphic-design-internship-at-jarurat-care1782166375",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-06-23T04:06:20.305226Z"
+  },
+  {
+    "title": "Human Resources (HR)",
+    "company": "Jarurat Care",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "Unpaid",
+    "salary_numeric": null,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-part-time-human-resources-hr-internship-at-jarurat-care1782166324",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-06-23T04:06:20.374652Z"
   }
 ]
