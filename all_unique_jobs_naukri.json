@@ -2826,5 +2826,223 @@
     "apply_link": "https://www.naukri.com/job-listings-front-office-associate-hilton-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-0-to-1-years-230626506818",
     "source_platform": "Naukri",
     "scraped_at": "2026-06-23T15:16:17.547531Z"
+  },
+  {
+    "title": "Apprentice",
+    "company": "AtkinsR\u00e9alis",
+    "location": "noida, mumbai, pune",
+    "job_type": "0-1 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Engineering services",
+      "Administration",
+      "Basic",
+      "hydrology",
+      "Hydraulics",
+      "Maritime",
+      "MS Office tools",
+      "Urban design"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-apprentice-atkins-global-noida-mumbai-pune-0-to-1-years-230626501011",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-24T04:09:45.024059Z"
+  },
+  {
+    "title": "Tcs Virtual Interview: Sap Fiori Developer || 26th June ||",
+    "company": "Tata Consultancy Services",
+    "location": "chennai, bengaluru, mumbai (all areas)",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Fiori Ui",
+      "Sapui5",
+      "CSS",
+      "SAP FIORI",
+      "ES6",
+      "JavaScript",
+      "HTML5",
+      "Databinding techniques"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-tcs-virtual-interview-sap-fiori-developer-26th-june-tata-consultancy-services-chennai-bengaluru-mumbai-all-areas-5-to-10-years-230626046558",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-24T04:09:45.236083Z"
+  },
+  {
+    "title": "MT New - Data Scientist - Associate Manager",
+    "company": "Accenture",
+    "location": "mumbai",
+    "job_type": "4-9 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "data scientist",
+      "hive",
+      "algorithms",
+      "python",
+      "scala",
+      "ai",
+      "media",
+      "machine learning"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-mt-new-data-scientist-associate-manager-accenture-solutions-pvt-ltd-mumbai-4-to-9-years-230626926145",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-24T04:09:45.777241Z"
+  },
+  {
+    "title": "AWS Migration Engineer",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, chennai, mumbai (all areas)",
+    "job_type": "6-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Aws Migration",
+      "Aws Cloudformation",
+      "aws migration tools",
+      "Aws Infrastructure",
+      "Aws Networking",
+      "AWS",
+      "Infrastructure",
+      "Networking"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-aws-migration-engineer-tata-consultancy-services-hyderabad-chennai-mumbai-all-areas-6-to-8-years-230626009294",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-24T04:09:45.897227Z"
+  },
+  {
+    "title": "MT New - Data Engineer - Consultant",
+    "company": "Accenture",
+    "location": "mumbai",
+    "job_type": "2-7 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "data engineer",
+      "storytelling",
+      "python",
+      "data analysis",
+      "data pipelines",
+      "power bi",
+      "media",
+      "digital advertising"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-mt-new-data-engineer-consultant-accenture-solutions-pvt-ltd-mumbai-2-to-7-years-230626926119",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-24T04:09:46.003431Z"
+  },
+  {
+    "title": "Grc Consultant",
+    "company": "Atos",
+    "location": "bengaluru, mumbai (all areas)",
+    "job_type": "8-12 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "PCI DSS",
+      "GRC",
+      "Implementation",
+      "IT Risk Management",
+      "Risk Governance",
+      "ISO 27001 2022",
+      "Risk Assessment",
+      "Nist"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-grc-consultant-atos-bengaluru-mumbai-all-areas-8-to-12-years-230626026713",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-24T04:09:46.210390Z"
+  },
+  {
+    "title": "Opportunity For Data Architect professionals",
+    "company": "Atos",
+    "location": "chennai, bengaluru, mumbai (all areas)",
+    "job_type": "10-15 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Data Architect",
+      "Data Modeling",
+      "Delta Lake",
+      "Spark",
+      "Modeling",
+      "Architecture",
+      "Delta",
+      "Data"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-opportunity-for-data-architect-professionals-atos-chennai-bengaluru-mumbai-all-areas-10-to-15-years-230626027913",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-24T04:09:46.311655Z"
+  },
+  {
+    "title": "Sugar CRM Developer",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, bengaluru, mumbai (all areas)",
+    "job_type": "4-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SugarCRM",
+      "Javascript",
+      "PLSQL",
+      "Development",
+      "Sugar",
+      "CRM"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-sugar-crm-developer-tata-consultancy-services-hyderabad-bengaluru-mumbai-all-areas-4-to-8-years-010626018139",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-24T04:09:46.584509Z"
+  },
+  {
+    "title": "IMU Sales Capture Senior Manager",
+    "company": "Accenture",
+    "location": "mumbai",
+    "job_type": "3-7 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "sales",
+      "client relationship management",
+      "c",
+      "deal structuring",
+      "relationship management",
+      "leadership",
+      "client relationship",
+      "Relationship"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-imu-sales-capture-senior-manager-accenture-solutions-pvt-ltd-mumbai-3-to-7-years-230626926051",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-24T04:09:46.777841Z"
+  },
+  {
+    "title": "ASSOCIATE CONSULTANT - Mainframe Tester",
+    "company": "Atos",
+    "location": "mumbai, navi mumbai",
+    "job_type": "3-6 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "VSAM",
+      "Telecom",
+      "JCL",
+      "Db2",
+      "REXX",
+      "Cics",
+      "Diversity and Inclusion",
+      "Cobol"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-associate-consultant-mainframe-tester-atos-pvt-ltd-mumbai-navi-mumbai-3-to-6-years-230626501487",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-24T04:09:46.883458Z"
   }
 ]
