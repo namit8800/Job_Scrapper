@@ -3242,5 +3242,137 @@
     "apply_link": "https://www.naukri.com/job-listings-associate-consultant-mainframe-tester-atos-pvt-ltd-navi-mumbai-3-to-6-years-240626500971",
     "source_platform": "Naukri",
     "scraped_at": "2026-06-24T10:57:51.150077Z"
+  },
+  {
+    "title": "Credit Underwriter | Cars24",
+    "company": "Cars24",
+    "location": "gurugram, bengaluru, mumbai (all areas)",
+    "job_type": "2-6 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Credit Underwriting",
+      "Credit Analysis",
+      "Credit Appraisal",
+      "Underwriting",
+      "Credit Assessment",
+      "CIBIL",
+      "Credit",
+      "Analysis"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-credit-underwriter-cars24-cars24-gurugram-bengaluru-mumbai-all-areas-2-to-6-years-080526030105",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-24T14:46:04.876278Z"
+  },
+  {
+    "title": "Java Spring Boot Developer",
+    "company": "Tata Consultancy Services",
+    "location": "mumbai, chennai, bengaluru",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Java",
+      "Spring Boot",
+      "Microservices",
+      "Rest",
+      "API",
+      "Backend Development",
+      "Java Spring Boot",
+      "Java Development"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-java-spring-boot-developer-tata-consultancy-services-mumbai-chennai-bengaluru-5-to-10-years-240626031326",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-24T14:46:05.190194Z"
+  },
+  {
+    "title": ".NET Azure Lead",
+    "company": "Hexaware Technologies",
+    "location": "hybrid - hyderabad, bengaluru, mumbai (all areas)",
+    "job_type": "12-16 Yrs",
+    "salary": "18-25 Lacs PA",
+    "salary_numeric": 2500000,
+    "skills_required": [
+      ".Net Core",
+      "Azure Services/ Functions",
+      "Azure Storage/ Azure Key Vault",
+      "Microservices",
+      "C#",
+      "Microsoft Azure",
+      "Azure Functions",
+      "Core"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-net-azure-lead-hexaware-technologies-hyderabad-bengaluru-mumbai-all-areas-12-to-16-years-240626026411",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-24T14:46:05.508415Z"
+  },
+  {
+    "title": "ACN GN-SONG-MT-Brand/Creative Strategy-Creative Director Copy- Manager",
+    "company": "Accenture",
+    "location": "mumbai",
+    "job_type": "10-14 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "linkedin ads",
+      "performance marketing",
+      "storytelling",
+      "project management",
+      "data analytics",
+      "ux",
+      "branding",
+      "graphic design"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-acn-gn-song-mt-brand-creative-strategy-creative-director-copy-manager-accenture-solutions-pvt-ltd-mumbai-10-to-14-years-240626929567",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-24T14:46:05.818778Z"
+  },
+  {
+    "title": "Senior Data Scientist",
+    "company": "Fractal Analytics",
+    "location": "mumbai, pune, chennai, gurugram, bengaluru",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Computer science",
+      "Team management",
+      "Linux",
+      "RF",
+      "Image processing",
+      "Analytical",
+      "Consulting",
+      "Machine learning"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-senior-data-scientist-fractal-analytics-ltd-mumbai-pune-chennai-gurugram-bengaluru-6-to-11-years-240626505665",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-24T14:46:05.919213Z"
+  },
+  {
+    "title": "Senior SCADA Engineer",
+    "company": "Capgemini",
+    "location": "navi mumbai",
+    "job_type": "4-9 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "plc",
+      "python",
+      "performance tuning",
+      "full stack development",
+      "scada",
+      "scripting",
+      "java",
+      "automation"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-senior-scada-engineer-capgemini-technology-services-india-limited-navi-mumbai-4-to-9-years-240626929386",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-24T14:46:06.380393Z"
   }
 ]
