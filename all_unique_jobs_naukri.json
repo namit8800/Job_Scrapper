@@ -3374,5 +3374,49 @@
     "apply_link": "https://www.naukri.com/job-listings-senior-scada-engineer-capgemini-technology-services-india-limited-navi-mumbai-4-to-9-years-240626929386",
     "source_platform": "Naukri",
     "scraped_at": "2026-06-24T14:46:06.380393Z"
+  },
+  {
+    "title": "QA Automation Engineer (Cypress)",
+    "company": "Tata Consultancy Services",
+    "location": "mumbai, new delhi, hyderabad",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Cypress",
+      "Jasmine",
+      "Automation Testing",
+      "Protractor",
+      "Webdriverio",
+      "Software testing",
+      "Automation",
+      "Quality assurance"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-qa-automation-engineer-cypress-tata-consultancy-services-mumbai-new-delhi-hyderabad-5-to-10-years-240626038797",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-24T18:02:29.232735Z"
+  },
+  {
+    "title": "Senior Python Full Stack Developer with Azure",
+    "company": "Tata Consultancy Services",
+    "location": "mumbai, hyderabad, gurugram",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Azure Devops",
+      "Python",
+      "SQL",
+      "Stack",
+      "Development",
+      "Full Stack",
+      "Devops",
+      "Microsoft Azure"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-senior-python-full-stack-developer-with-azure-tata-consultancy-services-mumbai-hyderabad-gurugram-5-to-10-years-240626038706",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-24T18:02:29.441225Z"
   }
 ]
