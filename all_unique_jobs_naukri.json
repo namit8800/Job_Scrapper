@@ -3474,5 +3474,157 @@
     "apply_link": "https://www.naukri.com/job-listings-opportunity-for-ca-freshers-in-transfer-pricing-ey-mumbai-pune-0-to-1-years-240626036671",
     "source_platform": "Naukri",
     "scraped_at": "2026-06-25T04:10:00.134585Z"
+  },
+  {
+    "title": "Clinical Data Specialist",
+    "company": "IQVIA",
+    "location": "hybrid - mumbai(thane west), hyderabad(serlingampally), bengaluru(marathahalli)",
+    "job_type": "1-6 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Rave",
+      "Clinical Data Management",
+      "Clinical Data",
+      "Data management",
+      "Management",
+      "Data",
+      "Clinical"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-clinical-data-specialist-iqvia-mumbai-hyderabad-bengaluru-1-to-6-years-250626013879",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-25T10:49:18.221677Z"
+  },
+  {
+    "title": "Analyst",
+    "company": "eClerx",
+    "location": "navi mumbai",
+    "job_type": "0-2 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "python",
+      "data analytics",
+      "data validation",
+      "bi",
+      "seismic",
+      "power bi",
+      "business analytics",
+      "monitoring"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-analyst-eclerx-navi-mumbai-0-to-2-years-250626017106",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-25T10:49:18.423573Z"
+  },
+  {
+    "title": "Edge Integration (AWS, Kubernetes, OpenShift)",
+    "company": "Tata Consultancy Services",
+    "location": "pune, bengaluru, mumbai (all areas)",
+    "job_type": "8-13 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "OpenShift",
+      "AWS",
+      "Kubernetes",
+      "Edge Integration Cell",
+      "Edge",
+      "Cell",
+      "Integration"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-edge-integration-aws-kubernetes-openshift-tata-consultancy-services-pune-bengaluru-mumbai-all-areas-8-to-13-years-250626014033",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-25T10:49:18.813674Z"
+  },
+  {
+    "title": "Java Full Stack Developer (Angular/React)",
+    "company": "Tata Consultancy Services",
+    "location": "mumbai, pune, bengaluru",
+    "job_type": "6-9 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Java",
+      "Spring Boot",
+      "React.Js",
+      "Angular",
+      "Stack",
+      "Spring",
+      "Development",
+      "Full Stack"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-java-full-stack-developer-angular-react-tata-consultancy-services-mumbai-pune-bengaluru-6-to-9-years-240626021621",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-25T10:49:18.914588Z"
+  },
+  {
+    "title": "Java Full Stack Developer (Java, React)",
+    "company": "Capgemini",
+    "location": "hybrid - bengaluru, mumbai (all areas)",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Reacts Js",
+      "Full Stack",
+      "Java Fullstack",
+      "React",
+      "Java",
+      "Fullstack Development",
+      "Spring Boot",
+      "React.Js"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-java-full-stack-developer-java-react-capgemini-bengaluru-mumbai-all-areas-6-to-11-years-301125004492",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-25T10:49:19.292608Z"
+  },
+  {
+    "title": "Senior Data Scientist",
+    "company": "Fractal Analytics",
+    "location": "mumbai",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Computer science",
+      "Team management",
+      "Linux",
+      "RF",
+      "Image processing",
+      "Analytical",
+      "Consulting",
+      "Machine learning"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-senior-data-scientist-fractal-analytics-ltd-mumbai-6-to-11-years-250626500477",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-25T10:49:19.392449Z"
+  },
+  {
+    "title": "Hiring Playwright Tester",
+    "company": "Hexaware Technologies",
+    "location": "chennai, bengaluru, mumbai (all areas)",
+    "job_type": "4-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Postman Api",
+      "Playwright",
+      "Playwright Automation",
+      "Software testing",
+      "Hiring",
+      "API",
+      "Postman",
+      "Automation"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-hiring-playwright-tester-hexaware-technologies-chennai-bengaluru-mumbai-all-areas-4-to-8-years-250626013910",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-25T10:49:19.585804Z"
   }
 ]
