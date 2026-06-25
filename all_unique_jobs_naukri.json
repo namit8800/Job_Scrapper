@@ -3626,5 +3626,93 @@
     "apply_link": "https://www.naukri.com/job-listings-hiring-playwright-tester-hexaware-technologies-chennai-bengaluru-mumbai-all-areas-4-to-8-years-250626013910",
     "source_platform": "Naukri",
     "scraped_at": "2026-06-25T10:49:19.585804Z"
+  },
+  {
+    "title": "C&B Advisor IV",
+    "company": "Hewlett Packard Enterprise",
+    "location": "mumbai",
+    "job_type": "10-15 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Change management",
+      "Excel",
+      "Performance management",
+      "Development Manager",
+      "Analytical",
+      "Social media",
+      "Consulting",
+      "Talent management"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-c-b-advisor-iv-hewlett-packard-enterprise-mumbai-10-to-15-years-250626504945",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-25T14:45:37.720584Z"
+  },
+  {
+    "title": "Opportunity For SAP BTP administration professionals",
+    "company": "Atos",
+    "location": "chennai, bengaluru, mumbai (all areas)",
+    "job_type": "9-14 Yrs",
+    "salary": "15-22.5 Lacs PA",
+    "salary_numeric": 2250000,
+    "skills_required": [
+      "Sap Btp",
+      "SAP BTP administration",
+      "SAP S/4HANA",
+      "Administration",
+      "SAP",
+      "SAP S Hana",
+      "S",
+      "Saps"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-opportunity-for-sap-btp-administration-professionals-atos-chennai-bengaluru-mumbai-all-areas-9-to-14-years-130426019100",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-25T14:45:37.820938Z"
+  },
+  {
+    "title": "Hiring Playwright Tester",
+    "company": "Hexaware Technologies",
+    "location": "chennai, bengaluru, mumbai (all areas)",
+    "job_type": "8-12 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Postman Api",
+      "Playwright",
+      "Playwright Automation",
+      "Automation",
+      "Software testing",
+      "Postman",
+      "API",
+      "Hiring"
+    ],
+    "posting_date": "Today",
+    "apply_link": "https://www.naukri.com/job-listings-hiring-playwright-tester-hexaware-technologies-chennai-bengaluru-mumbai-all-areas-8-to-12-years-250626013910",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-25T14:45:37.925528Z"
+  },
+  {
+    "title": "Experienced I Statistical Programmer",
+    "company": "Johnson & Johnson",
+    "location": "mumbai, hyderabad, bengaluru",
+    "job_type": "2-7 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Project management",
+      "Analytical",
+      "Pharma",
+      "Clinical trials",
+      "Clinical research",
+      "Healthcare",
+      "Principal",
+      "Monitoring"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-experienced-i-statistical-programmer-johnson-johnson-innovative-medicine-mumbai-hyderabad-bengaluru-2-to-7-years-250626503419",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-25T14:45:38.027404Z"
   }
 ]
