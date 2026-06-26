@@ -4011,5 +4011,93 @@
     "apply_link": "https://www.naukri.com/job-listings-experienced-i-statistical-programmer-johnson-johnson-innovative-medicine-mumbai-2-to-7-years-250626503419",
     "source_platform": "Naukri",
     "scraped_at": "2026-06-26T10:57:01.300482Z"
+  },
+  {
+    "title": "Relationship Associate - Bancassurance",
+    "company": "Axis Max Life Insurance",
+    "location": "mumbai, nagpur, thane, nashik, pune, aurangabad",
+    "job_type": "0-3 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "health insurance",
+      "customer service",
+      "general insurance sales",
+      "business development",
+      "sales",
+      "research",
+      "life insurance",
+      "sales management"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-relationship-associate-bancassurance-axis-max-life-insurance-limited-mumbai-nagpur-thane-nashik-pune-aurangabad-0-to-3-years-260626506647",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-26T14:38:13.252097Z"
+  },
+  {
+    "title": "Analyst",
+    "company": "eClerx",
+    "location": "mumbai",
+    "job_type": "1-3 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Computer science",
+      "Automation",
+      "Business analytics",
+      "Artificial Intelligence",
+      "Data quality",
+      "Data analytics",
+      "Analytics",
+      "Financial services"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-mumbai-1-to-3-years-260626505605",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-26T14:38:13.483871Z"
+  },
+  {
+    "title": "Ignition Scada Engineer",
+    "company": "Capgemini",
+    "location": "navi mumbai",
+    "job_type": "2-5 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Sql",
+      "Opc",
+      "Configuration",
+      "Api Integration",
+      "Scripting",
+      "Sdlc",
+      "Rest",
+      "Development"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-ignition-scada-engineer-capgemini-technology-services-india-limited-navi-mumbai-2-to-5-years-260626925576",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-26T14:38:14.403278Z"
+  },
+  {
+    "title": "Application Support Engineer (Investment Banking)",
+    "company": "Crisil Analytices",
+    "location": "mumbai, pune",
+    "job_type": "6-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Unix",
+      "Automation",
+      "Application support",
+      "Linux",
+      "Shell scripting",
+      "Incident management",
+      "Investment banking",
+      "Release management"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-application-support-engineer-investment-banking-crisil-analytices-mumbai-pune-6-to-10-years-260626503429",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-26T14:38:15.127518Z"
   }
 ]
