@@ -3926,5 +3926,90 @@
     "apply_link": "https://www.naukri.com/job-listings-workday-payroll-consultant-senior-associate-pwc-service-delivery-center-hyderabad-pune-bengaluru-4-to-9-years-250626002298",
     "source_platform": "Naukri",
     "scraped_at": "2026-06-26T04:16:56.425722Z"
+  },
+  {
+    "title": "TCS// Job Opening//Playwright Automation//6-12 Yrs",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, pune, bengaluru",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Playwright Automation",
+      "java",
+      "Selenium Automation",
+      "Automation",
+      "TCAE",
+      "Selenium"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-tcs-opening-playwright-automation-6-12-yrs-tata-consultancy-services-hyderabad-pune-bengaluru-6-to-11-years-260626016359",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-26T10:56:59.973142Z"
+  },
+  {
+    "title": "SAP Advanced Business Application Programming (ABAP) For non-HANA",
+    "company": "Tata Consultancy Services",
+    "location": "pune, bengaluru, mumbai (all areas)",
+    "job_type": "10-12 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "sap abap non hana",
+      "Implementation Cycle",
+      "Abap",
+      "SAP Hana",
+      "SAP ABAP",
+      "Programming",
+      "SAP Knowledge",
+      "Application"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-sap-advanced-business-application-programming-abap-for-non-hana-tata-consultancy-services-pune-bengaluru-mumbai-all-areas-10-to-12-years-160626008090",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-26T10:57:00.447656Z"
+  },
+  {
+    "title": "Hiring OpenText VIM",
+    "company": "Cognizant",
+    "location": "hyderabad, pune, bengaluru",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "OpenText VIM",
+      "Vim",
+      "Vendor Invoice Management",
+      "Invoicing",
+      "Management",
+      "Vendor",
+      "Hiring"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-hiring-opentext-vim-cognizant-hyderabad-pune-bengaluru-5-to-10-years-260626015667",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-26T10:57:00.836204Z"
+  },
+  {
+    "title": "Experienced I Statistical Programmer",
+    "company": "Johnson & Johnson",
+    "location": "mumbai",
+    "job_type": "2-7 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Project management",
+      "Analytical",
+      "Pharma",
+      "Clinical trials",
+      "Clinical research",
+      "Healthcare",
+      "Principal",
+      "Monitoring"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-experienced-i-statistical-programmer-johnson-johnson-innovative-medicine-mumbai-2-to-7-years-250626503419",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-26T10:57:01.300482Z"
   }
 ]
