@@ -6396,5 +6396,33 @@
     "source_platform": "Internshala",
     "duration": "N/A",
     "scraped_at": "2026-06-27T17:18:37.472034Z"
+  },
+  {
+    "title": "Graphic Design",
+    "company": "Curs",
+    "location": "ahmedabad",
+    "job_type": "Internship",
+    "salary": "\u20b9 2,000 - 3,000 /month",
+    "salary_numeric": 2000,
+    "skills_required": [],
+    "posting_date": "3 weeks ago",
+    "apply_link": "https://internshala.com/internship/detail/graphic-design-internship-in-ahmedabad-at-curs1780380600",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-06-27T21:12:13.324876Z"
+  },
+  {
+    "title": "Artificial Intelligence (AI)",
+    "company": "Unimonks",
+    "location": "gurgaon, delhi, noida",
+    "job_type": "Internship",
+    "salary": "\u20b9 4,000 - 13,000 /month",
+    "salary_numeric": 4000,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-multiple-locations-at-unimonks1782586206",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-06-27T21:12:13.621095Z"
   }
 ]
