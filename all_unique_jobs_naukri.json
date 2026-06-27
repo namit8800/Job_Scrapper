@@ -4142,5 +4142,113 @@
     "apply_link": "https://www.naukri.com/job-listings-customer-service-good-english-mandatory-voice-upto-25k-c-tech-mahindra-noida-hyderabad-mumbai-all-areas-0-to-5-years-010526015868",
     "source_platform": "Naukri",
     "scraped_at": "2026-06-26T21:24:24.257021Z"
+  },
+  {
+    "title": "SAP PAPM-6-15 Y-HYD-BLR-CHE-Pune-PWC AC",
+    "company": "PwC Service Delivery Center",
+    "location": "hyderabad, pune, bengaluru",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Profitability",
+      "Profitability Management",
+      "SAP PAPM",
+      "SAP",
+      "Ac",
+      "Management"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-sap-papm-6-15-y-hyd-blr-che-pune-pwc-ac-pwc-service-delivery-center-hyderabad-pune-bengaluru-6-to-11-years-260626022092",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-27T04:03:10.511858Z"
+  },
+  {
+    "title": "Reltio - AWS - Snowflake Engineer",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, pune, bengaluru",
+    "job_type": "5-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "MDM",
+      "Snowflake",
+      "AWS",
+      "Reltio",
+      "Data Warehousing",
+      "ETL",
+      "SQL",
+      "Data"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-reltio-aws-snowflake-engineer-tata-consultancy-services-hyderabad-pune-bengaluru-5-to-8-years-260626030494",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-27T04:03:11.211837Z"
+  },
+  {
+    "title": "Aero Engine Technical Author / Technical Publications Engineer",
+    "company": "Infosys",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "3-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Aerospace Documentation",
+      "Aero Engine Technical Author",
+      "Airworthiness Compliance",
+      "Technical Publications",
+      "Technical Documentation",
+      "Ste",
+      "iSpec2200",
+      "DFMEA"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-aero-engine-technical-author-technical-publications-engineer-infosys-hyderabad-pune-bengaluru-3-to-8-years-150626019379",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-27T04:03:11.403601Z"
+  },
+  {
+    "title": "Presales -Tech Infra -Pune/Bangalore/Mumbai/Chennai",
+    "company": "Larsen & Toubro (L&T)",
+    "location": "pune, chennai, bengaluru",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Presales",
+      "Technical Presales",
+      "It Presales",
+      "RFI",
+      "RFP",
+      "Technical analysis",
+      "Technical",
+      "Infrastructure"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-presales-tech-infra-pune-bangalore-mumbai-chennai-larsen-toubro-l-t-pune-chennai-bengaluru-5-to-10-years-260626028596",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-27T04:03:11.508406Z"
+  },
+  {
+    "title": "Presales -Semi conductor-Pune/Bangalore/Mumbai/Chennai",
+    "company": "Larsen & Toubro (L&T)",
+    "location": "pune, chennai, bengaluru",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Presales",
+      "VLSI",
+      "RFI",
+      "Embedded",
+      "Proposals",
+      "RFP",
+      "SEM",
+      "Embedded systems"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-presales-semi-conductor-pune-bangalore-mumbai-chennai-larsen-toubro-l-t-pune-chennai-bengaluru-5-to-10-years-260626028158",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-27T04:03:11.611294Z"
   }
 ]
