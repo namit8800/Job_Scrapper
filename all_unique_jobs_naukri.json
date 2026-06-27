@@ -4250,5 +4250,93 @@
     "apply_link": "https://www.naukri.com/job-listings-presales-semi-conductor-pune-bangalore-mumbai-chennai-larsen-toubro-l-t-pune-chennai-bengaluru-5-to-10-years-260626028158",
     "source_platform": "Naukri",
     "scraped_at": "2026-06-27T04:03:11.611294Z"
+  },
+  {
+    "title": "Relationship Associate - Bancassurance",
+    "company": "Axis Max Life Insurance",
+    "location": "mumbai, nagpur, thane, nashik, pune, aurangabad",
+    "job_type": "0-3 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "insurance",
+      "health insurance",
+      "customer service",
+      "general insurance sales",
+      "business development",
+      "sales",
+      "research",
+      "life insurance"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-relationship-associate-bancassurance-axis-max-life-insurance-limited-mumbai-nagpur-thane-nashik-pune-aurangabad-0-to-3-years-260626506643",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-27T10:16:17.623452Z"
+  },
+  {
+    "title": "Walk-in || Java Full Stack Developer",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, pune, chennai",
+    "job_type": "N/A",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Aws Cloud",
+      "Fullstack Development",
+      "Azure Cloud",
+      "Java",
+      "Angularjs",
+      "Javascript",
+      "HTML",
+      "React.Js"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-java-full-stack-developer-tata-consultancy-services-hyderabad-pune-chennai-4-to-9-years-270626002254",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-27T10:16:18.400351Z"
+  },
+  {
+    "title": "Azure cloud administration",
+    "company": "eLabs Infotech",
+    "location": "bengaluru, mumbai (all areas)",
+    "job_type": "7-12 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Azure cloud administration",
+      "Windows Server",
+      "IT Infrastructure Support",
+      "Linux Server",
+      "IT Infrastructure Management",
+      "Azure Paas",
+      "Azure Infrastructure",
+      "Azure Iaas"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-azure-cloud-administration-elabs-infotech-bengaluru-mumbai-all-areas-7-to-12-years-270626003035",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-27T10:16:18.801312Z"
+  },
+  {
+    "title": "Trino Administrator/Trino/Starburst Platform Admin",
+    "company": "Tata Consultancy Services",
+    "location": "hybrid - hyderabad, bengaluru, mumbai (all areas)",
+    "job_type": "6-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Trino Architecture",
+      "Trino",
+      "Monitoring & Troubleshooting",
+      "Performance Tuning",
+      "Linux/Cluster Admin",
+      "SQL Troubleshooting",
+      "Security -LDAP/Kerberos",
+      "Automation"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-trino-administrator-trino-starburst-platform-admin-tata-consultancy-services-hyderabad-bengaluru-mumbai-all-areas-6-to-10-years-270626005039",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-27T10:16:19.002478Z"
   }
 ]
