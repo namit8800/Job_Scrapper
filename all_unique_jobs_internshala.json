@@ -6522,5 +6522,33 @@
     "source_platform": "Internshala",
     "duration": "N/A",
     "scraped_at": "2026-06-28T10:32:05.311733Z"
+  },
+  {
+    "title": "Talent Acquisition",
+    "company": "Global Trend",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "\u20b9 7,000 /month",
+    "salary_numeric": 7000,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-talent-acquisition-internship-at-global-trend1782646057",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-06-28T14:03:30.361497Z"
+  },
+  {
+    "title": "Graphic Design",
+    "company": "Highway Delite",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "\u20b9 15,000 /month",
+    "salary_numeric": 15000,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-graphic-design-internship-at-highway-delite1782646270",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-06-28T14:03:30.440684Z"
   }
 ]
