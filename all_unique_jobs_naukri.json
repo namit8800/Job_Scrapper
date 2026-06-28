@@ -4681,5 +4681,111 @@
     "apply_link": "https://www.naukri.com/job-listings-sap-co-hana-professional-capgemini-mumbai-pune-bangalore-bengaluru-8-to-13-years-070426929891",
     "source_platform": "Naukri",
     "scraped_at": "2026-06-28T10:32:13.255592Z"
+  },
+  {
+    "title": "Java Technical Lead",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, pune, chennai",
+    "job_type": "8-13 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "java",
+      "Technical Leadership",
+      "Spring Boot",
+      "Boot",
+      "Technical",
+      "Leadership",
+      "Spring"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-java-technical-lead-tata-consultancy-services-hyderabad-pune-chennai-8-to-13-years-220626021462",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-28T17:20:46.262699Z"
+  },
+  {
+    "title": "React JS Developer",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, pune, chennai",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Reacts Js",
+      "Typescript",
+      "React Js Library",
+      "Javascript",
+      "React.Js",
+      "Js Libraries",
+      "Library",
+      "Development"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-react-js-developer-tata-consultancy-services-hyderabad-pune-chennai-6-to-11-years-150626010760",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-28T17:20:46.373363Z"
+  },
+  {
+    "title": "Senior Python Dev+ Azure",
+    "company": "Tata Consultancy Services",
+    "location": "gurugram, bengaluru, mumbai (all areas)",
+    "job_type": "7-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Azure Cloud",
+      "Python Development",
+      "Python",
+      "Cloud",
+      "Development",
+      "Senior",
+      "Microsoft Azure"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-senior-python-dev-azure-tata-consultancy-services-gurugram-bengaluru-mumbai-all-areas-7-to-11-years-130626013595",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-28T17:20:46.694537Z"
+  },
+  {
+    "title": "Python, PySpark, DBT",
+    "company": "Tata Consultancy Services",
+    "location": "pune, chennai, bengaluru",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Pyspark",
+      "Data Build Tool",
+      "Python",
+      "Build",
+      "Build Automation",
+      "Tools",
+      "Data"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-python-pyspark-dbt-tata-consultancy-services-pune-chennai-bengaluru-5-to-10-years-100626037264",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-28T17:20:47.008713Z"
+  },
+  {
+    "title": "GCP Data Engineer - BigQuery",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, pune, chennai",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Data Engineering",
+      "GCP",
+      "Bigquery",
+      "Gcp Bigquery",
+      "Gcp Dataflow",
+      "Data",
+      "Engineering"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-gcp-data-engineer-bigquery-tata-consultancy-services-hyderabad-pune-chennai-6-to-11-years-020626012291",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-28T17:20:47.542042Z"
   }
 ]
