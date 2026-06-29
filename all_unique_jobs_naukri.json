@@ -5379,5 +5379,71 @@
     "apply_link": "https://www.naukri.com/job-listings-java-microservices-spring-boot-and-camunda-support-tata-consultancy-services-chennai-bengaluru-mumbai-all-areas-5-to-10-years-290626010558",
     "source_platform": "Naukri",
     "scraped_at": "2026-06-29T12:40:42.617243Z"
+  },
+  {
+    "title": "IT Infrastructure",
+    "company": "DMart",
+    "location": "mumbai",
+    "job_type": "2-4 Yrs",
+    "salary": "2-4 Lacs PA",
+    "salary_numeric": 400000,
+    "skills_required": [
+      "Endpoint",
+      "Infrastructure",
+      "Patch Management",
+      "Infrastructure Management",
+      "Server Management",
+      "IT Infrastructure",
+      "IT Operations",
+      "Serv"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-it-infrastructure-dmart-mumbai-2-to-4-years-290626030770",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-29T18:13:21.585702Z"
+  },
+  {
+    "title": "Officer - Merchant Acquiring",
+    "company": "Bajaj Finance",
+    "location": "kolkata, pune, mumbai (all areas)",
+    "job_type": "0-3 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "MIS",
+      "Data Entry",
+      "Audit",
+      "Excel",
+      "Compliance",
+      "Documentation",
+      "Merchant acquiring",
+      "Auditing"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-officer-merchant-acquiring-bajaj-finance-kolkata-pune-mumbai-all-areas-0-to-3-years-290626032691",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-29T18:13:21.700239Z"
+  },
+  {
+    "title": "Officer/ Senior Officer - Merchant Acquiring",
+    "company": "Bajaj Finance",
+    "location": "kolkata, pune, mumbai (all areas)",
+    "job_type": "0-3 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "QR",
+      "sales",
+      "Team Handling",
+      "officer",
+      "Merchant Acquiring",
+      "senior officer",
+      "Acquisition",
+      "Merchant Onboarding"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-officer-senior-officer-merchant-acquiring-bajaj-finance-kolkata-pune-mumbai-all-areas-0-to-3-years-290626032649",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-29T18:13:21.870435Z"
   }
 ]
