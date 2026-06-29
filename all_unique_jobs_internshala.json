@@ -7656,5 +7656,61 @@
     "source_platform": "Internshala",
     "duration": "N/A",
     "scraped_at": "2026-06-29T18:13:06.942505Z"
+  },
+  {
+    "title": "Graphic Design",
+    "company": "InAmigos Foundation",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "Unpaid",
+    "salary_numeric": null,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-graphic-design-internship-at-inamigos-foundation1782727349",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-06-29T21:39:56.473956Z"
+  },
+  {
+    "title": "Digital Marketing",
+    "company": "InAmigos Foundation",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "Unpaid",
+    "salary_numeric": null,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-digital-marketing-internship-at-inamigos-foundation1782727365",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-06-29T21:39:56.832770Z"
+  },
+  {
+    "title": "Sales and Marketing",
+    "company": "BuildX Labs",
+    "location": "raipur, naya raipur",
+    "job_type": "Internship",
+    "salary": "\u20b9 2,000 - 5,000 /month",
+    "salary_numeric": 2000,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/sales-and-marketing-internship-in-multiple-locations-at-buildx-labs1782760428",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-06-29T21:39:56.981764Z"
+  },
+  {
+    "title": "AI Agent Development",
+    "company": "PropYaar",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "\u20b9 5,000 - 6,000 /month",
+    "salary_numeric": 5000,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-ai-agent-development-internship-at-propyaar1782760729",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-06-29T21:39:57.320442Z"
   }
 ]
