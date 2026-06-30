@@ -5707,5 +5707,93 @@
     "apply_link": "https://www.naukri.com/job-listings-senior-ibm-mq-administration-atos-chennai-bengaluru-mumbai-all-areas-8-to-13-years-300626002525",
     "source_platform": "Naukri",
     "scraped_at": "2026-06-30T11:15:51.238365Z"
+  },
+  {
+    "title": "Solution Architect",
+    "company": "Capgemini",
+    "location": "hyderabad, bengaluru, mumbai (all areas)",
+    "job_type": "12-18 Yrs",
+    "salary": "25-40 Lacs PA",
+    "salary_numeric": 4000000,
+    "skills_required": [
+      "GenAi",
+      "GCP",
+      "Presales",
+      "GCP Presales",
+      "RFI",
+      "Google Cloud Platforms",
+      "Solutioning",
+      "RFP"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-solution-architect-capgemini-hyderabad-bengaluru-mumbai-all-areas-12-to-18-years-300626034552",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-30T14:33:06.688281Z"
+  },
+  {
+    "title": "Senior Azure Data Engineer",
+    "company": "Fractal Analytics",
+    "location": "noida, mumbai, hyderabad, pune, gurugram, chennai, coimbatore, bengaluru",
+    "job_type": "6-9 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Usage",
+      "devops",
+      "Infrastructure",
+      "Database",
+      "Data processing",
+      "Data quality",
+      "Management",
+      "Distribution system"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-senior-azure-data-engineer-fractal-analytics-ltd-noida-mumbai-hyderabad-pune-gurugram-chennai-coimbatore-bengaluru-6-to-9-years-300626504629",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-30T14:33:07.057016Z"
+  },
+  {
+    "title": "S&C GN - Tech Strategy & Advisory - Data Strategy - Manager",
+    "company": "Accenture",
+    "location": "mumbai, gurugram, bengaluru",
+    "job_type": "10-13 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Data Strategy",
+      "Technology Infrastructure Assessment",
+      "IT Due Diligence",
+      "Strategy Consulting",
+      "IT implementation",
+      "Cloud Transformation",
+      "Technology Strategy",
+      "Due diligence"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-s-c-gn-tech-strategy-advisory-data-strategy-manager-accenture-solutions-pvt-ltd-mumbai-gurugram-bengaluru-10-to-13-years-300626926654",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-30T14:33:07.156440Z"
+  },
+  {
+    "title": "Opportunity For Salesforce Developer -Immediate Joiner",
+    "company": "Atos",
+    "location": "chennai, bengaluru, mumbai (all areas)",
+    "job_type": "6-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Lwc",
+      "Salesforce",
+      "SFDC",
+      "Lightning",
+      "Aura",
+      "Apex",
+      "Sales force development",
+      "Development"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-opportunity-for-salesforce-developer-immediate-joiner-atos-chennai-bengaluru-mumbai-all-areas-6-to-10-years-300626031336",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-30T14:33:07.251005Z"
   }
 ]
