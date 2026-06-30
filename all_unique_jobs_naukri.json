@@ -5795,5 +5795,87 @@
     "apply_link": "https://www.naukri.com/job-listings-opportunity-for-salesforce-developer-immediate-joiner-atos-chennai-bengaluru-mumbai-all-areas-6-to-10-years-300626031336",
     "source_platform": "Naukri",
     "scraped_at": "2026-06-30T14:33:07.251005Z"
+  },
+  {
+    "title": "Python developer( SQL, REST API, ETL) - Virtual Interview - 31 Dec",
+    "company": "Tata Consultancy Services",
+    "location": "kolkata, bengaluru, mumbai (all areas)",
+    "job_type": "4-9 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "API",
+      "Python",
+      "SQL",
+      "Rest",
+      "Python Development",
+      "Interviewing",
+      "DEC",
+      "ETL"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-python-developer-sql-rest-api-etl-virtual-interview-31-dec-tata-consultancy-services-kolkata-bengaluru-mumbai-all-areas-4-to-9-years-291225014397",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-30T18:04:20.669343Z"
+  },
+  {
+    "title": "Python Developer",
+    "company": "Hexaware Technologies",
+    "location": "pune, bengaluru, mumbai (all areas)",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "python Developer",
+      "Perl",
+      "Python Development",
+      "Development",
+      "Python"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-python-developer-hexaware-technologies-pune-bengaluru-mumbai-all-areas-5-to-10-years-300626036885",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-30T18:04:20.960269Z"
+  },
+  {
+    "title": "Vue.Js Developer",
+    "company": "Tata Consultancy Services",
+    "location": "mumbai, new delhi, hyderabad",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Vue.js",
+      "Vuejs Framework",
+      "Vuex",
+      "Framework",
+      "Development"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-vue-js-developer-tata-consultancy-services-mumbai-new-delhi-hyderabad-5-to-10-years-300626037472",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-30T18:04:21.343488Z"
+  },
+  {
+    "title": "Sr Manager - Enterprise Sales (Bangalore / Noida / Mumbai)",
+    "company": "Delhivery",
+    "location": "noida, bengaluru, mumbai (all areas)",
+    "job_type": "7-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "New Client Acquisition",
+      "Enterprise Sales",
+      "Corporate Sales",
+      "Corporate Selling",
+      "B2B",
+      "Key Account Management",
+      "B2B Sales",
+      "Retention"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-sr-manager-enterprise-sales-bangalore-noida-mumbai-delhivery-noida-bengaluru-mumbai-all-areas-7-to-10-years-300626037796",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-06-30T18:04:21.640473Z"
   }
 ]
