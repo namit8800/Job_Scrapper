@@ -6004,5 +6004,27 @@
     "apply_link": "https://www.naukri.com/job-listings-databricks-developer-tata-consultancy-services-pune-chennai-mumbai-all-areas-4-to-9-years-050526026310",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-01T11:30:31.480472Z"
+  },
+  {
+    "title": "Java Full Stack Lead",
+    "company": "Hexaware Technologies",
+    "location": "hybrid - pune, chennai, mumbai (all areas)",
+    "job_type": "8-12 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Java",
+      "S3",
+      "EC2",
+      "Spring Boot",
+      "react",
+      "Java Fullstack",
+      "AWS",
+      "Lambda"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-java-full-stack-lead-hexaware-technologies-pune-chennai-mumbai-all-areas-8-to-12-years-010226004753",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-01T21:42:34.340055Z"
   }
 ]
