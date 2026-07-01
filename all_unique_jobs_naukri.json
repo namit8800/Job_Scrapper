@@ -5921,5 +5921,88 @@
     "apply_link": "https://www.naukri.com/job-listings-s-c-global-network-ai-supply-chain-analytics-consultant-accenture-solutions-pvt-ltd-mumbai-5-to-6-years-300626927426",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-01T04:27:33.946559Z"
+  },
+  {
+    "title": "Senior SAP Service Delivery Manager",
+    "company": "Tech Mahindra",
+    "location": "hybrid - hyderabad, bengaluru, mumbai (all areas)",
+    "job_type": "15-24 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SAP",
+      "SAP ERP Implementation",
+      "Service Delivery Management",
+      "IT Service Delivery",
+      "Delivery Management",
+      "IT services",
+      "Management",
+      "SAP ERP"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-senior-sap-service-delivery-manager-tech-mahindra-hyderabad-bengaluru-mumbai-all-areas-15-to-24-years-190326023800",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-01T11:30:30.675717Z"
+  },
+  {
+    "title": "Business Development Executive",
+    "company": "Schneider Electric",
+    "location": "mumbai, bangalore rural, bengaluru",
+    "job_type": "1-6 Yrs",
+    "salary": "5-10 Lacs PA",
+    "salary_numeric": 1000000,
+    "skills_required": [
+      "Architect",
+      "Sales",
+      "Architecture",
+      "Business development",
+      "Development"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-business-development-executive-schneider-electric-mumbai-bangalore-rural-bengaluru-1-to-6-years-010726017859",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-01T11:30:30.763633Z"
+  },
+  {
+    "title": "python developer",
+    "company": "Tata Consultancy Services",
+    "location": "chennai, bengaluru, mumbai (all areas)",
+    "job_type": "6-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Java",
+      "Python",
+      "Data Science",
+      "Django",
+      "Development",
+      "Python Development",
+      "Data",
+      "Science"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-python-developer-tata-consultancy-services-chennai-bengaluru-mumbai-all-areas-6-to-8-years-260326016159",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-01T11:30:30.863898Z"
+  },
+  {
+    "title": "Databricks Developer",
+    "company": "Tata Consultancy Services",
+    "location": "pune, chennai, mumbai (all areas)",
+    "job_type": "4-9 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Spark",
+      "Data Bricks",
+      "SCALA",
+      "Bricks",
+      "Development",
+      "Data"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-databricks-developer-tata-consultancy-services-pune-chennai-mumbai-all-areas-4-to-9-years-050526026310",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-01T11:30:31.480472Z"
   }
 ]
