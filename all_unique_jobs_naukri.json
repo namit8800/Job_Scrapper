@@ -5877,5 +5877,49 @@
     "apply_link": "https://www.naukri.com/job-listings-sr-manager-enterprise-sales-bangalore-noida-mumbai-delhivery-noida-bengaluru-mumbai-all-areas-7-to-10-years-300626037796",
     "source_platform": "Naukri",
     "scraped_at": "2026-06-30T18:04:21.640473Z"
+  },
+  {
+    "title": "CFO&EV -Finance Risk & Compliance Operations Professional -CL9",
+    "company": "Accenture",
+    "location": "mumbai",
+    "job_type": "3-7 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "risk management",
+      "risk modeling",
+      "regulatory",
+      "presentation skills",
+      "business acumen",
+      "frm",
+      "project management",
+      "credit risk"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-cfo-ev-finance-risk-compliance-operations-professional-cl9-accenture-solutions-pvt-ltd-mumbai-3-to-7-years-300626927405",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-01T04:27:33.017153Z"
+  },
+  {
+    "title": "S&C Global Network - AI - Supply Chain Analytics - Consultant",
+    "company": "Accenture",
+    "location": "mumbai",
+    "job_type": "5-6 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "python",
+      "pyspark",
+      "sql",
+      "gcp",
+      "aws",
+      "anaplan",
+      "supply chain",
+      "data manipulation"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-s-c-global-network-ai-supply-chain-analytics-consultant-accenture-solutions-pvt-ltd-mumbai-5-to-6-years-300626927426",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-01T04:27:33.946559Z"
   }
 ]
