@@ -9196,5 +9196,47 @@
     "source_platform": "Internshala",
     "duration": "N/A",
     "scraped_at": "2026-07-01T14:50:25.169847Z"
+  },
+  {
+    "title": "Finance",
+    "company": "QuickHyre",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "\u20b9 40,000 - 50,000 /month",
+    "salary_numeric": 40000,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-finance-internship-at-quickhyre1782926444",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-07-01T18:04:30.179338Z"
+  },
+  {
+    "title": "Data Science",
+    "company": "QuickHyre",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "\u20b9 50,000 - 75,000 /month",
+    "salary_numeric": 50000,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-data-science-internship-at-quickhyre1782925102",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-07-01T18:04:30.670051Z"
+  },
+  {
+    "title": "Video Editing/Making",
+    "company": "Rahul Sir Classes",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "\u20b9 4,000 /month",
+    "salary_numeric": 4000,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-video-editing-making-internship-at-rahul-sir-classes1782922175",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-07-01T18:04:31.290889Z"
   }
 ]
