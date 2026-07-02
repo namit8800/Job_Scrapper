@@ -6439,5 +6439,27 @@
     "apply_link": "https://www.naukri.com/job-listings-international-voice-process-executive-trigent-software-pune-bengaluru-mumbai-all-areas-0-to-0-years-020726018765",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-02T14:19:22.448974Z"
+  },
+  {
+    "title": "Data Scientist AIML",
+    "company": "Tata Consultancy Services",
+    "location": "gurugram, mumbai (all areas)",
+    "job_type": "5-10 Yrs",
+    "salary": "15-27.5 Lacs PA",
+    "salary_numeric": 2750000,
+    "skills_required": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Deep Learning",
+      "Python",
+      "Data Science",
+      "Pytorch",
+      "generative ai",
+      "Large Language Model"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-data-scientist-aiml-tata-consultancy-services-gurugram-mumbai-all-areas-5-to-10-years-020726026035",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-02T17:57:25.251092Z"
   }
 ]
