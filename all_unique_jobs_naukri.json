@@ -6609,5 +6609,71 @@
     "apply_link": "https://www.naukri.com/job-listings-oracle-epm-consultant-fccs-and-arcs-pwc-service-delivery-center-hyderabad-pune-bengaluru-10-to-15-years-230626008712",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-03T03:52:51.919713Z"
+  },
+  {
+    "title": "Tcs Virtual Interview on 10th July 26 For SAP ABAP consultant",
+    "company": "Tata Consultancy Services",
+    "location": "bengaluru, mumbai (all areas)",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "OData Services",
+      "CDS Views",
+      "SAP ABAP Development",
+      "SAP S/4HANA",
+      "RICEF Objects",
+      "Interfaces",
+      "Forms",
+      "Conversions"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-tcs-virtual-interview-on-10th-july-26-for-sap-abap-consultant-tata-consultancy-services-bengaluru-mumbai-all-areas-5-to-10-years-020726007033",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-03T07:30:07.985113Z"
+  },
+  {
+    "title": "AWS Cloud ,Terraform,Python, S3, Athena, CloudWatch, Cloudtrail,RDS",
+    "company": "Cognizant",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Cloud Trail",
+      "Terraform",
+      "AWS Cloud",
+      "Amazon RDS",
+      "Python",
+      "S",
+      "Cloud",
+      "Amazon Cloudwatch"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-aws-cloud-terraform-python-s3-athena-cloudwatch-cloudtrail-rds-cognizant-hyderabad-pune-bengaluru-6-to-11-years-170626020897",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-03T07:30:08.691988Z"
+  },
+  {
+    "title": ".NET React.js Developer",
+    "company": "Hexaware Technologies",
+    "location": "hybrid - noida, bengaluru, mumbai (all areas)",
+    "job_type": "6-11 Yrs",
+    "salary": "10-18 Lacs PA",
+    "salary_numeric": 1800000,
+    "skills_required": [
+      "React Hook/ Redux",
+      "React.js",
+      "Microservices",
+      ".NET Core",
+      "SQL",
+      "C#",
+      "Web API",
+      "Redux"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-net-react-js-developer-hexaware-technologies-noida-bengaluru-mumbai-all-areas-6-to-11-years-030726012118",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-03T07:30:08.943409Z"
   }
 ]
