@@ -11576,5 +11576,61 @@
     "source_platform": "Internshala",
     "duration": "N/A",
     "scraped_at": "2026-07-03T17:40:00.097199Z"
+  },
+  {
+    "title": "AI Data Analytics",
+    "company": "InAmigos Foundation",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "Unpaid",
+    "salary_numeric": null,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-ai-data-analytics-internship-at-inamigos-foundation1783071935",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-07-03T21:15:08.192952Z"
+  },
+  {
+    "title": "AI Web Development",
+    "company": "InAmigos Foundation",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "Unpaid",
+    "salary_numeric": null,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1783071903",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-07-03T21:15:08.411650Z"
+  },
+  {
+    "title": "Social Media Marketing",
+    "company": "Not That High",
+    "location": "indore",
+    "job_type": "Internship",
+    "salary": "\u20b9 4,999 - 14,999 /month",
+    "salary_numeric": 4999,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/social-media-marketing-internship-in-indore-at-not-that-high1783108806",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-07-03T21:15:08.476098Z"
+  },
+  {
+    "title": "Marketing",
+    "company": "Cartrends",
+    "location": "delhi",
+    "job_type": "Internship",
+    "salary": "\u20b9 5,000 - 13,000 /month",
+    "salary_numeric": 5000,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/marketing-internship-in-delhi-at-cartrends1783102169",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-07-03T21:15:08.689273Z"
   }
 ]
