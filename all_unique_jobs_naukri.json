@@ -6828,5 +6828,26 @@
     "apply_link": "https://www.naukri.com/job-listings-sap-successfactors-rcm-ntt-data-business-solutions-mumbai-hyderabad-bengaluru-6-to-10-years-150426024238",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-03T14:23:44.282671Z"
+  },
+  {
+    "title": "SharePoint Developer",
+    "company": "Tata Consultancy Services",
+    "location": "mumbai, chennai, bengaluru",
+    "job_type": "4-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Azure PaaS",
+      "SharePoint Development",
+      "Powerapps",
+      "Microsoft Azure",
+      "PAAS",
+      "Sharepoint",
+      "Development"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-sharepoint-developer-tata-consultancy-services-mumbai-chennai-bengaluru-4-to-8-years-030726032466",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-03T17:40:09.042448Z"
   }
 ]
