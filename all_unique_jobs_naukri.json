@@ -6849,5 +6849,27 @@
     "apply_link": "https://www.naukri.com/job-listings-sharepoint-developer-tata-consultancy-services-mumbai-chennai-bengaluru-4-to-8-years-030726032466",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-03T17:40:09.042448Z"
+  },
+  {
+    "title": "Mainframe Architect",
+    "company": "Hexaware Technologies",
+    "location": "hybrid - chennai, bengaluru, mumbai (all areas)",
+    "job_type": "9-14 Yrs",
+    "salary": "20-35 Lacs PA",
+    "salary_numeric": 3500000,
+    "skills_required": [
+      "Mainframes",
+      "Modernization",
+      "VSAM",
+      "IDMS",
+      "SAS",
+      "Data Structures",
+      "Datacom",
+      "DFSORT"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-mainframe-architect-hexaware-technologies-chennai-bengaluru-mumbai-all-areas-9-to-14-years-061025001408",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-03T21:15:21.780437Z"
   }
 ]
