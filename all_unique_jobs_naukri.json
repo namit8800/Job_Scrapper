@@ -6981,5 +6981,49 @@
     "apply_link": "https://www.naukri.com/job-listings-tableau-developer-manager-pwc-service-delivery-center-hyderabad-pune-bengaluru-12-to-20-years-030726013905",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-04T03:45:27.038391Z"
+  },
+  {
+    "title": "Human Resource Executive- Pune/Mumbai",
+    "company": "BOMBAY INTELLIGENCE SECURITY (BIS)",
+    "location": "nashik, pune, mumbai (all areas)",
+    "job_type": "3-8 Yrs",
+    "salary": "3-5 Lacs PA",
+    "salary_numeric": 500000,
+    "skills_required": [
+      "HR Compliance",
+      "HR Administration",
+      "HR Operations",
+      "Hrsd",
+      "Administration",
+      "Compliance",
+      "Resource",
+      "Operations"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-human-resource-executive-pune-mumbai-bombay-intelligence-security-bis-nashik-pune-mumbai-all-areas-3-to-8-years-011225010676",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-04T10:18:31.202626Z"
+  },
+  {
+    "title": "Deputy Sales Manager",
+    "company": "Bajaj Finance",
+    "location": "hyderabad, pune, bengaluru",
+    "job_type": "1-6 Yrs",
+    "salary": "3-6 Lacs PA",
+    "salary_numeric": 600000,
+    "skills_required": [
+      "Loan Sales",
+      "Group Sales",
+      "Education Loan",
+      "Business Loan",
+      "Microfinance",
+      "Personal Loans",
+      "sales",
+      "Unsecured Loans"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-deputy-sales-manager-bajaj-finance-hyderabad-pune-bengaluru-1-to-6-years-040726011106",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-04T10:18:31.382239Z"
   }
 ]
