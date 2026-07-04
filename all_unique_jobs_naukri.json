@@ -7025,5 +7025,27 @@
     "apply_link": "https://www.naukri.com/job-listings-deputy-sales-manager-bajaj-finance-hyderabad-pune-bengaluru-1-to-6-years-040726011106",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-04T10:18:31.382239Z"
+  },
+  {
+    "title": "Graph DBA",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, bengaluru, mumbai (all areas)",
+    "job_type": "6-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Data Modeling -Graph Data Modeling",
+      "Linux / Unix Administration",
+      "Graph Databases -Neo4j / TigerGraph / Amazon Neptune / JanusGraph",
+      "Graph Query Languages Cypher / Gremlin / SPARQL",
+      "Backup/Restore",
+      "Basic scripting Shell / Python",
+      "Performance Monitoring",
+      "Backup"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-graph-dba-tata-consultancy-services-hyderabad-bengaluru-mumbai-all-areas-6-to-10-years-040726015292",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-04T13:48:35.570405Z"
   }
 ]
