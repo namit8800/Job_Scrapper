@@ -12234,5 +12234,33 @@
     "source_platform": "Internshala",
     "duration": "N/A",
     "scraped_at": "2026-07-05T10:23:24.454783Z"
+  },
+  {
+    "title": "Marketing",
+    "company": "Kapil Chhabra",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "\u20b9 3,600 - 5,100 /month",
+    "salary_numeric": 3600,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-part-time-marketing-internship-at-kapil-chhabra1783255243",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-07-05T13:54:23.338466Z"
+  },
+  {
+    "title": "Cinematography",
+    "company": "Pentaomnia Private Limited",
+    "location": "jalandhar",
+    "job_type": "Internship",
+    "salary": "\u20b9 15,000 - 30,000 /month",
+    "salary_numeric": 15000,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/cinematography-internship-in-jalandhar-at-pentaomnia-private-limited1783247909",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-07-05T13:54:23.958118Z"
   }
 ]
