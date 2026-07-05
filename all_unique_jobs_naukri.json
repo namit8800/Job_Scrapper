@@ -7472,5 +7472,91 @@
     "apply_link": "https://www.naukri.com/job-listings-salesforce-architect-tata-consultancy-services-hyderabad-pune-bengaluru-10-to-15-years-050726004822",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-05T17:19:29.423113Z"
+  },
+  {
+    "title": "Training Manager",
+    "company": "Ireed Academy (india)",
+    "location": "noida, kolkata, new delhi, hyderabad, pune, faridabad, gurugram, bengaluru, mumbai (all areas)",
+    "job_type": "0-5 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Training Management",
+      "Soft Skills",
+      "Process Training",
+      "Behavioural Training",
+      "Learning and Development",
+      "Technical Training",
+      "Sales Training",
+      "Training"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-training-manager-ireed-academy-india-noida-kolkata-new-delhi-hyderabad-pune-faridabad-gurugram-bengaluru-mumbai-all-areas-0-to-5-years-050726005366",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-05T21:10:10.979393Z"
+  },
+  {
+    "title": "Mainframe Developer",
+    "company": "Tata Consultancy Services",
+    "location": "mumbai, pune, chennai",
+    "job_type": "6-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Mainframe DB2",
+      "Cobol",
+      "IBM DB2",
+      "Mainframes",
+      "Development",
+      "Mainframe Production Support",
+      "DBMS"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-mainframe-developer-tata-consultancy-services-mumbai-pune-chennai-6-to-8-years-050726005304",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-05T21:10:11.058308Z"
+  },
+  {
+    "title": "Java Developer",
+    "company": "Tata Consultancy Services",
+    "location": "mumbai, pune, chennai",
+    "job_type": "6-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Java",
+      "Spring Boot",
+      "Microservices",
+      "Java Development",
+      "Boot",
+      "Spring",
+      "Development"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-java-developer-tata-consultancy-services-mumbai-pune-chennai-6-to-8-years-050726005308",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-05T21:10:11.141270Z"
+  },
+  {
+    "title": "SAP EWM Architect- Pune/Mumbai/Hyderabad/Bangalore/Chennai/Kolkata/NCR",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, pune, bengaluru",
+    "job_type": "10-16 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SAP Extended Warehouse Management",
+      "S4H",
+      "SAP EWM",
+      "EWM",
+      "Inbound",
+      "Outbound",
+      "SAP",
+      "Ncr"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-sap-ewm-architect-pune-mumbai-hyderabad-bangalore-chennai-kolkata-ncr-tata-consultancy-services-hyderabad-pune-bengaluru-10-to-16-years-060126036041",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-05T21:10:11.222035Z"
   }
 ]
