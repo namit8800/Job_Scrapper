@@ -12262,5 +12262,61 @@
     "source_platform": "Internshala",
     "duration": "N/A",
     "scraped_at": "2026-07-05T13:54:23.958118Z"
+  },
+  {
+    "title": "General Management",
+    "company": "Simtrak",
+    "location": "kolkata",
+    "job_type": "Internship",
+    "salary": "\u20b9 4,000 /month",
+    "salary_numeric": 4000,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/general-management-internship-in-kolkata-at-simtrak1783258691",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-07-05T17:19:21.023155Z"
+  },
+  {
+    "title": "Business Development (Sales)",
+    "company": "Buzdealz Ventures Private Limited",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "\u20b9 1,000 - 1,500 /week",
+    "salary_numeric": 1000,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-business-development-sales-internship-at-buzdealz-ventures-private-limited1783263284",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-07-05T17:19:22.267692Z"
+  },
+  {
+    "title": "Human Resources (HR)",
+    "company": "ADORE",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "Unpaid",
+    "salary_numeric": null,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-human-resources-hr-internship-at-adore1783259623",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-07-05T17:19:22.873439Z"
+  },
+  {
+    "title": "Teaching",
+    "company": "ADORE",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "Unpaid",
+    "salary_numeric": null,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-teaching-internship-at-adore1783259594",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-07-05T17:19:22.930408Z"
   }
 ]
