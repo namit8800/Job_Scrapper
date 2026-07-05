@@ -7412,5 +7412,65 @@
     "apply_link": "https://www.naukri.com/job-listings-windchill-developer-tata-consultancy-services-hyderabad-pune-bengaluru-2-to-7-years-090326017242",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-05T13:54:31.919299Z"
+  },
+  {
+    "title": "Field Verification Associate",
+    "company": "Muthoot Finance",
+    "location": "vijayawada, warangal, nizamabad",
+    "job_type": "0-3 Yrs",
+    "salary": "3-4.5 Lacs PA",
+    "salary_numeric": 450000,
+    "skills_required": [
+      "Army Retired",
+      "Field",
+      "Field Verification",
+      "Verification"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-field-verification-associate-muthoot-finance-vijayawada-warangal-nizamabad-0-to-3-years-110526007687",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-05T17:19:28.368334Z"
+  },
+  {
+    "title": "SAP Performance Engineer",
+    "company": "Tata Consultancy Services",
+    "location": "noida, pune, bengaluru",
+    "job_type": "8-13 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Performance Testing",
+      "Load Runner",
+      "SAP",
+      "SAP PE",
+      "JMeter",
+      "SAP GUI",
+      "Performance engineering",
+      "GUI"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-sap-performance-engineer-tata-consultancy-services-noida-pune-bengaluru-8-to-13-years-050726004814",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-05T17:19:29.350367Z"
+  },
+  {
+    "title": "Salesforce Architect",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, pune, bengaluru",
+    "job_type": "10-15 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "salesforce architect",
+      "Lwc",
+      "Apex",
+      "Salesforce",
+      "SFDC",
+      "Architecture"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-salesforce-architect-tata-consultancy-services-hyderabad-pune-bengaluru-10-to-15-years-050726004822",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-05T17:19:29.423113Z"
   }
 ]
