@@ -8373,5 +8373,71 @@
     "apply_link": "https://www.naukri.com/job-listings-workday-integration-engineer-with-studio-experience-atos-chennai-bengaluru-mumbai-all-areas-5-to-10-years-070726018955",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-07T11:15:21.210830Z"
+  },
+  {
+    "title": "SONG - Service - Genesys - Associate Manager",
+    "company": "Accenture",
+    "location": "mumbai",
+    "job_type": "2-7 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Non Voice",
+      "Business Intelligence",
+      "Azure",
+      "Customer Service",
+      "Enterprise Systems",
+      "Architecture",
+      "Servicenow",
+      "Ai"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-song-service-genesys-associate-manager-accenture-solutions-pvt-ltd-mumbai-2-to-7-years-070726922665",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-07T14:52:03.962387Z"
+  },
+  {
+    "title": "Azure Devops Engineer",
+    "company": "Tata Consultancy Services",
+    "location": "mumbai, hyderabad, bengaluru",
+    "job_type": "4-8 Yrs",
+    "salary": "4-9 Lacs PA",
+    "salary_numeric": 900000,
+    "skills_required": [
+      "Terraform",
+      "Azure DevOps",
+      "CI CD Pipeline",
+      "Ansible",
+      "Ci/Cd",
+      "Python",
+      "Devops",
+      "Pipeline"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-azure-devops-engineer-tata-consultancy-services-mumbai-hyderabad-bengaluru-4-to-8-years-070726033685",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-07T14:52:04.517126Z"
+  },
+  {
+    "title": "Associate Director-Mid Corporates Business Development (Blore/ Mum)",
+    "company": "Leading Rating Agency",
+    "location": "bengaluru, mumbai (all areas)",
+    "job_type": "9-14 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Key Accounts",
+      "Corporate Business Development",
+      "Mid Corporate Banking",
+      "Sales Strategy",
+      "B2B Sales",
+      "BFSI Sales",
+      "Sales",
+      "B2B"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-associate-director-mid-corporates-business-development-blore-mum-vertex-corporate-bengaluru-mumbai-all-areas-9-to-14-years-031125013318",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-07T14:52:04.601644Z"
   }
 ]
