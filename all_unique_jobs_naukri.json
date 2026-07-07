@@ -8184,5 +8184,49 @@
     "apply_link": "https://www.naukri.com/job-listings-acn-gn-t-o-instructional-design-consultant-accenture-solutions-pvt-ltd-mumbai-6-to-8-years-060726921664",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-06T18:16:09.139331Z"
+  },
+  {
+    "title": "elastic path",
+    "company": "Tata Consultancy Services",
+    "location": "hybrid - hyderabad, bengaluru, mumbai (all areas)",
+    "job_type": "3-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "JAVA",
+      "JSP/ Servlets/ Filters",
+      "Spring",
+      "Cortex Resources",
+      "Elastic Path 7",
+      "API Management Concepts",
+      "B2B/B2C Commerce",
+      "XSLT"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-elastic-path-tata-consultancy-services-hyderabad-bengaluru-mumbai-all-areas-3-to-8-years-070726001156",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-07T04:01:15.382556Z"
+  },
+  {
+    "title": "Sap Gts Consultant",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, pune, bengaluru",
+    "job_type": "7-12 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SAP HANA",
+      "GTS",
+      "SAP Global Trade Services",
+      "SAP",
+      "Trade Services",
+      "Consulting",
+      "Global",
+      "Trade"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-sap-gts-consultant-tata-consultancy-services-hyderabad-pune-bengaluru-7-to-12-years-060726027973",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-07T04:01:15.722940Z"
   }
 ]
