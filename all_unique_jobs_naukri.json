@@ -8228,5 +8228,150 @@
     "apply_link": "https://www.naukri.com/job-listings-sap-gts-consultant-tata-consultancy-services-hyderabad-pune-bengaluru-7-to-12-years-060726027973",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-07T04:01:15.722940Z"
+  },
+  {
+    "title": "React JS Developer",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, bengaluru, mumbai (all areas)",
+    "job_type": "4-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "React.js",
+      "CSS",
+      "Redux",
+      "Javascript",
+      "HTML",
+      "Cs",
+      "Development"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-react-js-developer-tata-consultancy-services-hyderabad-bengaluru-mumbai-all-areas-4-to-8-years-070726008468",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-07T11:15:19.952100Z"
+  },
+  {
+    "title": "RBM Developer",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, bengaluru, mumbai (all areas)",
+    "job_type": "4-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "NetCracker",
+      "IRB",
+      "Telecom Billing",
+      "RBM",
+      "Telecom",
+      "Integration",
+      "Billing",
+      "Development"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-rbm-developer-tata-consultancy-services-hyderabad-bengaluru-mumbai-all-areas-4-to-8-years-070726010914",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-07T11:15:20.390360Z"
+  },
+  {
+    "title": "RBM - Netcracker Developer/Support",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, bengaluru, mumbai (all areas)",
+    "job_type": "4-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "rbm developer",
+      "Telecom",
+      "NetCracker",
+      "Development"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-rbm-netcracker-developer-support-tata-consultancy-services-hyderabad-bengaluru-mumbai-all-areas-4-to-8-years-070726007860",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-07T11:15:20.785977Z"
+  },
+  {
+    "title": "SAP Project Manager",
+    "company": "Capgemini",
+    "location": "hybrid - pune, bengaluru, mumbai (all areas)",
+    "job_type": "10-20 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SAP Project Management",
+      "Function Modules",
+      "SAP Implementation",
+      "Functional",
+      "Project management",
+      "Management",
+      "Project",
+      "SAP"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-sap-project-manager-capgemini-pune-bengaluru-mumbai-all-areas-10-to-20-years-260526025327",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-07T11:15:20.870100Z"
+  },
+  {
+    "title": "Siebel CRM Developer",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, bengaluru, mumbai (all areas)",
+    "job_type": "4-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Siebel CRM",
+      "Siebel CRM Developer",
+      "SQL",
+      "Siebel",
+      "CRM",
+      "Development"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-siebel-crm-developer-tata-consultancy-services-hyderabad-bengaluru-mumbai-all-areas-4-to-8-years-070726013881",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-07T11:15:21.024878Z"
+  },
+  {
+    "title": "SAP BTP CPI - Mumbai/Pune/Bangalore/Gandhinagar",
+    "company": "Capgemini",
+    "location": "hybrid - pune, bengaluru, mumbai (all areas)",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SAP CPI",
+      "Event Mesh",
+      "SAP API",
+      "CPI",
+      "APIM",
+      "Integration Suite",
+      "SAP Btp Integration Suite",
+      "SAP"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-sap-btp-cpi-mumbai-pune-bangalore-gandhinagar-capgemini-pune-bengaluru-mumbai-all-areas-6-to-11-years-260326025360",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-07T11:15:21.137395Z"
+  },
+  {
+    "title": "Workday Integration Engineer with Studio experience",
+    "company": "Atos",
+    "location": "hybrid - chennai, bengaluru, mumbai (all areas)",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Workday",
+      "Studio",
+      "Workday Functional",
+      "Workday Integration",
+      "Functional",
+      "Integration"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-workday-integration-engineer-with-studio-experience-atos-chennai-bengaluru-mumbai-all-areas-5-to-10-years-070726018955",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-07T11:15:21.210830Z"
   }
 ]
