@@ -8592,5 +8592,93 @@
     "apply_link": "https://www.naukri.com/job-listings-business-analyst-tata-consultancy-services-chennai-bengaluru-mumbai-all-areas-3-to-8-years-070726023185",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-08T03:27:28.648252Z"
+  },
+  {
+    "title": "Hiring - Fresher (International voice support) - Night Shift",
+    "company": "Trigent Professional Services",
+    "location": "pune, bengaluru, mumbai (all areas)",
+    "job_type": "0 Yrs",
+    "salary": "50,000-3 Lacs PA",
+    "salary_numeric": 300000,
+    "skills_required": [
+      "Inbound Voice Process",
+      "US Calling",
+      "BPO Voice",
+      "International Voice",
+      "US Voice Process",
+      "Outbound Calling",
+      "International Calling",
+      "International"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-hiring-fresher-international-voice-support-night-shift-trigent-software-pune-bengaluru-mumbai-all-areas-0-to-0-years-080726009480",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-08T06:34:17.190817Z"
+  },
+  {
+    "title": "Azure Data Engineer",
+    "company": "e-Labs Infotech",
+    "location": "hybrid - pune, bengaluru, mumbai (all areas)",
+    "job_type": "8-12 Yrs",
+    "salary": "15-30 Lacs PA",
+    "salary_numeric": 3000000,
+    "skills_required": [
+      "Pyspark",
+      "Azure Databricks",
+      "SQL",
+      "Azure Data Factory",
+      "Azure Synapse",
+      "Synapse",
+      "LogicApps",
+      "ADLS"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-azure-data-engineer-elabs-infotech-pune-bengaluru-mumbai-all-areas-8-to-12-years-080726011235",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-08T06:34:18.015623Z"
+  },
+  {
+    "title": "Urgent Hiring SAP FICO 8+ yrs Relevant-Immediate Joiners",
+    "company": "Capgemini",
+    "location": "hybrid - pune, bengaluru, mumbai (all areas)",
+    "job_type": "8-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "sap fico implementation",
+      "sap s hana",
+      "sap fico",
+      "asset accounting",
+      "fico",
+      "aa",
+      "statutory compliance",
+      "sap"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-urgent-hiring-sap-fico-8-yrs-relevant-immediate-joiners-capgemini-pune-bengaluru-mumbai-all-areas-8-to-11-years-080726010859",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-08T06:34:18.234198Z"
+  },
+  {
+    "title": "SAP ABAP RAP - Mumbai/Pune/Bangalore/Gandhinagar",
+    "company": "Capgemini",
+    "location": "hybrid - pune, bengaluru, mumbai (all areas)",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "RAP",
+      "SAP ABAP",
+      "Odata",
+      "Cloud Foundry",
+      "CAPM",
+      "AMDP",
+      "Restful ABAP Programming",
+      "Fiori"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-sap-abap-rap-mumbai-pune-bangalore-gandhinagar-capgemini-pune-bengaluru-mumbai-all-areas-6-to-11-years-230326019762",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-08T06:34:18.385758Z"
   }
 ]
