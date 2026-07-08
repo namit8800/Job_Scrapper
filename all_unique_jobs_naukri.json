@@ -8680,5 +8680,91 @@
     "apply_link": "https://www.naukri.com/job-listings-sap-abap-rap-mumbai-pune-bangalore-gandhinagar-capgemini-pune-bengaluru-mumbai-all-areas-6-to-11-years-230326019762",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-08T06:34:18.385758Z"
+  },
+  {
+    "title": "Python Software Developer",
+    "company": "Xoriant",
+    "location": "mumbai, pune, bengaluru",
+    "job_type": "5-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Python Framework",
+      "Django Framework",
+      "Flask Web Framework",
+      "Machine Learning Algorithms",
+      "Web Framework",
+      "Software",
+      "Python",
+      "Software development"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-python-software-developer-xoriant-mumbai-pune-bengaluru-5-to-8-years-080726018280",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-08T10:25:58.651188Z"
+  },
+  {
+    "title": "QE - ETL with automation (robot framework)",
+    "company": "Tata Consultancy Services",
+    "location": "pune, bengaluru, mumbai (all areas)",
+    "job_type": "4-7 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Robot Framework",
+      "ETL Testing",
+      "Python",
+      "Framework",
+      "Robot",
+      "Software testing",
+      "QE",
+      "ETL Automation"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-qe-etl-with-automation-robot-framework-tata-consultancy-services-pune-bengaluru-mumbai-all-areas-4-to-7-years-080726018822",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-08T10:25:58.734885Z"
+  },
+  {
+    "title": "Site Reliability Engineer",
+    "company": "Xoriant",
+    "location": "mumbai, pune, bengaluru",
+    "job_type": "7-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Langgraph",
+      "LangChain",
+      "Site Reliability Engineering",
+      "Galileo",
+      "LangSmith",
+      "Reliability engineering",
+      "Engineering",
+      "Reliability"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-site-reliability-engineer-xoriant-mumbai-pune-bengaluru-7-to-10-years-080726017512",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-08T10:25:59.423751Z"
+  },
+  {
+    "title": "Car Advisor- Showroom Sales",
+    "company": "Cars24",
+    "location": "mumbai, mumbai suburban, pune",
+    "job_type": "0-10 Yrs",
+    "salary": "0-4.5 Lacs PA",
+    "salary_numeric": 450000,
+    "skills_required": [
+      "Sales",
+      "Retail Sales",
+      "Car Sales",
+      "Showroom sales",
+      "Retail",
+      "Showroom"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-car-advisor-showroom-sales-cars24-mumbai-mumbai-suburban-pune-0-to-10-years-080726015231",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-08T10:25:59.488013Z"
   }
 ]
