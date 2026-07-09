@@ -9127,5 +9127,49 @@
     "apply_link": "https://www.naukri.com/job-listings-sales-professional-architects-interior-designer-schneider-electric-pune-bengaluru-mumbai-all-areas-0-to-5-years-090726015093",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-09T07:44:42.607436Z"
+  },
+  {
+    "title": "Financial Analyst",
+    "company": "Zeta",
+    "location": "mumbai",
+    "job_type": "1-3 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Excel",
+      "Financial reporting",
+      "Analytical",
+      "Trend analysis",
+      "data integrity",
+      "Financial Analyst",
+      "Variance analysis",
+      "Operations"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-financial-analyst-zeta-inc-mumbai-1-to-3-years-090726500880",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-09T11:12:25.445273Z"
+  },
+  {
+    "title": "Hiring For SAP SD Professionals",
+    "company": "PwC India",
+    "location": "navi mumbai, pune, bengaluru",
+    "job_type": "10-20 Yrs",
+    "salary": "15-30 Lacs PA",
+    "salary_numeric": 3000000,
+    "skills_required": [
+      "SAP SD",
+      "End To End Implementation",
+      "Sap Sales And Distribution",
+      "SAP",
+      "Hiring",
+      "Sales",
+      "SD",
+      "End"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-hiring-for-sap-sd-professionals-pwc-india-navi-mumbai-pune-bengaluru-10-to-20-years-090726017560",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-09T11:12:25.702568Z"
   }
 ]
