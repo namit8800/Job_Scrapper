@@ -9325,5 +9325,24 @@
     "apply_link": "https://www.naukri.com/job-listings-mainframe-tester-atos-chennai-bengaluru-mumbai-all-areas-3-to-8-years-290526001481",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-10T07:43:10.475272Z"
+  },
+  {
+    "title": "Product Development Engineer",
+    "company": "Tata Consultancy Services",
+    "location": "bengaluru, mumbai (all areas)",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "MongoDB",
+      "Product Development",
+      "MongoDB Database",
+      "DBMS",
+      "Development"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-product-development-engineer-tata-consultancy-services-bengaluru-mumbai-all-areas-6-to-11-years-100726016021",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-10T11:12:14.118764Z"
   }
 ]
