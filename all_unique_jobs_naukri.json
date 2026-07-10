@@ -9303,5 +9303,27 @@
     "apply_link": "https://www.naukri.com/job-listings-senior-manager-flipkart-videos-procurement-flipkart-bengaluru-mumbai-all-areas-7-to-12-years-090726033462",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-09T18:03:14.680641Z"
+  },
+  {
+    "title": "Mainframe Tester",
+    "company": "Atos",
+    "location": "chennai, bengaluru, mumbai (all areas)",
+    "job_type": "3-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "CICS",
+      "Mainframe",
+      "Mainframe Testing",
+      "QTEST",
+      "VSAM",
+      "Selenium Testing",
+      "MYSQL",
+      "Robotic"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-mainframe-tester-atos-chennai-bengaluru-mumbai-all-areas-3-to-8-years-290526001481",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-10T07:43:10.475272Z"
   }
 ]
