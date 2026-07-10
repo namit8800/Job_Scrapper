@@ -9344,5 +9344,49 @@
     "apply_link": "https://www.naukri.com/job-listings-product-development-engineer-tata-consultancy-services-bengaluru-mumbai-all-areas-6-to-11-years-100726016021",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-10T11:12:14.118764Z"
+  },
+  {
+    "title": "Manager - Maintenance (Electrical & HVAC)",
+    "company": "DMart",
+    "location": "mumbai, pune, bengaluru",
+    "job_type": "8-13 Yrs",
+    "salary": "12-16 Lacs PA",
+    "salary_numeric": 1600000,
+    "skills_required": [
+      "Operation Maintenance",
+      "Electrical Maintenance",
+      "SAP",
+      "Utility Maintenance",
+      "Breakdown Maintenance",
+      "Preventive Maintenance",
+      "HVAC Maintenance",
+      "Annual Maintenance"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-manager-maintenance-electrical-hvac-dmart-mumbai-pune-bengaluru-8-to-13-years-100726027423",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-10T14:42:28.941555Z"
+  },
+  {
+    "title": "Opportunity For SAP BTP Architecture professionals",
+    "company": "Atos",
+    "location": "chennai, bengaluru, mumbai (all areas)",
+    "job_type": "10-15 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SAP Btp",
+      "SAP S HANA",
+      "SAP AI Core",
+      "SAP HANA",
+      "SAP S/4HANA",
+      "SAP",
+      "Artificial Intelligence",
+      "Architecture"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-opportunity-for-sap-btp-architecture-professionals-atos-chennai-bengaluru-mumbai-all-areas-10-to-15-years-100726026311",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-10T14:42:29.955894Z"
   }
 ]
