@@ -9388,5 +9388,71 @@
     "apply_link": "https://www.naukri.com/job-listings-opportunity-for-sap-btp-architecture-professionals-atos-chennai-bengaluru-mumbai-all-areas-10-to-15-years-100726026311",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-10T14:42:29.955894Z"
+  },
+  {
+    "title": "Product Manager",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, navi mumbai, bengaluru",
+    "job_type": "3-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Product Management",
+      "Software Products",
+      "Product Life Cycle Management",
+      "Management",
+      "Software",
+      "Life cycle",
+      "Product Life Cycle",
+      "Life Cycle Management"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-product-manager-tata-consultancy-services-hyderabad-navi-mumbai-bengaluru-3-to-8-years-290925026982",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-10T17:52:03.041190Z"
+  },
+  {
+    "title": "Sourcing Specialist",
+    "company": "Tata Consultancy Services",
+    "location": "pune, chennai, mumbai (all areas)",
+    "job_type": "2-5 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Sourcer",
+      "Job Portals",
+      "Strategic Sourcing",
+      "Lateral Hiring",
+      "Non IT Recruitment",
+      "Sourcing",
+      "Global Sourcing",
+      "Scheduling"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-sourcing-specialist-tata-consultancy-services-pune-chennai-mumbai-all-areas-2-to-5-years-100726028668",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-10T17:52:03.133925Z"
+  },
+  {
+    "title": "Sales Manager",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, bengaluru, mumbai (all areas)",
+    "job_type": "10-16 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Educational Sales",
+      "Institutional Sales",
+      "Management",
+      "Sales",
+      "Education",
+      "Institutional Business",
+      "Institutional",
+      "Sales management"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-sales-manager-tata-consultancy-services-hyderabad-bengaluru-mumbai-all-areas-10-to-16-years-070526030617",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-10T17:52:03.566813Z"
   }
 ]
