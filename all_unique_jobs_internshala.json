@@ -18576,5 +18576,47 @@
     "source_platform": "Internshala",
     "duration": "N/A",
     "scraped_at": "2026-07-11T20:58:43.411252Z"
+  },
+  {
+    "title": "Social Work",
+    "company": "InAmigos Foundation",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "Unpaid",
+    "salary_numeric": null,
+    "skills_required": [],
+    "posting_date": "2 days ago",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-social-work-internship-at-inamigos-foundation1783592077",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-07-12T03:33:47.659094Z"
+  },
+  {
+    "title": "Law/Legal",
+    "company": "Resolve360",
+    "location": "bangalore",
+    "job_type": "Internship",
+    "salary": "\u20b9 5,000 - 6,000 /month",
+    "salary_numeric": 5000,
+    "skills_required": [],
+    "posting_date": "3 days ago",
+    "apply_link": "https://internshala.com/internship/detail/law-legal-internship-in-bangalore-at-resolve3601783509714",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-07-12T03:33:47.965729Z"
+  },
+  {
+    "title": "Operations",
+    "company": "Referencified Tech Private Limited",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "\u20b9 3,000 - 5,000 /month",
+    "salary_numeric": 3000,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-operations-internship-at-referencified-tech-private-limited1783805220",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-07-12T03:33:48.013871Z"
   }
 ]
