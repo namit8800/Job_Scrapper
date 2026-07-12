@@ -10061,5 +10061,26 @@
     "apply_link": "https://www.naukri.com/job-listings-salesforce-omnistudio-fsc-technical-architect-pwc-service-delivery-center-pune-bengaluru-delhi-ncr-8-to-12-years-120726002225",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-12T09:57:23.553549Z"
+  },
+  {
+    "title": "Technical Architect - Banking",
+    "company": "Tata Consultancy Services",
+    "location": "pune, chennai, bengaluru",
+    "job_type": "10-18 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Flutter framework",
+      "Redux",
+      "Dart programming",
+      "Technical Architecture",
+      "BLoC",
+      "Riverpod",
+      "state management"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-technical-architect-banking-tata-consultancy-services-pune-chennai-bengaluru-10-to-18-years-120726003077",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-12T13:41:48.700986Z"
   }
 ]
