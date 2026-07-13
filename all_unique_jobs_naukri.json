@@ -11012,5 +11012,49 @@
     "apply_link": "https://www.naukri.com/job-listings-packaged-saas-app-engineering-lead-accenture-solutions-pvt-ltd-mumbai-15-to-20-years-130726927450",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-13T18:00:13.051409Z"
+  },
+  {
+    "title": "S&C - GN - Finance - Tax - Manager",
+    "company": "Accenture",
+    "location": "mumbai",
+    "job_type": "8-13 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Finance",
+      "Business Intelligence",
+      "Erp",
+      "C",
+      "Sap",
+      "Compliance",
+      "Record To Report",
+      "Enterprise Resource Planning"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-s-c-gn-finance-tax-manager-accenture-solutions-pvt-ltd-mumbai-8-to-13-years-130726931097",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-13T21:03:43.156535Z"
+  },
+  {
+    "title": "AI_API Engineer - Agentic AI Solutions - Manager",
+    "company": "Accenture",
+    "location": "mumbai",
+    "job_type": "10-13 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "ai",
+      "rest",
+      "python",
+      "ai solutions",
+      "ui development",
+      "cloud platforms",
+      "llm",
+      "enterprise systems"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-ai-api-engineer-agentic-ai-solutions-manager-accenture-solutions-pvt-ltd-mumbai-10-to-13-years-130726933196",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-13T21:03:43.636331Z"
   }
 ]
