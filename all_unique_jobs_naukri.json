@@ -10969,5 +10969,48 @@
     "apply_link": "https://www.naukri.com/job-listings-ba-risk-governance-capco-technologies-pvt-ltd-mumbai-5-to-7-years-130726504169",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-13T14:50:00.872183Z"
+  },
+  {
+    "title": "Full Stack .NET Angular FSD Developer",
+    "company": "Tata Consultancy Services",
+    "location": "bengaluru, mumbai (all areas)",
+    "job_type": "6-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Fullstack Development",
+      ".NET",
+      "Angular",
+      "Full Stack",
+      "FSD",
+      "Stack",
+      "Development"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-full-stack-net-angular-fsd-developer-tata-consultancy-services-bengaluru-mumbai-all-areas-6-to-10-years-130726037976",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-13T18:00:12.945227Z"
+  },
+  {
+    "title": "Packaged/SaaS App Engineering Lead",
+    "company": "Accenture",
+    "location": "mumbai",
+    "job_type": "15-20 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "saas",
+      "python",
+      "google cloud platform",
+      "ai",
+      "enterprise architecture",
+      "microsoft azure",
+      "enterprise systems",
+      "subject matter expert"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-packaged-saas-app-engineering-lead-accenture-solutions-pvt-ltd-mumbai-15-to-20-years-130726927450",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-13T18:00:13.051409Z"
   }
 ]
