@@ -10691,5 +10691,114 @@
     "apply_link": "https://www.naukri.com/job-listings-consultant-decipher-programming-iqvia-pune-gurugram-bengaluru-4-to-8-years-120726003656",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-13T07:28:57.193364Z"
+  },
+  {
+    "title": "Key Accounts Manager",
+    "company": "Paytm",
+    "location": "noida, bengaluru, mumbai (all areas)",
+    "job_type": "5-10 Yrs",
+    "salary": "12-18 Lacs PA",
+    "salary_numeric": 1800000,
+    "skills_required": [
+      "Hunting",
+      "Payment Gateways",
+      "Enterprise Sales",
+      "Strategic Account Management",
+      "Payment Solutions",
+      "Bfsi Sales",
+      "Digital Payment",
+      "Sales"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-key-accounts-manager-paytm-noida-bengaluru-mumbai-all-areas-5-to-10-years-130726017029",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-13T11:20:54.093952Z"
+  },
+  {
+    "title": "Java Developer + Reactive Programming (Spring Web flux)",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, pune, bengaluru",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "JAVA",
+      "Spring boot",
+      "Reactive Programming",
+      "Spring Webflux",
+      "Bootstrap",
+      "Spring",
+      "Web technologies",
+      "Program"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-java-developer-reactive-programming-spring-web-flux-tata-consultancy-services-hyderabad-pune-bengaluru-6-to-11-years-130726017574",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-13T11:20:54.906470Z"
+  },
+  {
+    "title": "Ms Dynamics Crm Consultant",
+    "company": "Hexaware Technologies",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "7-12 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "MS Dynamics CRM",
+      "Power Pages",
+      "Power Automate",
+      "Copilot",
+      "Microsoft",
+      "Consulting",
+      "Dynamic",
+      "CRM"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-ms-dynamics-crm-consultant-hexaware-technologies-hyderabad-pune-bengaluru-7-to-12-years-120526039421",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-13T11:20:55.242598Z"
+  },
+  {
+    "title": "Java Full stack - Angular",
+    "company": "Capgemini",
+    "location": "bangalore rural, bengaluru, mumbai (all areas)",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Java",
+      "Spring Boot",
+      "Angular",
+      "Hibernate",
+      "Restfull API",
+      "Restfui Web Services",
+      "Microservices"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-java-full-stack-angular-capgemini-bangalore-rural-bengaluru-mumbai-all-areas-6-to-11-years-130726016450",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-13T11:20:55.568762Z"
+  },
+  {
+    "title": "GCP DeVops Engineer",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, pune, bengaluru",
+    "job_type": "8-12 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Terraform",
+      "GCP DevOps",
+      "Ci/Cd",
+      "GCP",
+      "Iac",
+      "Google Cloud Platforms",
+      "Devops",
+      "Cloud Platforms"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-gcp-devops-engineer-tata-consultancy-services-hyderabad-pune-bengaluru-8-to-12-years-130726018701",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-13T11:20:55.731754Z"
   }
 ]
