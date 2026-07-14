@@ -11202,5 +11202,27 @@
     "apply_link": "https://www.naukri.com/job-listings-process-manager-eclerx-navi-mumbai-8-to-10-years-110626020176",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-14T13:59:56.163535Z"
+  },
+  {
+    "title": "Senior Java Developer",
+    "company": "Hdfc Bank",
+    "location": "hybrid - navi mumbai, bengaluru",
+    "job_type": "8-13 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Java",
+      "Spring Boot",
+      "Ci/Cd",
+      "Microservices",
+      "Kubernetes",
+      "Azure",
+      "Kafka",
+      "J2EE"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-senior-java-developer-hdfc-bank-navi-mumbai-bengaluru-8-to-13-years-140726037620",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-14T17:21:34.162929Z"
   }
 ]
