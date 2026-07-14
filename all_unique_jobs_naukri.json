@@ -11078,5 +11078,107 @@
     "apply_link": "https://www.naukri.com/job-listings-java-lead-bangalore-pan-india-infosys-r-infosys-hyderabad-pune-bengaluru-5-to-10-years-230226022172",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-14T02:57:33.049177Z"
+  },
+  {
+    "title": "Hiring For IS retail Professionals multiple Locations",
+    "company": "PwC India",
+    "location": "pune, bengaluru, mumbai (all areas)",
+    "job_type": "12-20 Yrs",
+    "salary": "12-20 Lacs PA",
+    "salary_numeric": 2000000,
+    "skills_required": [
+      "Is Retail",
+      "car",
+      "Hiring",
+      "Retail"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-hiring-for-is-retail-professionals-multiple-locations-pwc-india-pune-bengaluru-mumbai-all-areas-12-to-20-years-140726019797",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-14T10:05:15.565474Z"
+  },
+  {
+    "title": "Automation Architect",
+    "company": "Tata Consultancy Services",
+    "location": "pune, bengaluru, mumbai (all areas)",
+    "job_type": "8-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Java",
+      "CI CD Pipeline",
+      "Automation Testing",
+      "Selenium",
+      "Cucumber",
+      "Continuous Integration",
+      "Architecture",
+      "Automation engineering"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-automation-architect-tata-consultancy-services-pune-bengaluru-mumbai-all-areas-8-to-10-years-140726020784",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-14T10:05:16.029407Z"
+  },
+  {
+    "title": "Azure Data Engineer",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, chennai, mumbai (all areas)",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Pyspark",
+      "Data Engineering",
+      "Azure Databricks",
+      "Python",
+      "azure",
+      "Azure Data Factory",
+      "Data",
+      "Engineering"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-azure-data-engineer-tata-consultancy-services-hyderabad-chennai-mumbai-all-areas-5-to-10-years-140726015625",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-14T10:05:16.123338Z"
+  },
+  {
+    "title": "Vue.Js Developer",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, chennai, mumbai (all areas)",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Vue.js",
+      "Vuex",
+      "vue3",
+      "Development"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-vue-js-developer-tata-consultancy-services-hyderabad-chennai-mumbai-all-areas-5-to-10-years-140726015433",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-14T10:05:16.337316Z"
+  },
+  {
+    "title": "HP ALM with Panaya and Zira - Test Migration Specialist/QA Analyst",
+    "company": "Tata Consultancy Services",
+    "location": "mumbai, hyderabad, bengaluru",
+    "job_type": "6-11 Yrs",
+    "salary": "15-30 Lacs PA",
+    "salary_numeric": 3000000,
+    "skills_required": [
+      "Panaya",
+      "Test Management",
+      "HP Alm",
+      "JIRA",
+      "Test Migration",
+      "Quality Assurance",
+      "Assurance",
+      "Alm"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-hp-alm-with-panaya-and-zira-test-migration-specialist-qa-analyst-tata-consultancy-services-mumbai-hyderabad-bengaluru-6-to-11-years-140726014458",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-14T10:05:16.571550Z"
   }
 ]
