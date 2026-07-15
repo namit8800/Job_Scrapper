@@ -11527,5 +11527,49 @@
     "apply_link": "https://www.naukri.com/job-listings-artificial-intelligence-engineer-pwc-service-delivery-center-mumbai-bengaluru-5-to-10-years-150726010503",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-15T06:21:40.944480Z"
+  },
+  {
+    "title": "Java Fullstack Developer+Reactjs/Nodejs",
+    "company": "Tata Consultancy Services",
+    "location": "pune, bengaluru, mumbai (all areas)",
+    "job_type": "6-9 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Java",
+      "Spring Boot",
+      "Node.js",
+      "React.js",
+      "Microservices",
+      "Bootstrap",
+      "Java Fullstack",
+      "Boot"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-java-fullstack-developer-reactjs-nodejs-tata-consultancy-services-pune-bengaluru-mumbai-all-areas-6-to-9-years-150726021606",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-15T10:09:14.470111Z"
+  },
+  {
+    "title": "Associate Director Performance Marketing",
+    "company": "Accenture",
+    "location": "mumbai, hyderabad",
+    "job_type": "15-20 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "abm",
+      "digital marketing",
+      "cro",
+      "ai",
+      "campaign optimization",
+      "account-based marketing",
+      "analytics",
+      "demand generation"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-associate-director-performance-marketing-accenture-solutions-pvt-ltd-mumbai-hyderabad-15-to-20-years-150726924330",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-15T10:09:15.307096Z"
   }
 ]
