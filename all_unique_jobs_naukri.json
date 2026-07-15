@@ -11466,5 +11466,66 @@
     "apply_link": "https://www.naukri.com/job-listings-sap-fiori-full-stack-developer-randstad-pune-bengaluru-delhi-ncr-3-to-7-years-130426031094",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-15T02:56:13.982290Z"
+  },
+  {
+    "title": "React JS+ Next JS",
+    "company": "Tata Consultancy Services",
+    "location": "kolkata, pune, bengaluru",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Reacts Js",
+      "React.js",
+      "Nextjs",
+      "Javascript"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-react-js-next-js-tata-consultancy-services-kolkata-pune-bengaluru-5-to-10-years-150726014644",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-15T06:21:40.429571Z"
+  },
+  {
+    "title": "Ms Dynamics Crm Consultant",
+    "company": "Hexaware Technologies",
+    "location": "hybrid - noida, pune, bengaluru",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "MS Dynamics CRM",
+      "Power Pages",
+      "C#",
+      "Microsoft Dynamics",
+      "Powerapps",
+      "Plugins",
+      "Page",
+      "Dynamics"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-ms-dynamics-crm-consultant-hexaware-technologies-noida-pune-bengaluru-6-to-11-years-150726015360",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-15T06:21:40.778643Z"
+  },
+  {
+    "title": "Artificial Intelligence Engineer",
+    "company": "PwC Service Delivery Center",
+    "location": "mumbai, bengaluru",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Artificial Intelligence Engineer",
+      "Artificial Intelligence",
+      "Data Science",
+      "Python",
+      "Science",
+      "Intelligence",
+      "Data"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-artificial-intelligence-engineer-pwc-service-delivery-center-mumbai-bengaluru-5-to-10-years-150726010503",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-15T06:21:40.944480Z"
   }
 ]
