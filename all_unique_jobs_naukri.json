@@ -11703,5 +11703,27 @@
     "apply_link": "https://www.naukri.com/job-listings-tech-lead-ruby-on-rails-atos-chennai-bengaluru-mumbai-all-areas-10-to-15-years-121125029174",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-15T13:56:43.459726Z"
+  },
+  {
+    "title": "Storage Administrator",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, bengaluru, mumbai (all areas)",
+    "job_type": "6-10 Yrs",
+    "salary": "3-7 Lacs PA",
+    "salary_numeric": 700000,
+    "skills_required": [
+      "Reverse Proxy",
+      "IAM",
+      "Minio",
+      "Python",
+      "Kubernetes",
+      "Docker",
+      "Linux",
+      "Mining Operations"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-storage-administrator-tata-consultancy-services-hyderabad-bengaluru-mumbai-all-areas-6-to-10-years-150726037938",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-15T17:23:50.699581Z"
   }
 ]
