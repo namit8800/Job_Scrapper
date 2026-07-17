@@ -12252,5 +12252,63 @@
     "apply_link": "https://www.naukri.com/job-listings-sap-tm-functional-consultant-pune-mumbai-bangalore-gandhinagar-capgemini-pune-bengaluru-mumbai-all-areas-8-to-13-years-060626003864",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-17T06:22:58.520736Z"
+  },
+  {
+    "title": "Weblogic Administrator",
+    "company": "Tech Mahindra",
+    "location": "hybrid - noida, hyderabad, pune",
+    "job_type": "4-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Installation",
+      "Upgrade",
+      "WebLogic Administration",
+      "Weblogic",
+      "Administration"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-weblogic-administrator-tech-mahindra-noida-hyderabad-pune-4-to-8-years-160726036228",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-17T10:05:12.257234Z"
+  },
+  {
+    "title": "SAP Project Manager with Public Cloud",
+    "company": "Capgemini",
+    "location": "pune, bengaluru, mumbai (all areas)",
+    "job_type": "10-18 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SAP",
+      "Functional Consultancy",
+      "Project Management",
+      "S4 HANA Finance",
+      "Technology Consulting",
+      "Management",
+      "Consulting",
+      "Consultancy"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-sap-project-manager-with-public-cloud-capgemini-pune-bengaluru-mumbai-all-areas-10-to-18-years-170726020210",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-17T10:05:12.314398Z"
+  },
+  {
+    "title": "Hasura - Atos",
+    "company": "Atos",
+    "location": "hybrid - mumbai, chennai, bengaluru",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "PLM",
+      "Hasura",
+      "React.js"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-hasura-atos-atos-mumbai-chennai-bengaluru-5-to-10-years-170726021103",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-17T10:05:12.354634Z"
   }
 ]
