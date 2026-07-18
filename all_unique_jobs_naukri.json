@@ -12596,5 +12596,27 @@
     "apply_link": "https://www.naukri.com/job-listings-senior-consultant-ey-pune-bengaluru-delhi-ncr-3-to-8-years-170726025184",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-18T02:57:24.170702Z"
+  },
+  {
+    "title": "Cloud Architect Lead",
+    "company": "Hexaware Technologies",
+    "location": "hybrid - pune, bangalore rural, chennai",
+    "job_type": "12-18 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Microsoft Fabric",
+      "Cloud Architecture",
+      "fabric ETL",
+      "Microsoft",
+      "Fabric",
+      "Architecture",
+      "Cloud",
+      "ETL"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-cloud-architect-lead-hexaware-technologies-pune-bangalore-rural-chennai-12-to-18-years-180726009635",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-18T09:40:07.100881Z"
   }
 ]
