@@ -13023,5 +13023,69 @@
     "apply_link": "https://www.naukri.com/job-listings-physics-and-maths-faculty-ms-academy-mumbai-suburban-0-to-5-years-190726003168",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-19T06:36:29.488170Z"
+  },
+  {
+    "title": "React JS /Next JS Developer",
+    "company": "Tata Consultancy Services",
+    "location": "bhubaneswar, kolkata, pune",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "React.js",
+      "Nextjs",
+      "TypeScript",
+      "Redux",
+      "Javascript",
+      "Development"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-react-js-next-js-developer-tata-consultancy-services-bhubaneswar-kolkata-pune-5-to-10-years-190726003542",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-19T09:57:46.134338Z"
+  },
+  {
+    "title": "Vue.Js Developer",
+    "company": "Tata Consultancy Services",
+    "location": "new delhi, hyderabad, navi mumbai",
+    "job_type": "5-10 Yrs",
+    "salary": "5-15 Lacs PA",
+    "salary_numeric": 1500000,
+    "skills_required": [
+      "Vue.js",
+      "Vuejs Framework",
+      "Vuex",
+      "Vuetify",
+      "Vue CLI",
+      "CLI",
+      "Development",
+      "Framework"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-vue-js-developer-tata-consultancy-services-new-delhi-hyderabad-navi-mumbai-5-to-10-years-190726003722",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-19T09:57:46.227033Z"
+  },
+  {
+    "title": "QA Automation (Playwright, Selenium)",
+    "company": "Tata Consultancy Services",
+    "location": "new delhi, hyderabad, pune",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Java",
+      "Selenium",
+      "Playwright Automation",
+      "Playwright",
+      "Automation Testing",
+      "Cucumber",
+      "Quality assurance",
+      "QA automation"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-qa-automation-playwright-selenium-tata-consultancy-services-new-delhi-hyderabad-pune-5-to-10-years-190726003486",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-19T09:57:46.679686Z"
   }
 ]
