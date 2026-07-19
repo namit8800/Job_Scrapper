@@ -13109,5 +13109,70 @@
     "apply_link": "https://www.naukri.com/job-listings-team-lead-net-asp-net-mvc-net-core-eclerx-mumbai-pune-8-to-13-years-190726004137",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-19T13:38:42.319865Z"
+  },
+  {
+    "title": "Python Developer",
+    "company": "eClerx",
+    "location": "hybrid - navi mumbai, pune",
+    "job_type": "3-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Python Framework",
+      "Django",
+      "Python Development",
+      "Python",
+      "Flask",
+      "API",
+      "SQL",
+      "Framework"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-python-developer-eclerx-navi-mumbai-pune-3-to-8-years-060126033728",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-19T17:05:24.125613Z"
+  },
+  {
+    "title": "Marketing Performance Insights Manager",
+    "company": "eClerx",
+    "location": "hybrid - mumbai, navi mumbai, pune",
+    "job_type": "3-7 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "CTR",
+      "CAC",
+      "funnel metrics",
+      "ROAS",
+      "CVR",
+      "LTV",
+      "Management",
+      "Performance Marketing"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-marketing-performance-insights-manager-eclerx-mumbai-navi-mumbai-pune-3-to-7-years-190726004741",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-19T17:05:24.239133Z"
+  },
+  {
+    "title": "Walk-in || Finance Apprentice Analyst- Mumbai",
+    "company": "eClerx",
+    "location": "thane, navi mumbai, mumbai (all areas)",
+    "job_type": "N/A",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Finance",
+      "NISM",
+      "fresher",
+      "Investment Banking",
+      "KYC",
+      "Derivatives",
+      "Investment"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-finance-apprentice-analyst-mumbai-eclerx-thane-navi-mumbai-mumbai-all-areas-0-to-2-years-190726004979",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-19T17:05:24.349083Z"
   }
 ]
