@@ -13697,5 +13697,156 @@
     "apply_link": "https://www.naukri.com/job-listings-sales-manager-sales-executive-endpoint-protection-sri-indrakshi-informatics-pune-bengaluru-mumbai-all-areas-3-to-5-years-200726007181",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-20T06:54:32.977217Z"
+  },
+  {
+    "title": "Executive Support Associate",
+    "company": "Accenture",
+    "location": "bengaluru",
+    "job_type": "0-2 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Calendar Management",
+      "Executive Support",
+      "Administration",
+      "Customer Service",
+      "Calendaring",
+      "Time",
+      "Management",
+      "Verbal Communication"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-executive-support-associate-accenture-solutions-pvt-ltd-bengaluru-0-to-2-years-200726916736",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-20T11:08:11.294618Z"
+  },
+  {
+    "title": "Automation Tester",
+    "company": "Tata Consultancy Services",
+    "location": "pune, chennai, bengaluru",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Java",
+      "Rest Assured",
+      "Automation Testing",
+      "Selenium",
+      "Cucumber",
+      "Rest",
+      "Software testing",
+      "Automation"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-automation-tester-tata-consultancy-services-pune-chennai-bengaluru-6-to-11-years-200726008257",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-20T11:08:11.902506Z"
+  },
+  {
+    "title": "Angular Lead",
+    "company": "Tata Consultancy Services",
+    "location": "pune, chennai, bengaluru",
+    "job_type": "8-13 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Javascript",
+      "Angular",
+      "Html/Css",
+      "Angularjs",
+      "jQuery",
+      "Bootstrap",
+      "Angular Material",
+      "Angular Framework"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-angular-lead-tata-consultancy-services-pune-chennai-bengaluru-8-to-13-years-200726012142",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-20T11:08:12.142265Z"
+  },
+  {
+    "title": "Java Developer",
+    "company": "Tata Consultancy Services",
+    "location": "pune, chennai, bengaluru",
+    "job_type": "6-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Java",
+      "Hibernate",
+      "Spring Boot",
+      "React.js",
+      "Microservices",
+      "Node.js",
+      "Java Development",
+      "Boot"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-java-developer-tata-consultancy-services-pune-chennai-bengaluru-6-to-8-years-200726007794",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-20T11:08:12.227502Z"
+  },
+  {
+    "title": "Senior Principal Auditor - IT Audit --VP",
+    "company": "Deutsche Bank",
+    "location": "hybrid - pune",
+    "job_type": "10-15 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "IT Audit",
+      "Change Management",
+      "Validation",
+      "Software Development",
+      "Cloud",
+      "AI",
+      "End to End Audit",
+      "ITIL"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-senior-principal-auditor-it-audit-vp-deutsche-bank-pune-10-to-15-years-200726015043",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-20T11:08:12.313984Z"
+  },
+  {
+    "title": "Data Engineer- AWS & Pyspark",
+    "company": "EY",
+    "location": "hybrid - pune, bengaluru, delhi / ncr",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Pyspark",
+      "Data Engineering",
+      "AWS",
+      "Data",
+      "Engineering"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-data-engineer-aws-pyspark-ey-pune-bengaluru-delhi-ncr-6-to-11-years-200726015110",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-20T11:08:12.473488Z"
+  },
+  {
+    "title": "P&C Electrical Designer/Lead Designer",
+    "company": "AtkinsR\u00e9alis",
+    "location": "mumbai",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "insurance",
+      "c",
+      "bim",
+      "cad",
+      "engineering tools",
+      "cad tools",
+      "gratuity",
+      "autocad"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-p-c-electrical-designer-lead-designer-atkins-global-mumbai-5-to-10-years-200726500128",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-20T11:08:12.562890Z"
   }
 ]
