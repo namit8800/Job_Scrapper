@@ -13196,5 +13196,221 @@
     "apply_link": "https://www.naukri.com/job-listings-siebel-architect-tata-consultancy-services-hyderabad-bengaluru-mumbai-all-areas-3-to-8-years-190726005134",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-19T20:59:00.902985Z"
+  },
+  {
+    "title": "PAM BeyondTrust",
+    "company": "Tata Consultancy Services",
+    "location": "noida, chennai, bengaluru",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "BeyondTrust",
+      "PAM",
+      "Cyber Security",
+      "Configuration",
+      "HA",
+      "DR",
+      "High availability",
+      "Security"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-pam-beyondtrust-tata-consultancy-services-noida-chennai-bengaluru-5-to-10-years-190726004923",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-20T04:00:41.999511Z"
+  },
+  {
+    "title": "Cloud Security Engineer",
+    "company": "Tata Consultancy Services",
+    "location": "noida, chennai, bengaluru",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Cism",
+      "Cloud Security",
+      "GCP",
+      "WIz",
+      "Azure Security",
+      "AWS Security",
+      "Security",
+      "Cloud"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-cloud-security-engineer-tata-consultancy-services-noida-chennai-bengaluru-5-to-10-years-200726001195",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-20T04:00:42.085821Z"
+  },
+  {
+    "title": "Api Tester - g",
+    "company": "Infosys",
+    "location": "hybrid - hyderabad",
+    "job_type": "4-9 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "API Testing",
+      "Rest Assured",
+      "API",
+      "API Automation",
+      "Postman",
+      "GTS",
+      "Rest",
+      "Software testing"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-api-tester-g-infosys-hyderabad-4-to-9-years-160526015881",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-20T04:00:42.172320Z"
+  },
+  {
+    "title": "Tcs is hiring Network Engineer - SD WAN_Hyderabad/Bangalore/Chennai",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, chennai, bengaluru",
+    "job_type": "7-12 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Network Engineering",
+      "Sdwan",
+      "Viptela",
+      "Networking",
+      "Hiring",
+      "SD",
+      "Engineering",
+      "TCAE"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-tcs-is-hiring-network-engineer-sd-wan-hyderabad-bangalore-chennai-tata-consultancy-services-hyderabad-chennai-bengaluru-7-to-12-years-190726004850",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-20T04:00:42.260731Z"
+  },
+  {
+    "title": "Aws Data Engineer",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, pune, bengaluru",
+    "job_type": "6-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SCALA",
+      "Spark",
+      "AWS",
+      "Python",
+      "Data"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-aws-data-engineer-tata-consultancy-services-hyderabad-pune-bengaluru-6-to-10-years-200726000656",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-20T04:00:42.487343Z"
+  },
+  {
+    "title": "HCL Tech Hiring For O9 Integrated Business plaining Role",
+    "company": "HCLTech",
+    "location": "hybrid - noida, hyderabad, chennai",
+    "job_type": "7-12 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "O9",
+      "Supply Chain Management",
+      "Integrated Business Planning",
+      "O9 Solution",
+      "Management",
+      "Hiring",
+      "Supply chain",
+      "Technical analysis"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-hcl-tech-hiring-for-o9-integrated-business-plaining-role-hcltech-noida-hyderabad-chennai-7-to-12-years-120726003110",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-20T04:00:42.672593Z"
+  },
+  {
+    "title": "Google Data Engineering",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, chennai, bengaluru",
+    "job_type": "6-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Pubsub",
+      "GCP",
+      "Bigquery",
+      "Data Flow",
+      "SQL",
+      "Airflow",
+      "Dataproc",
+      "Python"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-google-data-engineering-tata-consultancy-services-hyderabad-chennai-bengaluru-6-to-10-years-190726005068",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-20T04:00:42.837889Z"
+  },
+  {
+    "title": "Java Full Stack Developer- React",
+    "company": "Tata Consultancy Services",
+    "location": "kolkata, chennai, bengaluru",
+    "job_type": "4-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Java",
+      "Spring Boot",
+      "React.js",
+      "s3",
+      "Git lab/ Git",
+      "Maven",
+      "CSS",
+      "Oracle PL/SQL"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-java-full-stack-developer-react-tata-consultancy-services-kolkata-chennai-bengaluru-4-to-8-years-300326014384",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-20T04:00:42.916550Z"
+  },
+  {
+    "title": "Salesforce Tester",
+    "company": "Infosys",
+    "location": "hybrid - hyderabad, pune, mumbai (all areas)",
+    "job_type": "4-9 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SFDC Testing",
+      "Salesforce Testing",
+      "Salesforce QA",
+      "Quality assurance",
+      "Salesforce",
+      "SFDC",
+      "Software testing"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-salesforce-tester-infosys-hyderabad-pune-mumbai-all-areas-4-to-9-years-100726027369",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-20T04:00:43.232314Z"
+  },
+  {
+    "title": "Walk-in || Cloud Security Analyst",
+    "company": "Tata Consultancy Services",
+    "location": "noida, chennai, bengaluru",
+    "job_type": "N/A",
+    "salary": "35-70 Lacs PA",
+    "salary_numeric": 7000000,
+    "skills_required": [
+      "Cloud Security",
+      "Aws Security",
+      "Devsecops",
+      "Azure Security",
+      "Security",
+      "Cloud",
+      "Microsoft Azure",
+      "AWS"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-cloud-security-analyst-tata-consultancy-services-noida-chennai-bengaluru-4-to-9-years-200726001341",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-20T04:00:43.385066Z"
   }
 ]
