@@ -14376,5 +14376,71 @@
     "apply_link": "https://www.naukri.com/job-listings-sales-b2b-bdm-quest-plus-kolkata-mumbai-chennai-3-to-5-years-210726909407",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-21T06:35:17.985095Z"
+  },
+  {
+    "title": "Field Sales Executive.SS",
+    "company": "NoBroker",
+    "location": "hyderabad, bengaluru, mumbai (all areas)",
+    "job_type": "0-3 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Field Work",
+      "Retail Sales",
+      "Sales",
+      "Field Job",
+      "Field Sales",
+      "Field Operations",
+      "CRM",
+      "Operations"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-field-sales-executive-ss-nobroker-hyderabad-bengaluru-mumbai-all-areas-0-to-3-years-200726029637",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-21T10:30:19.267798Z"
+  },
+  {
+    "title": ".NET Full Stack CRM Developer",
+    "company": "Hexaware Technologies",
+    "location": "hybrid - noida, bengaluru, mumbai (all areas)",
+    "job_type": "9-12 Yrs",
+    "salary": "15-20 Lacs PA",
+    "salary_numeric": 2000000,
+    "skills_required": [
+      "Typescript",
+      "Javascript",
+      "Dynamics CRM 365",
+      ".NET Core",
+      "SQL",
+      "Core",
+      "Stack",
+      "Full Stack"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-net-full-stack-crm-developer-hexaware-technologies-noida-bengaluru-mumbai-all-areas-9-to-12-years-210726020875",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-21T10:30:19.640652Z"
+  },
+  {
+    "title": "BDR Manager",
+    "company": "Adobe",
+    "location": "mumbai",
+    "job_type": "12-17 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Outbound",
+      "Career development",
+      "Adobe Acrobat",
+      "Sales",
+      "Analytical",
+      "Customer engagement",
+      "Adobe",
+      "Forecasting"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-bdr-manager-adobe-systems-india-pvt-ltd-mumbai-12-to-17-years-210726500092",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-21T10:30:19.713012Z"
   }
 ]
