@@ -14442,5 +14442,93 @@
     "apply_link": "https://www.naukri.com/job-listings-bdr-manager-adobe-systems-india-pvt-ltd-mumbai-12-to-17-years-210726500092",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-21T10:30:19.713012Z"
+  },
+  {
+    "title": "Sap PPQM Consultant- Mumbai / Pune / Bangalore",
+    "company": "PwC India",
+    "location": "hybrid - mumbai, pune, bengaluru",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "PP",
+      "SAP PP",
+      "SAP PPQM",
+      "SAP PP Module",
+      "Sap Pp Qm",
+      "SAP",
+      "PP module",
+      "Consulting"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-sap-ppqm-consultant-mumbai-pune-bangalore-pwc-india-mumbai-pune-bengaluru-5-to-10-years-210726032405",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-21T14:08:07.469234Z"
+  },
+  {
+    "title": "Walk-in || Accounts Assistant",
+    "company": "DMart",
+    "location": "thane, navi mumbai, mumbai (all areas)",
+    "job_type": "N/A",
+    "salary": "1-2.5 Lacs PA",
+    "salary_numeric": 250000,
+    "skills_required": [
+      "TDS",
+      "GST",
+      "Tally",
+      "Trial Balance",
+      "Accounting",
+      "General Accounting",
+      "Book Keeping",
+      "Journal Entries"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-accounts-assistant-dmart-thane-navi-mumbai-mumbai-all-areas-0-to-2-years-290626015397",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-21T14:08:07.624105Z"
+  },
+  {
+    "title": "ServiceNow Developer (IRM / TPRM)",
+    "company": "Atos",
+    "location": "hybrid - chennai, bengaluru, mumbai (all areas)",
+    "job_type": "5-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "tprm",
+      "servicenow",
+      "irm",
+      "integration",
+      "business rules",
+      "ui policy",
+      "Ilm",
+      "Development"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-servicenow-developer-irm-tprm-atos-chennai-bengaluru-mumbai-all-areas-5-to-8-years-210726026010",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-21T14:08:08.090161Z"
+  },
+  {
+    "title": "Transition Manager",
+    "company": "Capgemini",
+    "location": "mumbai",
+    "job_type": "3-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Business Operations",
+      "Leadership",
+      "Erp",
+      "R",
+      "Business Processes",
+      "Service Delivery",
+      "Cloud",
+      "Operations"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-transition-manager-capgemini-technology-services-india-limited-mumbai-3-to-8-years-210726927050",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-21T14:08:08.467228Z"
   }
 ]
