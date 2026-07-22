@@ -14880,5 +14880,115 @@
     "apply_link": "https://www.naukri.com/job-listings-cato-networks-ztna-engineer-atos-bengaluru-mumbai-all-areas-6-to-11-years-220726022651",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-22T10:31:21.776720Z"
+  },
+  {
+    "title": "Azure Data Engineer",
+    "company": "Tata Consultancy Services",
+    "location": "mumbai, hyderabad, gurugram",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Azure Data Factory",
+      "Microsoft Azure",
+      "Azure Databricks",
+      "Python",
+      "SQL",
+      "Factory",
+      "Data",
+      "Microsoft"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-azure-data-engineer-tata-consultancy-services-mumbai-hyderabad-gurugram-5-to-10-years-220726032183",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-22T14:10:49.170210Z"
+  },
+  {
+    "title": "CONSULTANT - Fortinet Firewall, Web Application Firewall",
+    "company": "Atos",
+    "location": "mumbai, navi mumbai",
+    "job_type": "10-15 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Active directory",
+      "DNS",
+      "Network security",
+      "Antivirus",
+      "Windows",
+      "Security operations",
+      "cisco",
+      "Information technology"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-consultant-fortinet-firewall-web-application-firewall-atos-pvt-ltd-mumbai-navi-mumbai-10-to-15-years-220726502316",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-22T14:10:49.417386Z"
+  },
+  {
+    "title": "CONSULTANT - Checkpoint Firewalls, WAF, Cisco NAC",
+    "company": "Atos",
+    "location": "mumbai, navi mumbai",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Linux",
+      "VPN",
+      "Risk assessment",
+      "Consulting",
+      "Active directory",
+      "DNS",
+      "Antivirus",
+      "Windows"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-consultant-checkpoint-firewalls-waf-cisco-nac-atos-pvt-ltd-mumbai-navi-mumbai-6-to-11-years-220726502317",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-22T14:10:49.739881Z"
+  },
+  {
+    "title": "Cloud Solution Architect",
+    "company": "Cradlepoint",
+    "location": "mumbai",
+    "job_type": "10-15 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Patch management",
+      "SAN",
+      "Automation",
+      "Networking",
+      "Enterprise architecture",
+      "Disaster recovery",
+      "Scheduling",
+      "Firmware"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-cloud-solution-architect-cradlepoint-part-of-ericsson-mumbai-10-to-15-years-220726502107",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-22T14:10:50.049845Z"
+  },
+  {
+    "title": "IND Principal Consultant",
+    "company": "Aon",
+    "location": "mumbai",
+    "job_type": "9-15 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Data analysis",
+      "Reinsurance",
+      "Financial statements",
+      "operational support",
+      "Bancassurance",
+      "Analytical",
+      "Marketing support",
+      "Agile"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-ind-principal-consultant-aon-mumbai-9-to-15-years-220726501612",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-22T14:10:50.285543Z"
   }
 ]
