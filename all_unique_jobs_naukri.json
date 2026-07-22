@@ -14704,5 +14704,93 @@
     "apply_link": "https://www.naukri.com/job-listings-manager-ethics-investigations-jones-lang-lasalle-mumbai-gurugram-bengaluru-6-to-11-years-210726503962",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-22T03:22:35.153955Z"
+  },
+  {
+    "title": "AWS Data Engineer_ Chennai/ Hyderabad/ Bangalore/Noida/ Pune",
+    "company": "Tech Mahindra",
+    "location": "hyderabad, pune, bengaluru",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "AWS Data Engineer",
+      "SQL",
+      "AWS",
+      "Gitlab",
+      "PySpark",
+      "Python",
+      "SQL",
+      "AWS"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-aws-data-engineer-chennai-hyderabad-bangalore-noida-pune-tech-mahindra-hyderabad-pune-bengaluru-5-to-10-years-220726005903",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-22T06:35:38.904044Z"
+  },
+  {
+    "title": "Microsoft Playwright Automation Engineer",
+    "company": "Capgemini",
+    "location": "hybrid - pune, bengaluru, mumbai (all areas)",
+    "job_type": "5-9 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Playwright Automation",
+      "Java",
+      "JavaScript",
+      "API Testing",
+      "Automation Testing",
+      "Microsoft Playwright",
+      "Selenium",
+      "SQL"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-microsoft-playwright-automation-engineer-capgemini-pune-bengaluru-mumbai-all-areas-5-to-9-years-220726005831",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-22T06:35:38.991617Z"
+  },
+  {
+    "title": "Etl Tester - Guidewire Insurance - Manager",
+    "company": "PwC",
+    "location": "hybrid - pune, gurugram, bengaluru",
+    "job_type": "9-14 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "ETL Testers",
+      "Automation Testing",
+      "Insurance Domain",
+      "Guidewire",
+      "Azure",
+      "GCP",
+      "AWS",
+      "DNS"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-etl-tester-guidewire-insurance-manager-pwc-pune-gurugram-bengaluru-9-to-14-years-220726007427",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-22T06:35:39.161069Z"
+  },
+  {
+    "title": "Etl Tester - Guidewire Insurance - Senior Associate",
+    "company": "PwC",
+    "location": "hybrid - pune, gurugram, bengaluru",
+    "job_type": "4-9 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "ETL Testers",
+      "Automation Testing",
+      "Insurance Domain",
+      "Guidewire",
+      "Azure",
+      "GCP",
+      "AWS",
+      "Insurance"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-etl-tester-guidewire-insurance-senior-associate-pwc-pune-gurugram-bengaluru-4-to-9-years-220726007250",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-22T06:35:39.583628Z"
   }
 ]
