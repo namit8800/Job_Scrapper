@@ -14530,5 +14530,179 @@
     "apply_link": "https://www.naukri.com/job-listings-transition-manager-capgemini-technology-services-india-limited-mumbai-3-to-8-years-210726927050",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-21T14:08:08.467228Z"
+  },
+  {
+    "title": "Sales And Marketing Executive",
+    "company": "M/S BSS MAGMETER PVT LTD",
+    "location": "hybrid - navi mumbai, pune(chakan), bengaluru(peenya)",
+    "job_type": "0-5 Yrs",
+    "salary": "1.75-6 Lacs PA",
+    "salary_numeric": 600000,
+    "skills_required": [
+      "Flow Meter",
+      "Instrumentation",
+      "B2B Sales",
+      "Technical / Service Sales",
+      "Sales",
+      "Field Sales",
+      "Branch Sales / In Office Sales",
+      "Business Development"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-sales-and-marketing-executive-m-s-bss-magmeter-pvt-ltd-navi-mumbai-pune-bengaluru-0-to-5-years-210726028917",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-22T03:22:34.366211Z"
+  },
+  {
+    "title": "HR International Voice Process",
+    "company": "Trigent Software",
+    "location": "pune, bengaluru, mumbai (all areas)",
+    "job_type": "0-1 Yrs",
+    "salary": "2.25-3.25 Lacs PA",
+    "salary_numeric": 325000,
+    "skills_required": [
+      "International Voice Process",
+      "Inbound Voice Process",
+      "Customer Support",
+      "US Voice Process",
+      "Travel Agent Activities",
+      "International",
+      "Travel",
+      "Process"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-hr-international-voice-process-trigent-software-pune-bengaluru-mumbai-all-areas-0-to-1-years-210726030064",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-22T03:22:34.601246Z"
+  },
+  {
+    "title": "Aws Data Engineer_Spark & Scala",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, pune, bengaluru",
+    "job_type": "6-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SCALA",
+      "Spark",
+      "AWS Lambda",
+      "AWS Glue",
+      "Glue",
+      "Lambda Expressions",
+      "Data",
+      "AWS"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-aws-data-engineer-spark-scala-tata-consultancy-services-hyderabad-pune-bengaluru-6-to-8-years-220326003519",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-22T03:22:34.679183Z"
+  },
+  {
+    "title": "Sap Tm Consultant",
+    "company": "Tech Mahindra",
+    "location": "hyderabad, pune, bengaluru",
+    "job_type": "6-11 Yrs",
+    "salary": "20-35 Lacs PA",
+    "salary_numeric": 3500000,
+    "skills_required": [
+      "Sap Tm",
+      "IDOC",
+      "Abap",
+      "TM",
+      "Consulting",
+      "SAP"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-sap-tm-consultant-tech-mahindra-hyderabad-pune-bengaluru-6-to-11-years-210726016042",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-22T03:22:34.745461Z"
+  },
+  {
+    "title": "Python Automation Tester",
+    "company": "Tata Consultancy Services",
+    "location": "pune, chennai, bengaluru",
+    "job_type": "4-6 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Java",
+      "Robot Framework",
+      "Automation Testing",
+      "Selenium",
+      "Python",
+      "Framework",
+      "Python Testing",
+      "Software testing"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-python-automation-tester-tata-consultancy-services-pune-chennai-bengaluru-4-to-6-years-210726016823",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-22T03:22:34.909211Z"
+  },
+  {
+    "title": ".NET Software Developer",
+    "company": "Tata Consultancy Services",
+    "location": "pune, chennai, bengaluru",
+    "job_type": "8-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "C#",
+      ".NET",
+      "sql",
+      "OOPS",
+      "Winforms",
+      "webapi",
+      "Web API",
+      "Software development"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-net-software-developer-tata-consultancy-services-pune-chennai-bengaluru-8-to-11-years-210726014302",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-22T03:22:34.991501Z"
+  },
+  {
+    "title": "Plant HR Manager",
+    "company": "Avery Dennison",
+    "location": "pune",
+    "job_type": "15-20 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Leadership development",
+      "Industrial relations",
+      "Talent acquisition",
+      "Focus",
+      "Shop floor",
+      "Project management",
+      "Consulting",
+      "HR"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-plant-hr-manager-avery-dennison-india-pvt-ltd-pune-15-to-20-years-210726503454",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-22T03:22:35.073957Z"
+  },
+  {
+    "title": "Manager - Ethics Investigations",
+    "company": "Jones Lang LaSalle (JLL)",
+    "location": "mumbai, gurugram, bengaluru",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Selection process",
+      "Compliance",
+      "Artificial Intelligence",
+      "Legal",
+      "Forensic",
+      "data privacy",
+      "HR",
+      "Investment management"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-manager-ethics-investigations-jones-lang-lasalle-mumbai-gurugram-bengaluru-6-to-11-years-210726503962",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-22T03:22:35.153955Z"
   }
 ]
