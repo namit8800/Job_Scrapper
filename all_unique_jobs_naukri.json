@@ -14792,5 +14792,93 @@
     "apply_link": "https://www.naukri.com/job-listings-etl-tester-guidewire-insurance-senior-associate-pwc-pune-gurugram-bengaluru-4-to-9-years-220726007250",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-22T06:35:39.583628Z"
+  },
+  {
+    "title": "Associate Agency Development Manager",
+    "company": "Axis Max Life Insurance",
+    "location": "mumbai, nagpur, thane, nashik, pune, chhatrapati sambhajinagar",
+    "job_type": "0 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "digital marketing",
+      "insurance",
+      "data analysis",
+      "customer service",
+      "customer relationship management",
+      "insurance products",
+      "market analysis",
+      "life insurance"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-associate-agency-development-manager-axis-max-life-insurance-limited-mumbai-nagpur-thane-nashik-pune-chhatrapati-sambhajinagar-0-to-0-years-220726500143",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-22T10:31:20.902877Z"
+  },
+  {
+    "title": "GN - SONG - Service - Sprinklr - Associate Manager",
+    "company": "Accenture",
+    "location": "mumbai",
+    "job_type": "4-6 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "analytics",
+      "business models",
+      "emerging technologies",
+      "front end",
+      "c",
+      "business metrics",
+      "customer service",
+      "customer engagement"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-gn-song-service-sprinklr-associate-manager-accenture-solutions-pvt-ltd-mumbai-4-to-6-years-220726921266",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-22T10:31:21.444710Z"
+  },
+  {
+    "title": "AWS Data Engineer",
+    "company": "Citiustech",
+    "location": "mumbai, pune, chennai",
+    "job_type": "5-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Data Engineering",
+      "Git",
+      "Terraform",
+      "PySpark",
+      "CI/CD",
+      "Azure DevOps",
+      "Angular",
+      "Python"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-aws-data-engineer-citiustech-healthcare-technology-pvt-ltd-mumbai-pune-chennai-5-to-8-years-220726921666",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-22T10:31:21.610799Z"
+  },
+  {
+    "title": "CATO Networks ZTNA Engineer",
+    "company": "Atos",
+    "location": "bengaluru, mumbai (all areas)",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SASE",
+      "ZTNA",
+      "Zscaler",
+      "Cato Network",
+      "FWaaS",
+      "CASB",
+      "SWG",
+      "SDWAN"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-cato-networks-ztna-engineer-atos-bengaluru-mumbai-all-areas-6-to-11-years-220726022651",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-22T10:31:21.776720Z"
   }
 ]
