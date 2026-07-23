@@ -15295,5 +15295,71 @@
     "apply_link": "https://www.naukri.com/job-listings-consultant-checkpoint-firewalls-waf-cisco-nac-atos-pvt-ltd-navi-mumbai-6-to-11-years-230726505055",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-23T14:20:44.882496Z"
+  },
+  {
+    "title": "SAP ERP Materials Management (MM)-Technical Lead",
+    "company": "Tata Consultancy Services",
+    "location": "bengaluru, mumbai (all areas)",
+    "job_type": "10-12 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SAP MM",
+      "Inventory Management",
+      "Vendor Master Data",
+      "Development",
+      "SAP MM Module",
+      "Vendor",
+      "Material management",
+      "MM"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-sap-erp-materials-management-mm-technical-lead-tata-consultancy-services-bengaluru-mumbai-all-areas-10-to-12-years-170626007114",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-23T17:37:45.243067Z"
+  },
+  {
+    "title": "ServiceNow CRM engineer",
+    "company": "Atos",
+    "location": "hybrid - chennai, bengaluru, mumbai (all areas)",
+    "job_type": "7-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "som",
+      "fsm",
+      "servicenow",
+      "csm",
+      "now assist",
+      "gen ai",
+      "crm",
+      "ai agent"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-servicenow-crm-engineer-atos-chennai-bengaluru-mumbai-all-areas-7-to-10-years-230726036906",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-23T17:37:46.307121Z"
+  },
+  {
+    "title": "ServiceNow Developer - AI / Now Assist",
+    "company": "Atos",
+    "location": "hybrid - chennai, bengaluru, mumbai (all areas)",
+    "job_type": "7-12 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "servicenow",
+      "integration",
+      "virtual agent",
+      "now assist",
+      "ai agent",
+      "cmdb",
+      "csdm",
+      "Servicenow Development"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-servicenow-developer-ai-now-assist-atos-chennai-bengaluru-mumbai-all-areas-7-to-12-years-230726036880",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-23T17:37:46.386662Z"
   }
 ]
