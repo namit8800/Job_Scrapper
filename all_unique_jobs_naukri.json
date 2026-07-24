@@ -15449,5 +15449,69 @@
     "apply_link": "https://www.naukri.com/job-listings-llm-engineer-pharma-life-sciences-pwc-hyderabad-pune-bengaluru-8-to-12-years-230726023301",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-24T03:23:08.476680Z"
+  },
+  {
+    "title": "Accounts Payable Specialist",
+    "company": "Deloitte US-India Offices",
+    "location": "hyderabad, pune, gurugram",
+    "job_type": "2-5 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Accounts Payable",
+      "Vendor Payments",
+      "P2P Cycle",
+      "Payables",
+      "PTP",
+      "P2P",
+      "Payments",
+      "Vendor"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-accounts-payable-specialist-deloitte-us-india-offices-hyderabad-pune-gurugram-2-to-5-years-271025006471",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-24T06:32:37.135075Z"
+  },
+  {
+    "title": "Test Architect",
+    "company": "Tata Consultancy Services",
+    "location": "mumbai, pune, bengaluru",
+    "job_type": "12-16 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Playwright",
+      "Ci/Cd",
+      "Selenium",
+      "API Automation",
+      "Test Architecture",
+      "API",
+      "Continuous Integration",
+      "Automation"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-test-architect-tata-consultancy-services-mumbai-pune-bengaluru-12-to-16-years-240726010847",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-24T06:32:37.599188Z"
+  },
+  {
+    "title": "3D Exp - Atos",
+    "company": "Atos",
+    "location": "hybrid - mumbai, chennai, bengaluru",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "PLM",
+      "3Dexperience",
+      "Customization",
+      "Exp",
+      "3D",
+      "Custom"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-3d-exp-atos-atos-mumbai-chennai-bengaluru-5-to-10-years-240726012040",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-24T06:32:38.462903Z"
   }
 ]
