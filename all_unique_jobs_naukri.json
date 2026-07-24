@@ -15711,5 +15711,71 @@
     "apply_link": "https://www.naukri.com/job-listings-behavioural-architect-fractal-analytics-ltd-mumbai-bengaluru-2-to-7-years-230726503742",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-24T13:59:13.872994Z"
+  },
+  {
+    "title": "Senior Consultant - Business Consulting Risk - CCR Quant - RISK - FSRM",
+    "company": "EY",
+    "location": "mumbai",
+    "job_type": "3-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "agile",
+      "project management",
+      "python",
+      "credit risk",
+      "pricing models",
+      "calculus",
+      "quant",
+      "financial services"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-senior-consultant-business-consulting-risk-ccr-quant-risk-fsrm-ernst-young-llp-mumbai-3-to-8-years-240726930086",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-24T17:44:02.174301Z"
+  },
+  {
+    "title": "SAP SD Manager-PWC India - Mumbai/Pune/Bangalore",
+    "company": "PwC India",
+    "location": "hybrid - mumbai, pune, bengaluru",
+    "job_type": "10-20 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SAP SD Implementation",
+      "Sap Sales And Distribution",
+      "SAP S HANA",
+      "SD Module",
+      "Sales And Distribution",
+      "Sales",
+      "S",
+      "SAP Hana"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-sap-sd-manager-pwc-india-mumbai-pune-bangalore-pwc-india-mumbai-pune-bengaluru-10-to-20-years-240726032027",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-24T17:44:02.261780Z"
+  },
+  {
+    "title": "Kafka Administrator",
+    "company": "Atos",
+    "location": "hybrid - chennai, bengaluru, mumbai (all areas)",
+    "job_type": "10-15 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "kakfa",
+      "cluster",
+      "confluent",
+      "ZooKeeper",
+      "apache",
+      "schema",
+      "kraft",
+      "Clustering"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-kafka-administrator-atos-chennai-bengaluru-mumbai-all-areas-10-to-15-years-240726033208",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-24T17:44:02.916814Z"
   }
 ]
