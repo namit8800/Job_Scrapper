@@ -15513,5 +15513,71 @@
     "apply_link": "https://www.naukri.com/job-listings-3d-exp-atos-atos-mumbai-chennai-bengaluru-5-to-10-years-240726012040",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-24T06:32:38.462903Z"
+  },
+  {
+    "title": "Regional Manager Sales",
+    "company": "SKODA",
+    "location": "mumbai, goregaon",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "css",
+      "coordinator",
+      "regional sales",
+      "media",
+      "corporate sales",
+      "retail",
+      "sales",
+      "sales consultant"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-regional-manager-sales-skoda-auto-volkswagen-mumbai-goregaon-6-to-11-years-240726501277",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-24T10:25:21.063831Z"
+  },
+  {
+    "title": "Intercompany Analyst",
+    "company": "Randstad India",
+    "location": "bengaluru, mumbai (all areas)",
+    "job_type": "2-7 Yrs",
+    "salary": "1.75-6 Lacs PA",
+    "salary_numeric": 600000,
+    "skills_required": [
+      "Intercompany",
+      "journal entries",
+      "Balance Sheet",
+      "Intercompany Accounting",
+      "Reconciliation",
+      "Intercompany Transactions",
+      "SAP ERP",
+      "SAP"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-intercompany-analyst-randstad-bengaluru-mumbai-all-areas-2-to-7-years-240726017100",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-24T10:25:21.190084Z"
+  },
+  {
+    "title": "Informatica Data Governance & Metadata Management Expert",
+    "company": "KPMG Assurance and Consulting Services LLP",
+    "location": "gurugram, bengaluru, mumbai (all areas)",
+    "job_type": "5-9 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Metadata",
+      "Lineage",
+      "Informatica",
+      "Data Governance",
+      "Data management",
+      "Governance",
+      "Management",
+      "Metadata Management"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-informatica-data-governance-metadata-management-expert-kpmg-assurance-and-consulting-services-llp-gurugram-bengaluru-mumbai-all-areas-5-to-9-years-240726013901",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-24T10:25:21.724214Z"
   }
 ]
