@@ -15361,5 +15361,93 @@
     "apply_link": "https://www.naukri.com/job-listings-servicenow-developer-ai-now-assist-atos-chennai-bengaluru-mumbai-all-areas-7-to-12-years-230726036880",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-23T17:37:46.386662Z"
+  },
+  {
+    "title": "Windows/VMWare Administrator - Hyderabad/Pune/Bangalore",
+    "company": "Tech Mahindra",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "4-7 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Administration",
+      "Powershell",
+      "vmware",
+      "WINDOWS",
+      "ESX",
+      "Hyper-V",
+      "VCenter",
+      "Cluster"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-windows-vmware-administrator-hyderabad-pune-bangalore-tech-mahindra-hyderabad-pune-bengaluru-4-to-7-years-230726015442",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-24T03:23:07.485721Z"
+  },
+  {
+    "title": "Relationship Manager - CAT - SPARC",
+    "company": "Axis Max Life Insurance",
+    "location": "mumbai, nagpur, thane, nashik, pune, chhatrapati sambhajinagar",
+    "job_type": "0-4 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "insurance",
+      "crm systems",
+      "customer service",
+      "interpersonal skills",
+      "networking",
+      "sales",
+      "life insurance",
+      "claims processing"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-relationship-manager-cat-sparc-axis-max-life-insurance-limited-mumbai-nagpur-thane-nashik-pune-chhatrapati-sambhajinagar-0-to-4-years-230726501059",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-24T03:23:07.649281Z"
+  },
+  {
+    "title": "Maintenance Technician",
+    "company": "Rockwell Automation",
+    "location": "noida, new delhi, pune, bengaluru",
+    "job_type": "3-9 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Supply chain management",
+      "Automation",
+      "SAP",
+      "System integration",
+      "GTS",
+      "Agile",
+      "microsoft",
+      "ABAP"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-maintenance-technician-rockwell-automation-noida-new-delhi-pune-bengaluru-3-to-9-years-230726503726",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-24T03:23:07.807967Z"
+  },
+  {
+    "title": "LLM Engineer - Pharma Life Sciences",
+    "company": "PwC",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "8-12 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Langgraph",
+      "Langchain",
+      "Large Language Model",
+      "pharma",
+      "Life Sciences",
+      "Languages",
+      "Pharmaceutical",
+      "Large"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-llm-engineer-pharma-life-sciences-pwc-hyderabad-pune-bengaluru-8-to-12-years-230726023301",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-24T03:23:08.476680Z"
   }
 ]
