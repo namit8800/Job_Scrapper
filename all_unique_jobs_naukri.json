@@ -15865,5 +15865,49 @@
     "apply_link": "https://www.naukri.com/job-listings-sr-analyst-quality-tech-mahindra-ltd-hyderabad-pune-bengaluru-4-to-9-years-240726502860",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-25T03:21:34.214376Z"
+  },
+  {
+    "title": "Technical Lead",
+    "company": "Tata Consultancy Services",
+    "location": "pune, bengaluru, mumbai (all areas)",
+    "job_type": "10-15 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Azure Data Factory",
+      "Pyspark",
+      "Azure Databricks",
+      "Data Modeling",
+      "SQL",
+      "Delta Lake",
+      "Factory",
+      "Data"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-technical-lead-tata-consultancy-services-pune-bengaluru-mumbai-all-areas-10-to-15-years-250726011768",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-25T09:55:20.036896Z"
+  },
+  {
+    "title": "Mulesoft Developer",
+    "company": "Tata Consultancy Services",
+    "location": "kolkata, pune, mumbai (all areas)",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Mulesoft Integration",
+      "Rest",
+      "SOAP",
+      "Mulesoft API",
+      "SaaS Applications",
+      "API Management",
+      "Management",
+      "Mule ESB"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-mulesoft-developer-tata-consultancy-services-kolkata-pune-mumbai-all-areas-5-to-10-years-250726011161",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-25T09:55:20.500317Z"
   }
 ]
