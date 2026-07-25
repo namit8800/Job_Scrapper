@@ -15777,5 +15777,93 @@
     "apply_link": "https://www.naukri.com/job-listings-kafka-administrator-atos-chennai-bengaluru-mumbai-all-areas-10-to-15-years-240726033208",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-24T17:44:02.916814Z"
+  },
+  {
+    "title": "Consultant-Risk Consulting-ESG (Environmental, Social & Governance)",
+    "company": "EY",
+    "location": "mumbai",
+    "job_type": "1-6 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "accounting",
+      "risk assessment",
+      "market intelligence",
+      "data governance",
+      "legal",
+      "risk consulting",
+      "quantitative analysis",
+      "research"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-consultant-risk-consulting-esg-environmental-social-governance-ernst-young-llp-mumbai-1-to-6-years-240726929820",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-25T03:21:33.475938Z"
+  },
+  {
+    "title": "SAP Hana Service",
+    "company": "Tech Mahindra",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "7-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SAP Hana Service",
+      "S4 Hana",
+      "SAP S4 HANA SD",
+      "SAP",
+      "SD",
+      "SAP S Hana",
+      "SAP Hana",
+      "Saps"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-sap-hana-service-tech-mahindra-hyderabad-pune-bengaluru-7-to-10-years-240726032072",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-25T03:21:33.710230Z"
+  },
+  {
+    "title": "Epm Consultant - EDMCS/EPBCS/PCMCS",
+    "company": "PwC",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "4-9 Yrs",
+    "salary": "8-18 Lacs PA",
+    "salary_numeric": 1800000,
+    "skills_required": [
+      "EDMCS",
+      "EPM",
+      "Epbcs",
+      "PCM",
+      "Oracle Enterprise Performance Management",
+      "Oracle EPM",
+      "Enterprise Performance Management",
+      "Enterprise"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-epm-consultant-edmcs-epbcs-pcmcs-pwc-hyderabad-pune-bengaluru-4-to-9-years-240726032161",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-25T03:21:34.143198Z"
+  },
+  {
+    "title": "Sr. Analyst - Quality",
+    "company": "Tech Mahindra",
+    "location": "hyderabad, pune, bengaluru",
+    "job_type": "4-9 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "itsm tools",
+      "cmdb",
+      "sla",
+      "change management",
+      "technical support",
+      "operations",
+      "servicenow",
+      "customer satisfaction"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-sr-analyst-quality-tech-mahindra-ltd-hyderabad-pune-bengaluru-4-to-9-years-240726502860",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-25T03:21:34.214376Z"
   }
 ]
