@@ -15909,5 +15909,45 @@
     "apply_link": "https://www.naukri.com/job-listings-mulesoft-developer-tata-consultancy-services-kolkata-pune-mumbai-all-areas-5-to-10-years-250726011161",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-25T09:55:20.500317Z"
+  },
+  {
+    "title": "Vue.Js Developer",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, chennai, mumbai (all areas)",
+    "job_type": "5-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Vue.js",
+      "vue3",
+      "Vuex",
+      "Development"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-vue-js-developer-tata-consultancy-services-hyderabad-chennai-mumbai-all-areas-5-to-8-years-250726012792",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-25T13:49:24.088862Z"
+  },
+  {
+    "title": "Instructional Designer",
+    "company": "Tata Consultancy Services",
+    "location": "noida, mumbai, new delhi",
+    "job_type": "9-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Instructional Design",
+      "Storyboarding",
+      "Captivate",
+      "Blooms Taxonomy",
+      "Articulate Storyline",
+      "Addie",
+      "Taxonomy",
+      "Design"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-instructional-designer-tata-consultancy-services-noida-mumbai-new-delhi-9-to-10-years-250726013002",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-25T13:49:24.168121Z"
   }
 ]
