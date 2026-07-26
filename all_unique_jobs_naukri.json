@@ -16277,5 +16277,27 @@
     "apply_link": "https://www.naukri.com/job-listings-capgemini-is-hiring-for-sap-abap-rap-8-to14-years-capgemini-pune-bengaluru-mumbai-all-areas-8-to-13-years-250726009967",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-26T03:35:33.890433Z"
+  },
+  {
+    "title": "Tcs hiring For MySQL DBA",
+    "company": "Tata Consultancy Services",
+    "location": "pune, bengaluru, delhi / ncr",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "MySQL",
+      "replication",
+      "MySQL Database Administration",
+      "MySQL Database",
+      "TCAE",
+      "SQL database",
+      "Administration",
+      "Database administration"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-tcs-hiring-for-mysql-dba-tata-consultancy-services-pune-bengaluru-delhi-ncr-6-to-11-years-200626013042",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-26T06:42:11.947591Z"
   }
 ]
