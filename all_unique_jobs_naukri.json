@@ -16383,5 +16383,49 @@
     "apply_link": "https://www.naukri.com/job-listings-sr-manager-itac-controls-testing-tata-motors-global-services-limited-pune-mumbai-all-areas-6-to-11-years-220626019376",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-26T13:42:44.843253Z"
+  },
+  {
+    "title": "Azure Data Engineer",
+    "company": "Tata Consultancy Services",
+    "location": "chennai, bengaluru, mumbai (all areas)",
+    "job_type": "8-13 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Azure Data Factory",
+      "Azure Databricks",
+      "Azure Synapse",
+      "Azure Data Lake",
+      "Factory",
+      "Data Lake",
+      "Microsoft Azure",
+      "Data"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-azure-data-engineer-tata-consultancy-services-chennai-bengaluru-mumbai-all-areas-8-to-13-years-260726004156",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-26T17:09:06.331349Z"
+  },
+  {
+    "title": ".NET Developer (ASP.NET MVC / .NET Core),Web API, jQuery+SQL",
+    "company": "eClerx",
+    "location": "hybrid - mumbai, pune",
+    "job_type": "8-13 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "WEB API",
+      "MVC",
+      ".NET Core",
+      "SQL",
+      "C#",
+      ".Net framework",
+      "AI",
+      "ASP.NET"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-net-developer-asp-net-mvc-net-core-web-api-jquery-sql-eclerx-mumbai-pune-8-to-13-years-190726004137",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-26T17:09:07.138632Z"
   }
 ]
