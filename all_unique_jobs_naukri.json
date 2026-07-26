@@ -16427,5 +16427,27 @@
     "apply_link": "https://www.naukri.com/job-listings-net-developer-asp-net-mvc-net-core-web-api-jquery-sql-eclerx-mumbai-pune-8-to-13-years-190726004137",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-26T17:09:07.138632Z"
+  },
+  {
+    "title": "Apigee developer @ Pune/Bangalore",
+    "company": "Intelliswift Software An LTTS-Company",
+    "location": "pune, bengaluru",
+    "job_type": "5-10 Yrs",
+    "salary": "20-30 Lacs PA",
+    "salary_numeric": 3000000,
+    "skills_required": [
+      "Apigee Edge",
+      "API Management",
+      "Apigee API Management",
+      "Apigee Hybrid",
+      "Apigee X",
+      "API Integration",
+      "API Design and Development",
+      "Apigee"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-apigee-developer-pune-bangalore-intelliswift-pune-bengaluru-5-to-10-years-180626018957",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-26T21:04:08.210504Z"
   }
 ]
