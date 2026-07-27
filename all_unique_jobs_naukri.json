@@ -17431,5 +17431,49 @@
     "apply_link": "https://www.naukri.com/job-listings-gn-i-e-banking-core-banking-analyst-accenture-solutions-pvt-ltd-mumbai-4-to-9-years-270726926009",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-27T17:48:10.816114Z"
+  },
+  {
+    "title": "Azure Data Engineer",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, pune, mumbai (all areas)",
+    "job_type": "8-13 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Azure Data Factory",
+      "Azure Synapse",
+      "Pyspark",
+      "Azure Databricks",
+      "Azure Data Lake",
+      "Azure Database technologies",
+      "Data Modeling",
+      "Modeling"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-azure-data-engineer-tata-consultancy-services-hyderabad-pune-mumbai-all-areas-8-to-13-years-270726033276",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-27T21:17:55.583508Z"
+  },
+  {
+    "title": "Ai Ml Engineer",
+    "company": "Tata Consultancy Services",
+    "location": "pune, delhi / ncr, mumbai (all areas)",
+    "job_type": "6-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "generative ai",
+      "Cloud and Mlops",
+      "Natural Language Processing",
+      "Rag and Agentic AI",
+      "Deep Learning",
+      "Machine Learning",
+      "Python",
+      "Ml"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-ai-ml-engineer-tata-consultancy-services-pune-delhi-ncr-mumbai-all-areas-6-to-8-years-280726000054",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-27T21:17:55.945189Z"
   }
 ]
