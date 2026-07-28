@@ -17541,5 +17541,27 @@
     "apply_link": "https://www.naukri.com/job-listings-grc-tprm-archer-face-to-face-interview-for-1st-august-tata-consultancy-services-navi-mumbai-5-to-10-years-280726033679",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-28T14:24:54.220565Z"
+  },
+  {
+    "title": "Senior Analyst",
+    "company": "eClerx",
+    "location": "navi mumbai",
+    "job_type": "2-4 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "BI",
+      "Alteryx",
+      "Tableau",
+      "Machine Learning",
+      "Data Science",
+      "R",
+      "Excel",
+      "VBA"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-senior-analyst-eclerx-navi-mumbai-2-to-4-years-280726035334",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-28T17:40:24.890475Z"
   }
 ]
