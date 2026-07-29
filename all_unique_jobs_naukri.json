@@ -18084,5 +18084,93 @@
     "apply_link": "https://www.naukri.com/job-listings-behavioural-architect-fractal-analytics-ltd-mumbai-2-to-7-years-290726500735",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-29T10:45:41.854910Z"
+  },
+  {
+    "title": "Associate Warehouse Manager",
+    "company": "Novo Nordisk",
+    "location": "mumbai",
+    "job_type": "3-6 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "inventory control",
+      "pharmaceutical",
+      "operations",
+      "supply chain",
+      "compliance",
+      "quality assurance",
+      "supply chain management",
+      "warehouse operations"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-associate-warehouse-manager-novo-nordisk-centre-india-pvt-ltd-mumbai-3-to-6-years-290726503547",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-29T14:24:09.695130Z"
+  },
+  {
+    "title": "Ignition Scada Engineer",
+    "company": "Capgemini",
+    "location": "navi mumbai",
+    "job_type": "2-5 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Sql",
+      "Opc",
+      "Configuration",
+      "Api Integration",
+      "Scripting",
+      "Sdlc",
+      "Rest",
+      "Development"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-ignition-scada-engineer-capgemini-technology-services-india-limited-navi-mumbai-2-to-5-years-290726926490",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-29T14:24:10.064833Z"
+  },
+  {
+    "title": "Senior Manager, Digital & Technology Transformation, Rooms Ops",
+    "company": "Marriott",
+    "location": "mumbai",
+    "job_type": "7-12 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "loyalty program",
+      "opera",
+      "business requirements",
+      "crs",
+      "hotel operations",
+      "adult learning",
+      "command center",
+      "change management"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-senior-manager-digital-technology-transformation-rooms-ops-marriott-mumbai-7-to-12-years-290726502226",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-29T14:24:10.305629Z"
+  },
+  {
+    "title": "AI ADL Professional",
+    "company": "Citiustech",
+    "location": "mumbai, pune, chennai, bengaluru",
+    "job_type": "12-15 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "ai frameworks",
+      "ai solutions",
+      "ai",
+      "concurrent",
+      "crewai",
+      "cloud platform",
+      "cadence",
+      "ai governance"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-ai-adl-professional-citiustech-mumbai-pune-chennai-bengaluru-12-to-15-years-290726503961",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-29T14:24:10.430640Z"
   }
 ]
