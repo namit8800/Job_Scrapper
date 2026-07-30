@@ -40822,5 +40822,33 @@
     "source_platform": "Internshala",
     "duration": "N/A",
     "scraped_at": "2026-07-29T21:03:04.368460Z"
+  },
+  {
+    "title": "Human Resources (HR)",
+    "company": "Potens IT Services & Consultancy",
+    "location": "pune",
+    "job_type": "Internship",
+    "salary": "\u20b9 10,000 - 15,000 /month",
+    "salary_numeric": 10000,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/human-resources-hr-internship-in-pune-at-potens-it-services-consultancy1785358884",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-07-30T02:50:46.932150Z"
+  },
+  {
+    "title": "Content Writing",
+    "company": "Global Trend",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "\u20b9 7,000 /month",
+    "salary_numeric": 7000,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-content-writing-internship-at-global-trend1785357969",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-07-30T02:50:47.203396Z"
   }
 ]
