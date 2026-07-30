@@ -18212,5 +18212,48 @@
     "apply_link": "https://www.naukri.com/job-listings-senior-analyst-eclerx-chandigarh-pune-mumbai-all-areas-0-to-1-years-290726031535",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-30T02:50:55.375438Z"
+  },
+  {
+    "title": "Deputy Customer Relations Manager",
+    "company": "Sun Life",
+    "location": "mumbai, pune, ahmedabad",
+    "job_type": "0-5 Yrs",
+    "salary": "2.75-6 Lacs PA",
+    "salary_numeric": 600000,
+    "skills_required": [
+      "Sales",
+      "Customer Relationship",
+      "Communication Skills",
+      "Bancassurance",
+      "Insurance",
+      "Management",
+      "Relationship"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-deputy-customer-relations-manager-sun-life-mumbai-pune-ahmedabad-0-to-5-years-300726012044",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-30T06:34:01.602662Z"
+  },
+  {
+    "title": "Gen AI / Agentic AI Architect",
+    "company": "Tech Mahindra",
+    "location": "mumbai, pune, bengaluru",
+    "job_type": "10-15 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Agentic Ai",
+      "generative ai",
+      "Cloud",
+      "AI/ML concepts",
+      "Financial Services",
+      "Artificial Intelligence",
+      "Architecture",
+      "Gen"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-gen-ai-agentic-ai-architect-tech-mahindra-mumbai-pune-bengaluru-10-to-15-years-080426010750",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-30T06:34:02.010067Z"
   }
 ]
