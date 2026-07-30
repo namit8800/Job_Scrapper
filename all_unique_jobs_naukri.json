@@ -18255,5 +18255,49 @@
     "apply_link": "https://www.naukri.com/job-listings-gen-ai-agentic-ai-architect-tech-mahindra-mumbai-pune-bengaluru-10-to-15-years-080426010750",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-30T06:34:02.010067Z"
+  },
+  {
+    "title": "Packaged/SaaS Application Engineer",
+    "company": "Accenture",
+    "location": "mumbai",
+    "job_type": "3-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Apis",
+      "Application Programming",
+      "Business Requirements",
+      "Servicenow Hrsd",
+      "Servicenow",
+      "Saas",
+      "Integration Testing",
+      "Programming"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-packaged-saas-application-engineer-accenture-solutions-pvt-ltd-mumbai-3-to-8-years-300726923973",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-30T10:31:01.314462Z"
+  },
+  {
+    "title": "Custom Software Engineering Lead",
+    "company": "Accenture",
+    "location": "mumbai",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Architecture",
+      "Performance Optimization",
+      "Knowledge Management",
+      "Servicenow",
+      "Software Architecture",
+      "Code Quality",
+      "Software Solutions",
+      "Integrations"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-custom-software-engineering-lead-accenture-solutions-pvt-ltd-mumbai-5-to-10-years-300726924068",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-30T10:31:01.495592Z"
   }
 ]
