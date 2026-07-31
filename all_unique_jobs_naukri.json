@@ -18670,5 +18670,49 @@
     "apply_link": "https://www.naukri.com/job-listings-senior-financial-analyst-epm-sys-ops-johnson-johnson-innovative-medicine-mumbai-2-to-5-years-310726501226",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-31T10:46:35.844252Z"
+  },
+  {
+    "title": "Tcs Virtual Interview on 7th Aug 26 For SAP Fiori Developer",
+    "company": "Tata Consultancy Services",
+    "location": "navi mumbai, bengaluru",
+    "job_type": "8-13 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SAP Fiori",
+      "SAP Gateway",
+      "Odata",
+      "SAP Fiori UI5",
+      "OO ABAP",
+      "SAP",
+      "Abap",
+      "Sapui5"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-tcs-virtual-interview-on-7th-aug-26-for-sap-fiori-developer-tata-consultancy-services-navi-mumbai-bengaluru-8-to-13-years-300726034661",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-31T14:25:03.295536Z"
+  },
+  {
+    "title": "F2F Interview - Mainframe Developer",
+    "company": "Atos",
+    "location": "chennai, bengaluru, mumbai (all areas)",
+    "job_type": "6-9 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "IMS DC",
+      "Cobol",
+      "IMS DB",
+      "IBM Mainframe technologies",
+      "VSAM",
+      "JCL",
+      "DB2",
+      "enhancements"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-f2f-interview-mainframe-developer-atos-chennai-bengaluru-mumbai-all-areas-6-to-9-years-310726027524",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-31T14:25:04.691356Z"
   }
 ]
