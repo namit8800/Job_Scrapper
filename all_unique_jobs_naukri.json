@@ -18430,5 +18430,113 @@
     "apply_link": "https://www.naukri.com/job-listings-calypso-techno-functional-consultant-eclerx-pune-bengaluru-mumbai-all-areas-5-to-10-years-290726013120",
     "source_platform": "Naukri",
     "scraped_at": "2026-07-30T21:17:40.263740Z"
+  },
+  {
+    "title": "AWS Glue Developer - 4th Aug (Tuesday) - Virtual Interview",
+    "company": "Tata Consultancy Services",
+    "location": "noida, hyderabad, pune",
+    "job_type": "5-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Glue",
+      "AWS",
+      "Amazon Redshift",
+      "Lamda",
+      "AWS Cloud",
+      "EMR",
+      "AWS Glue",
+      "Cloud"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-aws-glue-developer-4th-aug-tuesday-virtual-interview-tata-consultancy-services-noida-hyderabad-pune-5-to-8-years-310726007083",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-31T03:34:13.212660Z"
+  },
+  {
+    "title": "Capital Market Business Analyst",
+    "company": "PwC",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "5-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Investment Banking",
+      "Front Office",
+      "Derivatives",
+      "Capital Market",
+      "Trade Life Cycle",
+      "Middle Office",
+      "Futures",
+      "Bonds"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-capital-market-business-analyst-pwc-hyderabad-pune-bengaluru-5-to-8-years-310726007620",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-31T03:34:13.462200Z"
+  },
+  {
+    "title": "Dot Net Developer",
+    "company": "Capgemini",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "C#",
+      ".NET",
+      "Angular",
+      ".NET Core",
+      "SQL",
+      "Core",
+      "DoT",
+      "Development"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-dot-net-developer-capgemini-hyderabad-pune-bengaluru-6-to-11-years-300726034081",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-31T03:34:13.717340Z"
+  },
+  {
+    "title": "Ai Architect",
+    "company": "PwC",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "7-12 Yrs",
+    "salary": "22.5-37.5 Lacs PA",
+    "salary_numeric": 3750000,
+    "skills_required": [
+      "deploy",
+      "AI",
+      "Rag",
+      "deployment",
+      "Artificial Intelligence",
+      "Architecture"
+    ],
+    "posting_date": "Today",
+    "apply_link": "https://www.naukri.com/job-listings-ai-architect-pwc-hyderabad-pune-bengaluru-7-to-12-years-310726000104",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-31T03:34:13.785005Z"
+  },
+  {
+    "title": "Capital Market Manager",
+    "company": "PwC",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "9-13 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Investment Banking",
+      "Front Office",
+      "Capital Market",
+      "Trade Life Cycle",
+      "Settlements",
+      "Mutual Funds",
+      "Middle Office",
+      "Bonds"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-capital-market-manager-pwc-hyderabad-pune-bengaluru-9-to-13-years-310726007844",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-07-31T03:34:13.949683Z"
   }
 ]
