@@ -18865,5 +18865,27 @@
     "apply_link": "https://www.naukri.com/job-listings-salesforce-apex-technical-senior-consultant-deloitte-us-india-offices-hyderabad-pune-bengaluru-6-to-10-years-310726025772",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-01T03:33:27.869995Z"
+  },
+  {
+    "title": "Senior Product / Integration Engineer",
+    "company": "Tata Consultancy Services",
+    "location": "thane, bengaluru, mumbai (all areas)",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Java Architecture",
+      "Core Banking",
+      "Payment Systems",
+      "Java",
+      "Spring Boot",
+      "Spring",
+      "Technical Architecture",
+      "Microservices"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-senior-product-integration-engineer-tata-consultancy-services-thane-bengaluru-mumbai-all-areas-6-to-11-years-010826011742",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-01T13:42:03.630880Z"
   }
 ]
