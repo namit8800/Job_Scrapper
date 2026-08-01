@@ -44154,5 +44154,33 @@
     "source_platform": "Internshala",
     "duration": "N/A",
     "scraped_at": "2026-08-01T17:07:18.579210Z"
+  },
+  {
+    "title": "Business Development (Sales)",
+    "company": "Simtrak",
+    "location": "kolkata",
+    "job_type": "Internship",
+    "salary": "\u20b9 10,000 /month",
+    "salary_numeric": 10000,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/business-development-sales-internship-in-kolkata-at-simtrak1785608380",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-08-01T21:02:11.887687Z"
+  },
+  {
+    "title": "Artificial Intelligence (AI)",
+    "company": "Seven Fincorp",
+    "location": "bangalore",
+    "job_type": "Internship",
+    "salary": "\u20b9 20,000 - 40,000 /month",
+    "salary_numeric": 20000,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-bangalore-at-seven-fincorp1785611098",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-08-01T21:02:11.949440Z"
   }
 ]
