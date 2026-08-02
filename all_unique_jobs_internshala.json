@@ -44770,5 +44770,47 @@
     "source_platform": "Internshala",
     "duration": "N/A",
     "scraped_at": "2026-08-02T13:41:39.599686Z"
+  },
+  {
+    "title": "Business Development (Sales)",
+    "company": "Brandshark",
+    "location": "bangalore",
+    "job_type": "Internship",
+    "salary": "\u20b9 10,000 /month",
+    "salary_numeric": 10000,
+    "skills_required": [],
+    "posting_date": "3 days ago",
+    "apply_link": "https://internshala.com/internship/detail/business-development-sales-internship-in-bangalore-at-brandshark1785410823",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-08-02T17:07:43.948832Z"
+  },
+  {
+    "title": "Human Resources (HR)",
+    "company": "Sanyukt Organisation",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "Unpaid",
+    "salary_numeric": null,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-human-resources-hr-internship-at-sanyukt-organisation1785685827",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-08-02T17:07:44.520829Z"
+  },
+  {
+    "title": "Volunteering",
+    "company": "Devasya Welfare Foundation",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "\u20b9 3,000 - 4,000 lump sum",
+    "salary_numeric": 3000,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-part-time-volunteering-internship-at-devasya-welfare-foundation1785686001",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-08-02T17:07:44.828345Z"
   }
 ]
