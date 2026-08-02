@@ -19235,5 +19235,90 @@
     "apply_link": "https://www.naukri.com/job-listings-sap-tm-functional-consultant-capgemini-pune-bengaluru-mumbai-all-areas-10-to-20-years-220126036910",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-02T03:33:07.729247Z"
+  },
+  {
+    "title": "Customer Support Representative",
+    "company": "Trigent Software",
+    "location": "mumbai, pune, bengaluru",
+    "job_type": "0-1 Yrs",
+    "salary": "2-3.25 Lacs PA",
+    "salary_numeric": 325000,
+    "skills_required": [
+      "US Voice Process",
+      "International Voice Process",
+      "International Voice",
+      "International Calling",
+      "International BPO",
+      "Voice process",
+      "BPO",
+      "Calling"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-customer-support-representative-trigent-software-mumbai-pune-bengaluru-0-to-1-years-020826004283",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-02T10:03:19.583757Z"
+  },
+  {
+    "title": "HR International Customer Support Representative (Freshers)",
+    "company": "Trigent Software",
+    "location": "mumbai, pune, bengaluru",
+    "job_type": "0-1 Yrs",
+    "salary": "2-3.25 Lacs PA",
+    "salary_numeric": 325000,
+    "skills_required": [
+      "Customer Support",
+      "US Voice Process",
+      "International Voice Process",
+      "Voice Support",
+      "International Calling",
+      "International voice",
+      "Voice process",
+      "Calling"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-hr-international-customer-support-representative-freshers-trigent-software-mumbai-pune-bengaluru-0-to-1-years-020826004318",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-02T10:03:19.666622Z"
+  },
+  {
+    "title": "Rcm Ar Caller",
+    "company": "PwC",
+    "location": "hyderabad, bengaluru",
+    "job_type": "0-5 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "ar calling",
+      "Denials",
+      "RCM",
+      "Calling",
+      "Augmented Reality"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-rcm-ar-caller-pwc-hyderabad-bengaluru-0-to-5-years-200726011031",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-02T10:03:19.809662Z"
+  },
+  {
+    "title": "Sap Fico Lead/Senior Manager/Program Manager",
+    "company": "Capgemini",
+    "location": "hybrid - pune, bengaluru, mumbai (all areas)",
+    "job_type": "10-20 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SAP FICO",
+      "SAP FICO Implementation",
+      "SAP FI",
+      "SAP Finance",
+      "FICO",
+      "Senior management",
+      "SAP",
+      "FI"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-sap-fico-lead-senior-manager-program-manager-capgemini-pune-bengaluru-mumbai-all-areas-10-to-20-years-190326014555",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-02T10:03:20.379366Z"
   }
 ]
