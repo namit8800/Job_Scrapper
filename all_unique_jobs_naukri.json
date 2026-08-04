@@ -20345,5 +20345,137 @@
     "apply_link": "https://www.naukri.com/job-listings-housekeeping-associate-marriott-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-0-to-2-years-040826500214",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-04T10:45:49.987287Z"
+  },
+  {
+    "title": "Captain",
+    "company": "Licious",
+    "location": "noida, mumbai, hyderabad, new delhi, pune, panchkula, ahmedabad, gurugram, bengaluru",
+    "job_type": "0-5 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "food safety",
+      "service quality",
+      "operations",
+      "customer satisfaction",
+      "service delivery",
+      "customer feedback",
+      "captain",
+      "inventory management"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-captain-licious-noida-mumbai-hyderabad-new-delhi-pune-panchkula-ahmedabad-gurugram-bengaluru-0-to-5-years-040826503001",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-04T14:30:40.387439Z"
+  },
+  {
+    "title": "Associate BDM - APC",
+    "company": "Axis Max Life Insurance",
+    "location": "mumbai, nagpur, thane, nashik, pune, chhatrapati sambhajinagar",
+    "job_type": "0-5 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "market trends",
+      "sales strategies",
+      "sales performance",
+      "channel sales",
+      "customer service",
+      "crm software",
+      "bdm",
+      "communication and interpersonal skills"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-associate-bdm-apc-axis-max-life-insurance-limited-mumbai-nagpur-thane-nashik-pune-chhatrapati-sambhajinagar-0-to-5-years-040826503693",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-04T14:30:40.478040Z"
+  },
+  {
+    "title": "Sales Manager",
+    "company": "NoBroker",
+    "location": "mumbai, hyderabad, pune",
+    "job_type": "1-6 Yrs",
+    "salary": "4.25-9 Lacs PA",
+    "salary_numeric": 900000,
+    "skills_required": [
+      "B2B",
+      "Field Sales",
+      "Channel Sales",
+      "B2B Sales",
+      "Channel Partner Development",
+      "Management",
+      "Sales",
+      "Field"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-sales-manager-nobroker-mumbai-hyderabad-pune-1-to-6-years-040826031917",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-04T14:30:40.644553Z"
+  },
+  {
+    "title": "QA Presales Consultant/SME",
+    "company": "Tata Consultancy Services",
+    "location": "noida, mumbai, hyderabad",
+    "job_type": "10-19 Yrs",
+    "salary": "30-45 Lacs PA",
+    "salary_numeric": 4500000,
+    "skills_required": [
+      "Presales",
+      "QA Automation",
+      "Automation Testing",
+      "QA Presales",
+      "Quality assurance",
+      "Consulting",
+      "Software testing",
+      "Automation"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-qa-presales-consultant-sme-tata-consultancy-services-noida-mumbai-hyderabad-10-to-19-years-040826030915",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-04T14:30:40.818188Z"
+  },
+  {
+    "title": "Sales Manager - Bancassurance",
+    "company": "Axis Max Life Insurance",
+    "location": "mumbai, nagpur, thane, nashik, pune, chhatrapati sambhajinagar",
+    "job_type": "0-5 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "market trends",
+      "sales management",
+      "sales strategies",
+      "sales professionals",
+      "sales performance",
+      "bancassurance",
+      "sales",
+      "communication skills"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-sales-manager-bancassurance-axis-max-life-insurance-limited-mumbai-nagpur-thane-nashik-pune-chhatrapati-sambhajinagar-0-to-5-years-040826503690",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-04T14:30:40.900100Z"
+  },
+  {
+    "title": "UiPath Test Automation Architect",
+    "company": "Tata Consultancy Services",
+    "location": "mumbai, hyderabad, bengaluru",
+    "job_type": "10-20 Yrs",
+    "salary": "30-45 Lacs PA",
+    "salary_numeric": 4500000,
+    "skills_required": [
+      "UiPath",
+      "Architect",
+      "UiPath Studio",
+      "UI Automation Testing",
+      "Azure DevOps",
+      "UiPath Orchestrator",
+      "RPA UI Path",
+      "DevOps"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-uipath-test-automation-architect-tata-consultancy-services-mumbai-hyderabad-bengaluru-10-to-20-years-040826027574",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-04T14:30:40.985095Z"
   }
 ]
