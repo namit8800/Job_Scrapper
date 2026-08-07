@@ -21562,5 +21562,27 @@
     "apply_link": "https://www.naukri.com/job-listings-lead-analyst-johnson-johnson-innovative-medicine-mumbai-5-to-8-years-070826500107",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-07T13:17:29.901644Z"
+  },
+  {
+    "title": "Agile Lead",
+    "company": "Hdfc Bank",
+    "location": "hybrid - kolkata, mumbai, bengaluru",
+    "job_type": "11-15 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Microservices",
+      "Cloud",
+      "Agile",
+      "Data Governance",
+      "Project Planning",
+      "Azure",
+      "JIRA",
+      "Cicd Methodology"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-agile-lead-hdfc-bank-kolkata-mumbai-bengaluru-11-to-15-years-070826039832",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-07T16:58:54.708219Z"
   }
 ]
