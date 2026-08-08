@@ -51742,5 +51742,61 @@
     "source_platform": "Internshala",
     "duration": "N/A",
     "scraped_at": "2026-08-08T13:00:57.737053Z"
+  },
+  {
+    "title": "Talent Acquisition",
+    "company": "Codingal Education Private Limited",
+    "location": "bangalore",
+    "job_type": "Internship",
+    "salary": "\u20b9 21,000 - 29,000 /month",
+    "salary_numeric": 21000,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/talent-acquisition-internship-in-bangalore-at-codingal-education-private-limited1786202652",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-08-08T16:41:11.836464Z"
+  },
+  {
+    "title": "Content Writing",
+    "company": "Myraid",
+    "location": "bangalore",
+    "job_type": "Internship",
+    "salary": "\u20b9 4,500 - 5,000 /month",
+    "salary_numeric": 4500,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/content-writing-internship-in-bangalore-at-myraid1786202413",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-08-08T16:41:11.948391Z"
+  },
+  {
+    "title": "Human Resources (HR)",
+    "company": "CareerNest",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "\u20b9 12,000 - 20,000 /month",
+    "salary_numeric": 12000,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-human-resources-hr-internship-at-careernest1786203815",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-08-08T16:41:12.117948Z"
+  },
+  {
+    "title": "Artificial Intelligence (AI)",
+    "company": "She Can Foundation",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "Unpaid",
+    "salary_numeric": null,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-artificial-intelligence-ai-internship-at-she-can-foundation1786200049",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-08-08T16:41:13.781808Z"
   }
 ]
