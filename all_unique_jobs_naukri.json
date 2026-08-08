@@ -21836,5 +21836,27 @@
     "apply_link": "https://www.naukri.com/job-listings-optometrist-super-urgent-opening-centre-for-sight-nashik-pune-mumbai-all-areas-0-to-5-years-080826013778",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-08T13:00:56.974754Z"
+  },
+  {
+    "title": ".NET CORE",
+    "company": "Infosys",
+    "location": "hyderabad, pune, bengaluru",
+    "job_type": "3-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "ASP.NET Core MVC",
+      "ASP.NET Core",
+      ".NET",
+      "ASP.NET MVC",
+      "Core",
+      "MVC",
+      "ASP.Net",
+      ".Net Core"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-net-core-infosys-hyderabad-pune-bengaluru-3-to-8-years-240726031277",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-08T16:41:23.830160Z"
   }
 ]
