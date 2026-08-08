@@ -21799,5 +21799,25 @@
     "apply_link": "https://www.naukri.com/job-listings-operation-expert-deutsche-bank-pune-bengaluru-8-to-12-years-070826033874",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-08T02:02:06.606548Z"
+  },
+  {
+    "title": "Mainframe Developer",
+    "company": "Infosys",
+    "location": "hyderabad, pune, bengaluru",
+    "job_type": "3-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "JCL",
+      "Cics",
+      "Cobol",
+      "Mainframes",
+      "Development",
+      "Mainframe Production Support"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-mainframe-developer-infosys-hyderabad-pune-bengaluru-3-to-8-years-240726031355",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-08T08:50:43.387663Z"
   }
 ]
