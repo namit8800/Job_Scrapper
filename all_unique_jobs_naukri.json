@@ -21858,5 +21858,254 @@
     "apply_link": "https://www.naukri.com/job-listings-net-core-infosys-hyderabad-pune-bengaluru-3-to-8-years-240726031277",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-08T16:41:23.830160Z"
+  },
+  {
+    "title": "Medical Record Executive",
+    "company": "Wockhardt Hospitals",
+    "location": "mumbai(mira road)",
+    "job_type": "0-5 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Medical Records",
+      "Medical"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-medical-record-executive-wockhardt-hospitals-mumbai-0-to-5-years-090724011617",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-09T02:10:20.557826Z"
+  },
+  {
+    "title": "Walkin -(10 & 11 Aug)-International Voice-Night Shifts_ITPL",
+    "company": "Conduent",
+    "location": "bengaluru",
+    "job_type": "N/A",
+    "salary": "3-4.5 Lacs PA",
+    "salary_numeric": 450000,
+    "skills_required": [
+      "fresher"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-walkin-10-11-aug-international-voice-night-shifts-itpl-conduent-bengaluru-0-to-0-years-080826010343",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-09T02:10:20.600797Z"
+  },
+  {
+    "title": "RM-FSG",
+    "company": "Hdfc Bank",
+    "location": "mumbai",
+    "job_type": "0-1 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Commercial Banking",
+      "Mutual Funds",
+      "Compliance",
+      "Sales Management",
+      "Market Intelligence",
+      "Treasury",
+      "Banking Products",
+      "Marketing"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-rm-fsg-hdfc-bank-mumbai-0-to-1-years-080826015634",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-09T02:10:20.682704Z"
+  },
+  {
+    "title": "Data Scientist",
+    "company": "Infosys",
+    "location": "hybrid - pune, bengaluru, delhi / ncr",
+    "job_type": "5-9 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Pandas",
+      "Machine Learning",
+      "Numpy",
+      "Python",
+      "Artificial Intelligence",
+      "Natural Language Processing",
+      "Processing",
+      "Intelligence"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-data-scientist-infosys-pune-bengaluru-delhi-ncr-5-to-9-years-080826010172",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-09T02:10:20.850398Z"
+  },
+  {
+    "title": "Java Architect",
+    "company": "Tata Consultancy Services",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "13-19 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "advanced java",
+      "Java Architect",
+      "Spring Boot",
+      "core java",
+      "Microservices",
+      "RabbitMQ",
+      "Performance Tuning and Security",
+      "Reactive Programming"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-java-architect-tata-consultancy-services-hyderabad-pune-bengaluru-13-to-19-years-060826037286",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-09T02:10:21.115610Z"
+  },
+  {
+    "title": "Azure DevOps Engineers (Azure Cloud)",
+    "company": "Tata Consultancy Services",
+    "location": "pune, chennai, bengaluru",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Jenkins",
+      "Powershell",
+      "Azure Cloud",
+      "Azure DevOps",
+      "Kubernetes",
+      "CI CD Pipeline",
+      "Azure Pipelines",
+      "Terraform"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-azure-devops-engineers-azure-cloud-tata-consultancy-services-pune-chennai-bengaluru-6-to-11-years-080826011055",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-09T02:10:21.197188Z"
+  },
+  {
+    "title": "React / UI Developer -",
+    "company": "Tata Consultancy Services",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "6-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "React js",
+      "JavaScript / ES6+",
+      "Frontend developer",
+      "TypeScript-- REST API Integration / Axios / Fetch",
+      "RESTful APIs.",
+      "Redux",
+      "Context API",
+      "Git/version control systems."
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-react-ui-developer-tata-consultancy-services-hyderabad-pune-bengaluru-6-to-10-years-060826037247",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-09T02:10:21.332790Z"
+  },
+  {
+    "title": "T shaped Data Engineer (Data Engineer + DevOps)",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, pune, chennai",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "DevOps",
+      "GCP",
+      "Terraform",
+      "Kubernetes",
+      "T",
+      "Data"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-t-shaped-data-engineer-data-engineer-devops-tata-consultancy-services-hyderabad-pune-chennai-5-to-10-years-080826009585",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-09T02:10:21.401311Z"
+  },
+  {
+    "title": "SM - Global Business Service",
+    "company": "EY",
+    "location": "pune, chennai, bengaluru",
+    "job_type": "9-14 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "GBS",
+      "GCC SETUP",
+      "Business Consulting",
+      "Consulting",
+      "Global",
+      "Global Trade",
+      "GCC",
+      "Installation"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-sm-global-business-service-ey-pune-chennai-bengaluru-9-to-14-years-080826010195",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-09T02:10:21.478513Z"
+  },
+  {
+    "title": "Salesforce Architect",
+    "company": "Tata Consultancy Services",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "10-15 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Lightning Web Components -LWC",
+      "JavaScript ES6+",
+      "Salesforce Platform",
+      "Apex",
+      "Batch Apex",
+      "Sales Cloud/Service Cloud",
+      "Scheduled Jobs.",
+      "Salesforce DX"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-salesforce-architect-tata-consultancy-services-hyderabad-pune-bengaluru-10-to-15-years-060826037204",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-09T02:10:21.555714Z"
+  },
+  {
+    "title": "SAP SLT Developer",
+    "company": "Bosch Global Software Technologies",
+    "location": "pune, chennai, bengaluru",
+    "job_type": "3-7 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SAP SLT",
+      "ABAP",
+      "CFIN",
+      "SAP",
+      "Abap",
+      "Development",
+      "SAP TM",
+      "Slt"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-sap-slt-developer-bosch-global-software-technologies-pune-chennai-bengaluru-3-to-7-years-080826011522",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-09T02:10:21.857979Z"
+  },
+  {
+    "title": "Quadient Inspire Developer or Senior Developer",
+    "company": "Cognizant",
+    "location": "pune",
+    "job_type": "6-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Electrical Maintenance",
+      "ERP",
+      "Integration",
+      "Configuration",
+      "Debugging",
+      "Workflow",
+      "Data Extraction",
+      "Troubleshooting"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-quadient-inspire-developer-or-senior-developer-cognizant-pune-6-to-10-years-080826015925",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-09T02:10:21.937635Z"
   }
 ]
