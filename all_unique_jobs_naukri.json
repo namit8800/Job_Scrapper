@@ -22107,5 +22107,49 @@
     "apply_link": "https://www.naukri.com/job-listings-quadient-inspire-developer-or-senior-developer-cognizant-pune-6-to-10-years-080826015925",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-09T02:10:21.937635Z"
+  },
+  {
+    "title": "Salesforce FSL Senior Associate",
+    "company": "PwC",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "4-8 Yrs",
+    "salary": "10-20 Lacs PA",
+    "salary_numeric": 2000000,
+    "skills_required": [
+      "Field Service Lightning",
+      "Work Orders",
+      "Lwc",
+      "Service Appointments",
+      "Salesforce",
+      "Dispatch",
+      "FSL",
+      "Work order"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-salesforce-fsl-senior-associate-pwc-hyderabad-pune-bengaluru-4-to-8-years-090826000981",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-09T05:11:47.580672Z"
+  },
+  {
+    "title": "Salesforce Data Cloud Agentforce Senior Associate",
+    "company": "PwC",
+    "location": "hybrid - pune, gurugram, bengaluru",
+    "job_type": "4-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Data cloud",
+      "prompt builder",
+      "Agentforce",
+      "Lightning Web Components",
+      "DSO",
+      "Data Model Object",
+      "Data Source Object",
+      "DLO"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-salesforce-data-cloud-agentforce-senior-associate-pwc-pune-gurugram-bengaluru-4-to-8-years-090826000973",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-09T05:11:47.663793Z"
   }
 ]
