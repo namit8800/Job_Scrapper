@@ -22758,5 +22758,158 @@
     "apply_link": "https://www.naukri.com/job-listings-filenet-bangalore-developer-cognizant-mumbai-9-to-11-years-090826000014",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-10T05:38:43.502297Z"
+  },
+  {
+    "title": "Analyst",
+    "company": "BNP Paribas",
+    "location": "mumbai, mumbai suburban, navi mumbai",
+    "job_type": "0-2 Yrs",
+    "salary": "4-9 Lacs PA",
+    "salary_numeric": 900000,
+    "skills_required": [
+      "Internal Audit",
+      "Financial Reporting",
+      "Management Accounting",
+      "Financial Accounting",
+      "Financial Management",
+      "Management",
+      "Accounting",
+      "Account management"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-analyst-bnp-paribas-mumbai-mumbai-suburban-navi-mumbai-0-to-2-years-100826003731",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-10T09:40:04.362932Z"
+  },
+  {
+    "title": "Senior Manager - SRM",
+    "company": "Thyrocare",
+    "location": "navi mumbai, bengaluru",
+    "job_type": "8-13 Yrs",
+    "salary": "15-16 Lacs PA",
+    "salary_numeric": 1600000,
+    "skills_required": [
+      "Negotiation",
+      "Supply Relationship Management",
+      "Key Account Management",
+      "Monetization",
+      "Excel",
+      "Team Management",
+      "Client Acquisition",
+      "Partnerships"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-senior-manager-srm-thyrocare-navi-mumbai-bengaluru-8-to-13-years-100826008846",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-10T09:40:04.769215Z"
+  },
+  {
+    "title": "Windows Dot net Developer",
+    "company": "Tata Consultancy Services",
+    "location": "pune, bengaluru, mumbai (all areas)",
+    "job_type": "8-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "C#",
+      "OOPS",
+      ".Net",
+      "SQL",
+      "Microsoft Windows",
+      "Development",
+      "DoT"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-windows-dot-net-developer-tata-consultancy-services-pune-bengaluru-mumbai-all-areas-8-to-10-years-100826003782",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-10T09:40:04.926031Z"
+  },
+  {
+    "title": "Senior Registrar Critical Care",
+    "company": "Fortis",
+    "location": "kolkata, mumbai, new delhi, hyderabad, pune, chennai, bengaluru",
+    "job_type": "0-5 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "clinical",
+      "critical care medicine",
+      "critical care",
+      "interpersonal skills",
+      "communication skills",
+      "Medicine",
+      "Interpersonal",
+      "Senior"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-senior-registrar-critical-care-fortis-healthcare-ltd-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-0-to-5-years-100826500771",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-10T09:40:05.008851Z"
+  },
+  {
+    "title": ".NET CORE Microservices- Banglr",
+    "company": "Infosys",
+    "location": "hyderabad, pune, bengaluru",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Microservices",
+      ".NET Core",
+      "ASP.NET Core MVC",
+      "C#",
+      "ASP.NET Core",
+      "Net MVC",
+      ".NET",
+      "ASP.NET MVC"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-net-core-microservices-banglr-infosys-hyderabad-pune-bengaluru-5-to-10-years-100826004428",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-10T09:40:05.472869Z"
+  },
+  {
+    "title": "Xceptor Developer",
+    "company": "eClerx",
+    "location": "mumbai suburban, navi mumbai, mumbai (all areas)",
+    "job_type": "1-4 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Xceptor Developer",
+      "GenAI",
+      "Xceptor implementations",
+      "Investment Banking",
+      "Data mapping",
+      "UAT support",
+      "Recon rules",
+      "Appian"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-xceptor-developer-eclerx-mumbai-suburban-navi-mumbai-mumbai-all-areas-1-to-4-years-100826008627",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-10T09:40:05.554988Z"
+  },
+  {
+    "title": "Builder- Car Advisor (Sales Associate)",
+    "company": "Cars24",
+    "location": "pune",
+    "job_type": "0-10 Yrs",
+    "salary": "3.5-5 Lacs PA",
+    "salary_numeric": 500000,
+    "skills_required": [
+      "Sales",
+      "Target Achievement",
+      "B2C Sales",
+      "Relationship Management",
+      "Field Sales",
+      "Automobile Sales",
+      "Showroom Sales",
+      "Business Development"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-builder-car-advisor-sales-associate-cars24-pune-0-to-10-years-100826011430",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-10T09:40:05.746284Z"
   }
 ]
