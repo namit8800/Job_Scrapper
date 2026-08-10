@@ -22543,5 +22543,220 @@
     "apply_link": "https://www.naukri.com/job-listings-hiring-scrum-master-hyderabad-bengaluru-hybrid-broadridge-hyderabad-bangalore-rural-bengaluru-9-to-12-years-090826001371",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-10T02:18:15.922721Z"
+  },
+  {
+    "title": "Automation Architect",
+    "company": "Tata Consultancy Services",
+    "location": "pune, bengaluru, mumbai (all areas)",
+    "job_type": "8-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Java",
+      "CI CD Pipeline",
+      "Rest API Testing",
+      "Automation Testing",
+      "Selenium",
+      "Continuous Integration",
+      "Architecture",
+      "Automation engineering"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-automation-architect-tata-consultancy-services-pune-bengaluru-mumbai-all-areas-8-to-10-years-100826003643",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-10T05:38:42.054129Z"
+  },
+  {
+    "title": "Storage and Backup Administrator",
+    "company": "Tata Consultancy Services",
+    "location": "pune, bengaluru",
+    "job_type": "4-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SAN",
+      "NAS",
+      "NetApp",
+      "RAID",
+      "Storage Administration",
+      "Backup and Recovery",
+      "Dell Server",
+      "Disaster Recovery"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-storage-and-backup-administrator-tata-consultancy-services-pune-bengaluru-4-to-8-years-100826001875",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-10T05:38:42.391505Z"
+  },
+  {
+    "title": "Network Engineer-Managed services",
+    "company": "EY",
+    "location": "hybrid - pune, bengaluru, delhi / ncr",
+    "job_type": "4-7 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Checkpoint",
+      "network engineer",
+      "Zscaler",
+      "Networking",
+      "Network engineering"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-network-engineer-managed-services-ey-pune-bengaluru-delhi-ncr-4-to-7-years-100826001080",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-10T05:38:42.461148Z"
+  },
+  {
+    "title": "Mainframe Developer",
+    "company": "Tata Consultancy Services",
+    "location": "pune, bengaluru, mumbai (all areas)",
+    "job_type": "4-6 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "JCL",
+      "DB2",
+      "Cobol",
+      "Incident Management",
+      "Mainframes",
+      "Management",
+      "DBMS",
+      "Incident"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-mainframe-developer-tata-consultancy-services-pune-bengaluru-mumbai-all-areas-4-to-6-years-100826002895",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-10T05:38:42.722514Z"
+  },
+  {
+    "title": "FDA Developer",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, bengaluru, mumbai (all areas)",
+    "job_type": "4-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "KSQL",
+      "MemSQL",
+      "Kafka Connect",
+      "MySQL",
+      "Kafka",
+      "Development",
+      "Connect",
+      "Kafka Streams"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-fda-developer-tata-consultancy-services-hyderabad-bengaluru-mumbai-all-areas-4-to-8-years-100826001560",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-10T05:38:42.811991Z"
+  },
+  {
+    "title": "Java Full Stack Developer(ReactJS/NodeJS)",
+    "company": "Tata Consultancy Services",
+    "location": "pune, bengaluru, mumbai (all areas)",
+    "job_type": "6-9 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Java",
+      "Spring Boot",
+      "Node.js",
+      "React.js",
+      "Microservices",
+      "Stack",
+      "Bootstrap",
+      "Boot"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-java-full-stack-developer-reactjs-nodejs-tata-consultancy-services-pune-bengaluru-mumbai-all-areas-6-to-9-years-100826003195",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-10T05:38:42.895784Z"
+  },
+  {
+    "title": "Agentic AI - Pan India",
+    "company": "PwC India",
+    "location": "hybrid - kolkata, pune, bengaluru",
+    "job_type": "4-6 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Agentic Ai",
+      "Gen AI",
+      "Cloud Platform",
+      "Artificial Intelligence",
+      "Cloud",
+      "Gen",
+      "Pan"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-agentic-ai-pan-india-pwc-india-kolkata-pune-bengaluru-4-to-6-years-231025018557",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-10T05:38:42.972753Z"
+  },
+  {
+    "title": "Solution Architect - BFSI",
+    "company": "Capco",
+    "location": "hybrid - pune, gurugram, bengaluru",
+    "job_type": "12-22 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Solution Architecting",
+      "IT Architecture",
+      "Technical Architecture",
+      "Application Design",
+      "Architecting",
+      "Bfsi",
+      "Architecture",
+      "Application"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-solution-architect-bfsi-capco-pune-gurugram-bengaluru-12-to-22-years-100826002283",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-10T05:38:43.141155Z"
+  },
+  {
+    "title": "Java Developer",
+    "company": "Infosys",
+    "location": "hyderabad, pune, bengaluru",
+    "job_type": "5-9 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Java",
+      "Spring Boot",
+      "Microservices",
+      "Java Development",
+      "Boot",
+      "Spring",
+      "Development"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-java-developer-infosys-hyderabad-pune-bengaluru-5-to-9-years-100826001331",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-10T05:38:43.386247Z"
+  },
+  {
+    "title": "FileNet - Bangalore - Developer",
+    "company": "Cognizant",
+    "location": "mumbai",
+    "job_type": "9-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Maven",
+      "Ce",
+      "JSON",
+      "HTML",
+      "Spring Boot",
+      "Apache Tomcat",
+      "Websphere",
+      "Software Development"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-filenet-bangalore-developer-cognizant-mumbai-9-to-11-years-090826000014",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-10T05:38:43.502297Z"
   }
 ]
