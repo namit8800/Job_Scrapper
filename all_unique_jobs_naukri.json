@@ -22911,5 +22911,69 @@
     "apply_link": "https://www.naukri.com/job-listings-builder-car-advisor-sales-associate-cars24-pune-0-to-10-years-100826011430",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-10T09:40:05.746284Z"
+  },
+  {
+    "title": "Senior Analyst",
+    "company": "eClerx",
+    "location": "navi mumbai",
+    "job_type": "2-4 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "BI",
+      "Alteryx",
+      "Tableau",
+      "Machine Learning",
+      "Data Science",
+      "R",
+      "Excel",
+      "VBA"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-senior-analyst-eclerx-navi-mumbai-2-to-4-years-100826013643",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-10T13:22:55.643396Z"
+  },
+  {
+    "title": "Associate Manager- Credit Research-Large Corporate & Mid Corporate",
+    "company": "Sutherland",
+    "location": "hybrid - hyderabad, navi mumbai, bengaluru",
+    "job_type": "4-9 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Credit Research",
+      "Report Writing",
+      "Financial Modelling",
+      "Finance",
+      "Corporate",
+      "Credit management",
+      "Management",
+      "Writing"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-associate-manager-credit-research-large-corporate-mid-corporate-sutherland-hyderabad-navi-mumbai-bengaluru-4-to-9-years-100826018599",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-10T13:22:55.876658Z"
+  },
+  {
+    "title": "Python GEN AI",
+    "company": "Atos",
+    "location": "hybrid - chennai, bengaluru, mumbai (all areas)",
+    "job_type": "11-18 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "GEN AI",
+      "generative AI",
+      "LLM",
+      "Python",
+      "Artificial Intelligence",
+      "Gen"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-python-gen-ai-atos-chennai-bengaluru-mumbai-all-areas-11-to-18-years-100826013692",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-10T13:22:56.014126Z"
   }
 ]
