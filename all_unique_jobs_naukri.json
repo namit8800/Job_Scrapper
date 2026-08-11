@@ -23059,5 +23059,71 @@
     "apply_link": "https://www.naukri.com/job-listings-performance-engineer-tata-consultancy-services-hyderabad-pune-bengaluru-4-to-9-years-110826007795",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-11T05:15:04.217058Z"
+  },
+  {
+    "title": "Fresher Maintenance Engineer",
+    "company": "JOB PLUS HR CONSULTANCY PRIVATE LIMITED",
+    "location": "pune, ahmedabad, mumbai (all areas)",
+    "job_type": "0-5 Yrs",
+    "salary": "4.5-7.5 Lacs PA",
+    "salary_numeric": 750000,
+    "skills_required": [
+      "Production and Maintenance",
+      "Electrical Maintenance",
+      "Maintenance Engineering",
+      "Engineering",
+      "Production",
+      "Mechanical",
+      "Production Engineering",
+      "Machine Maintenance"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-fresher-maintenance-engineer-plus-hr-consultancy-mumbai-pune-ahmedabad-mumbai-all-areas-0-to-5-years-110826011373",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-11T09:06:20.644579Z"
+  },
+  {
+    "title": "SCADA Design",
+    "company": "Reliance Industries (RIL)",
+    "location": "mumbai, bengaluru",
+    "job_type": "14-20 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SCADA Designing",
+      "HMI",
+      "PLC",
+      "Solar Energy",
+      "Ground Mount",
+      "Design Engineering",
+      "Solar Power",
+      "SCADA Programming"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-scada-design-reliance-industries-ril-mumbai-bengaluru-14-to-20-years-110826012453",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-11T09:06:20.991097Z"
+  },
+  {
+    "title": "Java Full Stack Developer",
+    "company": "Tata Consultancy Services",
+    "location": "pune, chennai, mumbai (all areas)",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Java",
+      "Spring Boot",
+      "React.js",
+      "Microservices",
+      "Full Stack",
+      "Stack",
+      "Boot",
+      "Bootstrap"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-java-full-stack-developer-tata-consultancy-services-pune-chennai-mumbai-all-areas-5-to-10-years-110826016889",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-11T09:06:21.423308Z"
   }
 ]
