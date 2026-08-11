@@ -23213,5 +23213,90 @@
     "apply_link": "https://www.naukri.com/job-listings-ebs-scm-functional-professional-capgemini-technology-services-india-limited-mumbai-4-to-8-years-110826924129",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-11T13:19:29.562732Z"
+  },
+  {
+    "title": "SONG - Service - Genesys - Associate Manager",
+    "company": "Accenture",
+    "location": "mumbai",
+    "job_type": "2-7 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Non Voice",
+      "Business Intelligence",
+      "Azure",
+      "Customer Service",
+      "Enterprise Systems",
+      "Architecture",
+      "Servicenow",
+      "Ai"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-song-service-genesys-associate-manager-accenture-solutions-pvt-ltd-mumbai-2-to-7-years-110826932054",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-11T17:03:30.825528Z"
+  },
+  {
+    "title": "Sap Abap Technical Consultant",
+    "company": "Capgemini",
+    "location": "hybrid - hyderabad, pune, mumbai (all areas)",
+    "job_type": "9-12 Yrs",
+    "salary": "20-30 Lacs PA",
+    "salary_numeric": 3000000,
+    "skills_required": [
+      "SAP ABAP HANA",
+      "ABAP on HANA",
+      "Cds Views",
+      "Odata Services",
+      "Amdp",
+      "Odata",
+      "SAP",
+      "Cds"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-sap-abap-technical-consultant-capgemini-hyderabad-pune-mumbai-all-areas-9-to-12-years-110826039613",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-11T17:03:30.905281Z"
+  },
+  {
+    "title": "SAP FTM Capability Lead",
+    "company": "Capgemini",
+    "location": "mumbai",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "sap",
+      "rfp",
+      "finance",
+      "sales",
+      "Saps"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-sap-ftm-capability-lead-capgemini-technology-services-india-limited-mumbai-5-to-10-years-110826930908",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-11T17:03:31.055713Z"
+  },
+  {
+    "title": "ACN GN- T&O-Instructional Design -Consultant",
+    "company": "Accenture",
+    "location": "mumbai",
+    "job_type": "6-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "instructional design",
+      "emerging technologies",
+      "storyboarding",
+      "sap",
+      "instructional designer",
+      "hr",
+      "advertising",
+      "business intelligence"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-acn-gn-t-o-instructional-design-consultant-accenture-solutions-pvt-ltd-mumbai-6-to-8-years-110826932753",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-11T17:03:31.222198Z"
   }
 ]
