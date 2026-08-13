@@ -23831,5 +23831,107 @@
     "apply_link": "https://www.naukri.com/job-listings-workday-orchestrate-consultant-pwc-hyderabad-pune-bengaluru-5-to-10-years-130826011948",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-13T05:44:23.297304Z"
+  },
+  {
+    "title": "Senior Full Stack Developer (React + Nodejs)",
+    "company": "Hexaware Technologies",
+    "location": "hybrid - chennai, bengaluru, mumbai (all areas)",
+    "job_type": "8-12 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Azure Cloud",
+      "Ai Solutions",
+      "Node.js",
+      "React.js",
+      "Stack",
+      "Artificial Intelligence",
+      "Cloud",
+      "Development"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-senior-full-stack-developer-react-nodejs-hexaware-technologies-chennai-bengaluru-mumbai-all-areas-8-to-12-years-130826017768",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-13T09:18:35.383368Z"
+  },
+  {
+    "title": "SAP Vertex, 5-10 years experience, Hyd, B'lore, Pune, Chennai, Noida.",
+    "company": "PwC",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "5-10 Yrs",
+    "salary": "6-13 Lacs PA",
+    "salary_numeric": 1300000,
+    "skills_required": [
+      "Vertex",
+      "SAP Vertex",
+      "SAP"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-sap-vertex-5-10-years-experience-hyd-b-lore-pune-chennai-noida-pwc-hyderabad-pune-bengaluru-5-to-10-years-130826020434",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-13T09:18:35.672236Z"
+  },
+  {
+    "title": "Oracle Epm Consultant",
+    "company": "PwC",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "4-9 Yrs",
+    "salary": "12-22 Lacs PA",
+    "salary_numeric": 2200000,
+    "skills_required": [
+      "EPM",
+      "Oracle Epm",
+      "Fccs",
+      "Arcs",
+      "Oracle",
+      "Arc",
+      "Fcc",
+      "Consulting"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-oracle-epm-consultant-pwc-hyderabad-pune-bengaluru-4-to-9-years-130826016242",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-13T09:18:35.752225Z"
+  },
+  {
+    "title": "Automation Testing @Pan India",
+    "company": "Infosys",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Automation Testing",
+      "Selenium",
+      "Java Selenium",
+      "C#",
+      "Selenium Testing",
+      "Java",
+      "Software testing",
+      "Automation"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-automation-testing-pan-india-infosys-hyderabad-pune-bengaluru-5-to-10-years-130826013009",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-13T09:18:35.837212Z"
+  },
+  {
+    "title": "Adobe Commerce (Magento) @ Pan India",
+    "company": "Infosys",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "5-9 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "adobe commerce",
+      "Magento",
+      "Magneto",
+      "Adobe",
+      "Pan"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-adobe-commerce-magento-pan-india-infosys-hyderabad-pune-bengaluru-5-to-9-years-130826012753",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-13T09:18:35.905499Z"
   }
 ]
