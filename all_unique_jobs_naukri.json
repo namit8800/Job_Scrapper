@@ -23704,5 +23704,132 @@
     "apply_link": "https://www.naukri.com/job-listings-senior-generative-ai-engineer-exp-8-tata-consultancy-services-hyderabad-pune-bengaluru-8-to-12-years-120826029596",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-13T02:28:26.748437Z"
+  },
+  {
+    "title": "Workday Consultant - Compensation",
+    "company": "PwC",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "4-9 Yrs",
+    "salary": "14-24 Lacs PA",
+    "salary_numeric": 2400000,
+    "skills_required": [
+      "Workday Certified",
+      "Workday Compensation",
+      "Certified",
+      "Consulting",
+      "Compensation",
+      "Workday"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-workday-consultant-compensation-pwc-hyderabad-pune-bengaluru-4-to-9-years-130826011124",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-13T05:44:22.226309Z"
+  },
+  {
+    "title": "Java React Fullstack Developer with AWS",
+    "company": "Tata Consultancy Services",
+    "location": "bengaluru, mumbai (all areas)",
+    "job_type": "6-11 Yrs",
+    "salary": "15-30 Lacs PA",
+    "salary_numeric": 3000000,
+    "skills_required": [
+      "Java",
+      "AWS Cloud",
+      "React.js",
+      "Spring Boot",
+      "Microservices",
+      "Cloud",
+      "Boot",
+      "Bootstrap"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-java-react-fullstack-developer-with-aws-tata-consultancy-services-bengaluru-mumbai-all-areas-6-to-11-years-130826009931",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-13T05:44:22.314889Z"
+  },
+  {
+    "title": "Java fullstack @pan india",
+    "company": "Infosys",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "5-9 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Java Fullstack",
+      "Angularjs",
+      "Spring Boot",
+      "React.js",
+      "Angular"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-java-fullstack-pan-india-infosys-hyderabad-pune-bengaluru-5-to-9-years-130826012246",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-13T05:44:22.826134Z"
+  },
+  {
+    "title": ".NET Developer (Angular)",
+    "company": "Hexaware Technologies",
+    "location": "noida, bengaluru, mumbai (all areas)",
+    "job_type": "7-9 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Angular",
+      ".NET Core",
+      "C#",
+      "Azure",
+      "Core",
+      ".Net",
+      "Development",
+      "Microsoft Azure"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-net-developer-angular-hexaware-technologies-noida-bengaluru-mumbai-all-areas-7-to-9-years-130826009276",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-13T05:44:22.910631Z"
+  },
+  {
+    "title": "Playwright Engineer - Hyderabad/Bangalore/Pune/Mumbai",
+    "company": "Capgemini",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "6-9 Yrs",
+    "salary": "15-16 Lacs PA",
+    "salary_numeric": 1600000,
+    "skills_required": [
+      "TypeScript",
+      "Playwright",
+      "Cross Browser Testing",
+      "Gherkin",
+      "Javascript",
+      "Playwright Automation",
+      "Browsing",
+      "Browser testing"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-playwright-engineer-hyderabad-bangalore-pune-mumbai-capgemini-hyderabad-pune-bengaluru-6-to-9-years-130826012126",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-13T05:44:23.209293Z"
+  },
+  {
+    "title": "Workday Orchestrate Consultant",
+    "company": "PwC",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Workday Orchestrate",
+      "Workday Certified",
+      "Orchestrate",
+      "Orchestrator",
+      "Certified",
+      "Consulting",
+      "Workday",
+      "Orchestration"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-workday-orchestrate-consultant-pwc-hyderabad-pune-bengaluru-5-to-10-years-130826011948",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-13T05:44:23.297304Z"
   }
 ]
