@@ -24453,5 +24453,49 @@
     "apply_link": "https://www.naukri.com/job-listings-etl-test-engineer-senior-associate-pwc-hyderabad-pune-bengaluru-4-to-9-years-140826016660",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-14T09:12:57.047404Z"
+  },
+  {
+    "title": "ETLTest Engineer+Sql+ BI-Insurance Domain-Senior Associate",
+    "company": "PwC",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "4-9 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Automation Testing",
+      "Insurance Domain",
+      "ETL Testing",
+      "SQL",
+      "BI Testing",
+      "Bi",
+      "Insurance",
+      "Software testing"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-etltest-engineer-sql-bi-insurance-domain-senior-associate-pwc-hyderabad-pune-bengaluru-4-to-9-years-140826016660",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-14T13:20:04.568393Z"
+  },
+  {
+    "title": "Salesforce Technical Architect",
+    "company": "Salesforce",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "10-16 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Project management",
+      "Lwc",
+      "SAFe",
+      "PMI",
+      "Marketing Cloud",
+      "apex",
+      "Salesforce Integration",
+      "Delivery Management"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-salesforce-technical-architect-salesforce-hyderabad-pune-bengaluru-10-to-16-years-140826030096",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-14T13:20:04.734780Z"
   }
 ]
