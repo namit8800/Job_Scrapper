@@ -24255,5 +24255,203 @@
     "apply_link": "https://www.naukri.com/job-listings-scheduled-face-to-face-interview-salesforce-lwc-august-22nd-cognizant-hyderabad-pune-bengaluru-4-to-9-years-140826007870",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-14T05:42:10.669406Z"
+  },
+  {
+    "title": "Key Accounts Manager",
+    "company": "Paytm",
+    "location": "noida, mumbai (all areas)",
+    "job_type": "5-7 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "B2B",
+      "Key Accounts",
+      "SaaS",
+      "merchant acquisition",
+      "Enterprise Accounts",
+      "Enterprise Sales",
+      "Enterprise",
+      "Merchant acquiring"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-key-accounts-manager-paytm-noida-mumbai-all-areas-5-to-7-years-140826011473",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-14T09:12:55.648828Z"
+  },
+  {
+    "title": "Walk-in || Sap Mm Consultant",
+    "company": "Tata Consultancy Services",
+    "location": "chennai, bengaluru, mumbai (all areas)",
+    "job_type": "N/A",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Material Management",
+      "SAP MM",
+      "HANA",
+      "SAP MM Implementation",
+      "SAP",
+      "Management",
+      "Consulting",
+      "Materials"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-sap-mm-consultant-tata-consultancy-services-chennai-bengaluru-mumbai-all-areas-4-to-9-years-140826013899",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-14T09:12:55.796203Z"
+  },
+  {
+    "title": "Walk-in || SAP MDG Consultant",
+    "company": "Tata Consultancy Services",
+    "location": "chennai, bengaluru, mumbai (all areas)",
+    "job_type": "N/A",
+    "salary": "5-15 Lacs PA",
+    "salary_numeric": 1500000,
+    "skills_required": [
+      "Mdg",
+      "SAP MDG",
+      "SAP Master Data Governance",
+      "SAP",
+      "Governance",
+      "Consulting",
+      "Master data",
+      "Data Governance"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-sap-mdg-consultant-tata-consultancy-services-chennai-bengaluru-mumbai-all-areas-4-to-9-years-140826014550",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-14T09:12:55.874307Z"
+  },
+  {
+    "title": "Walk-in || Sap Sd Consultant",
+    "company": "Tata Consultancy Services",
+    "location": "chennai, bengaluru, mumbai (all areas)",
+    "job_type": "N/A",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SAP SD",
+      "implementation",
+      "S4 hana",
+      "SAP",
+      "Consulting",
+      "SD",
+      "SAP S Hana",
+      "SAP Hana"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-sap-sd-consultant-tata-consultancy-services-chennai-bengaluru-mumbai-all-areas-4-to-9-years-140826013622",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-14T09:12:55.954695Z"
+  },
+  {
+    "title": "Walk-in || Sap Fico Consultant",
+    "company": "Tata Consultancy Services",
+    "location": "chennai, bengaluru, mumbai (all areas)",
+    "job_type": "N/A",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SAP FICO",
+      "S4 Hana",
+      "Implementation",
+      "FICO",
+      "SAP",
+      "Saps",
+      "SAP Hana",
+      "Consulting"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-sap-fico-consultant-tata-consultancy-services-chennai-bengaluru-mumbai-all-areas-4-to-9-years-140826013388",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-14T09:12:56.028245Z"
+  },
+  {
+    "title": "Walk-in || SAP Basis HANA Consultant",
+    "company": "Tata Consultancy Services",
+    "location": "chennai, bengaluru, mumbai (all areas)",
+    "job_type": "N/A",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SAP Basis",
+      "HANA Implementation",
+      "s4 hana",
+      "SAP",
+      "Consulting",
+      "SAP S Hana",
+      "Basis",
+      "SAP Hana"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-sap-basis-hana-consultant-tata-consultancy-services-chennai-bengaluru-mumbai-all-areas-4-to-9-years-140826013745",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-14T09:12:56.104858Z"
+  },
+  {
+    "title": "Walk-in || Sap Abap Consultant",
+    "company": "Tata Consultancy Services",
+    "location": "chennai, bengaluru, mumbai (all areas)",
+    "job_type": "N/A",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SAP ABAP",
+      "implementation",
+      "S4 HANA",
+      "SAP",
+      "Saps",
+      "SAP Hana",
+      "Consulting",
+      "Abap"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-sap-abap-consultant-tata-consultancy-services-chennai-bengaluru-mumbai-all-areas-4-to-9-years-140826014103",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-14T09:12:56.261528Z"
+  },
+  {
+    "title": "Azure Integration Developer",
+    "company": "Capgemini",
+    "location": "hybrid - bangalore rural, bengaluru, mumbai (all areas)",
+    "job_type": "6-11 Yrs",
+    "salary": "20-35 Lacs PA",
+    "salary_numeric": 3500000,
+    "skills_required": [
+      "API Management",
+      "C#",
+      "Service Bus",
+      "Azure Logic Apps",
+      "Azure PaaS",
+      "Schema Validation",
+      "Integration",
+      "Azure Functions"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-azure-integration-developer-capgemini-bangalore-rural-bengaluru-mumbai-all-areas-6-to-11-years-140826018684",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-14T09:12:56.338557Z"
+  },
+  {
+    "title": "Etl Test Engineer-Senior Associate",
+    "company": "PwC",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "4-9 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Automation Testing",
+      "Insurance Domain",
+      "ETL Testing",
+      "Insurance",
+      "DNS",
+      "ETL",
+      "Software testing",
+      "Automation"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-etl-test-engineer-senior-associate-pwc-hyderabad-pune-bengaluru-4-to-9-years-140826016660",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-14T09:12:57.047404Z"
   }
 ]
