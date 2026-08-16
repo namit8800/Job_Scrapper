@@ -25305,5 +25305,48 @@
     "apply_link": "https://www.naukri.com/job-listings-consultant-azure-fullstack-developer-kpmg-assurance-and-consulting-services-llp-gurugram-bengaluru-3-to-8-years-160826003839",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-16T16:32:23.296153Z"
+  },
+  {
+    "title": "Laboratory Supervisor",
+    "company": "Lupin Diagnostics",
+    "location": "warud, navi mumbai, pune",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Lab Operations",
+      "Team Management",
+      "Inventory Control",
+      "Pathology",
+      "Diagnostics",
+      "NABL",
+      "Calibration",
+      "Lab Management"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-laboratory-supervisor-lupin-diagnostics-warud-navi-mumbai-pune-5-to-10-years-170826000039",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-16T20:29:27.910150Z"
+  },
+  {
+    "title": "Java full stack with react js",
+    "company": "Tata Consultancy Services",
+    "location": "pune, chennai, bengaluru",
+    "job_type": "6-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Java",
+      "React.js",
+      "Fullstack Development",
+      "Stack",
+      "Development",
+      "Javascript",
+      "Full Stack"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-java-full-stack-with-react-js-tata-consultancy-services-pune-chennai-bengaluru-6-to-10-years-160826003996",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-16T20:29:28.119600Z"
   }
 ]
