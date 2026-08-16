@@ -25262,5 +25262,48 @@
     "apply_link": "https://www.naukri.com/job-listings-net-azure-paas-tata-consultancy-services-pune-chennai-bengaluru-6-to-10-years-160826002422",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-16T12:50:54.937282Z"
+  },
+  {
+    "title": "Java Developer",
+    "company": "Tata Consultancy Services",
+    "location": "mumbai, pune, chennai",
+    "job_type": "8-13 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Java",
+      "Kafka",
+      "Spring Boot",
+      "Java Development",
+      "Boot",
+      "Development",
+      "Spring"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-java-developer-tata-consultancy-services-mumbai-pune-chennai-8-to-13-years-160826003476",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-16T16:32:23.052193Z"
+  },
+  {
+    "title": "Consultant- Azure Fullstack Developer",
+    "company": "KPMG Assurance and Consulting Services LLP",
+    "location": "gurugram, bengaluru",
+    "job_type": "3-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "generative ai",
+      "Fullstack Development",
+      "Azure Cloud",
+      "Technology Consulting",
+      "Microsoft Azure",
+      "Cloud",
+      "Technology",
+      "Full Stack"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-consultant-azure-fullstack-developer-kpmg-assurance-and-consulting-services-llp-gurugram-bengaluru-3-to-8-years-160826003839",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-16T16:32:23.296153Z"
   }
 ]
