@@ -25008,5 +25008,85 @@
     "apply_link": "https://www.naukri.com/job-listings-pega-developer-tata-consultancy-services-bengaluru-5-to-10-years-150826003211",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-16T01:45:01.208667Z"
+  },
+  {
+    "title": "Walk-in || Sap Pp Consultant",
+    "company": "Tata Consultancy Services",
+    "location": "bengaluru",
+    "job_type": "N/A",
+    "salary": "50,000-3 Lacs PA",
+    "salary_numeric": 300000,
+    "skills_required": [
+      "SAP PP",
+      "SAP ERP Implementation",
+      "SAP Production Planning",
+      "ERP implementation",
+      "Production planning",
+      "Planning",
+      "SAP ERP",
+      "PP"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-sap-pp-consultant-tata-consultancy-services-bengaluru-5-to-10-years-160826001326",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-16T04:41:35.529444Z"
+  },
+  {
+    "title": "Walk-in || Workday Hcm Functional Consultant",
+    "company": "Tata Consultancy Services",
+    "location": "bengaluru",
+    "job_type": "N/A",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Workday Core HCM",
+      "Workday Functional",
+      "Core HCM",
+      "Core",
+      "HCM",
+      "Functional",
+      "Workday HCM",
+      "Consulting"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-workday-hcm-functional-consultant-tata-consultancy-services-bengaluru-5-to-10-years-160826001280",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-16T04:41:35.610635Z"
+  },
+  {
+    "title": "Walk-in || Oracle Soa Developer",
+    "company": "Tata Consultancy Services",
+    "location": "bengaluru",
+    "job_type": "N/A",
+    "salary": "50,000-3 Lacs PA",
+    "salary_numeric": 300000,
+    "skills_required": [
+      "Oracle SOA",
+      "SOA",
+      "Oracle",
+      "Development"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-oracle-soa-developer-tata-consultancy-services-bengaluru-5-to-10-years-160826001443",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-16T04:41:35.860781Z"
+  },
+  {
+    "title": "Walk-in || SAP ABAP with RAP (5+)",
+    "company": "Tata Consultancy Services",
+    "location": "bengaluru",
+    "job_type": "N/A",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Rap",
+      "SAP ABAP",
+      "ABAP",
+      "SAP"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-sap-abap-with-rap-5-tata-consultancy-services-bengaluru-5-to-10-years-160826001304",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-16T04:41:36.007518Z"
   }
 ]
