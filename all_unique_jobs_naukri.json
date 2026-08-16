@@ -25240,5 +25240,27 @@
     "apply_link": "https://www.naukri.com/job-listings-gcp-data-architect-tata-consultancy-services-hyderabad-chennai-bengaluru-10-to-15-years-160826002350",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-16T08:36:34.759218Z"
+  },
+  {
+    "title": ".Net Azure PAAS",
+    "company": "Tata Consultancy Services",
+    "location": "pune, chennai, bengaluru",
+    "job_type": "6-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Azure PaaS",
+      "C#",
+      "Azure Cloud",
+      "restful api",
+      ".NET",
+      "api mana",
+      "Azure Functions",
+      "api management"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-net-azure-paas-tata-consultancy-services-pune-chennai-bengaluru-6-to-10-years-160826002422",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-16T12:50:54.937282Z"
   }
 ]
