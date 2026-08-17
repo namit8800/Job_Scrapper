@@ -25521,5 +25521,220 @@
     "apply_link": "https://www.naukri.com/job-listings-net-angular-hcltech-bengaluru-8-to-13-years-250626043584",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-17T01:42:56.490434Z"
+  },
+  {
+    "title": "Storage & Backup Admin",
+    "company": "Tata Consultancy Services",
+    "location": "pune, bengaluru",
+    "job_type": "4-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SAN",
+      "NAS",
+      "Storage",
+      "Backup and Recovery",
+      "Virtualization",
+      "dell emc",
+      "NetApp",
+      "storage admin"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-storage-backup-admin-tata-consultancy-services-pune-bengaluru-4-to-8-years-170826001159",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-17T04:50:39.465384Z"
+  },
+  {
+    "title": "Data Scientist",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, pune, chennai",
+    "job_type": "8-12 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Data Scientist",
+      "Data Science",
+      "Machine Learning",
+      "Python",
+      "SQL",
+      "Science",
+      "Machine",
+      "Data"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-data-scientist-tata-consultancy-services-hyderabad-pune-chennai-8-to-12-years-170826001408",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-17T04:50:39.625614Z"
+  },
+  {
+    "title": "Power BI",
+    "company": "Infosys",
+    "location": "pune, bengaluru",
+    "job_type": "2-7 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Power BI",
+      "Tableau",
+      "SQL",
+      "Bi"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-power-bi-infosys-pune-bengaluru-2-to-7-years-030826023414",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-17T04:50:39.685791Z"
+  },
+  {
+    "title": "SAP SD",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, pune, bengaluru",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SAP SD",
+      "SAP HANA",
+      "End to End Implementation",
+      "HANA Implementation",
+      "SAP Sales and Distribution",
+      "Sales",
+      "SD",
+      "Sales"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-sap-sd-tata-consultancy-services-hyderabad-pune-bengaluru-6-to-11-years-170826001381",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-17T04:50:39.765799Z"
+  },
+  {
+    "title": "Sap MM Consultant",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, pune, bengaluru",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SAP MM",
+      "End to End Implementation",
+      "SAP MM Implementation",
+      "Material Management",
+      "SAP MM Module",
+      "MM",
+      "Materials",
+      "Mm module"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-sap-mm-consultant-tata-consultancy-services-hyderabad-pune-bengaluru-6-to-11-years-170826001402",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-17T04:50:39.925123Z"
+  },
+  {
+    "title": "Sap Fico Consultant",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, pune, bengaluru",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SAP FICO",
+      "End to End Implementation",
+      "SAP FICO Implementation",
+      "SAP S HANA",
+      "SAP Implementation",
+      "FI-GL",
+      "FI-AA",
+      "FI-AR"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-sap-fico-consultant-tata-consultancy-services-hyderabad-pune-bengaluru-6-to-11-years-170826001423",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-17T04:50:40.077071Z"
+  },
+  {
+    "title": "Computer Vision Engineer",
+    "company": "Infosys",
+    "location": "hybrid - pune, chennai, bengaluru",
+    "job_type": "3-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-170826002382",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-17T04:50:40.267985Z"
+  },
+  {
+    "title": "Java Developer",
+    "company": "Tata Consultancy Services",
+    "location": "pune, chennai, bengaluru",
+    "job_type": "6-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Java",
+      "Hibernate",
+      "Spring Boot",
+      "Microservices",
+      "Java Development",
+      "Boot",
+      "Development",
+      "Spring"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-java-developer-tata-consultancy-services-pune-chennai-bengaluru-6-to-8-years-170826001555",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-17T04:50:40.415033Z"
+  },
+  {
+    "title": "API Automation Engineer",
+    "company": "Infosys",
+    "location": "pune, chennai, bengaluru",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Automation",
+      "Software Testing",
+      "Api",
+      "API Automation",
+      "Automation engineering",
+      "Software"
+    ],
+    "posting_date": "6 days ago",
+    "apply_link": "https://www.naukri.com/job-listings-api-automation-engineer-infosys-pune-chennai-bengaluru-5-to-10-years-030826023564",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-17T04:50:40.485023Z"
+  },
+  {
+    "title": "Sailpoint Developer",
+    "company": "Capgemini",
+    "location": "hybrid - pune, bengaluru, mumbai (all areas)",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-sailpoint-developer-capgemini-pune-bengaluru-mumbai-all-areas-6-to-11-years-170826001485",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-17T04:50:40.563971Z"
+  },
+  {
+    "title": "Scheduled F2F interview-SF Agentforce Developer-August 22nd",
+    "company": "Cognizant",
+    "location": "hybrid - hyderabad, chennai, bengaluru",
+    "job_type": "4-9 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Agentforce",
+      "End to End Implementation",
+      "Salesforce",
+      "End To End",
+      "End"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-scheduled-f2f-interview-sf-agentforce-developer-august-22nd-cognizant-hyderabad-chennai-bengaluru-4-to-9-years-170826002260",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-17T04:50:40.627125Z"
   }
 ]
