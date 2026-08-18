@@ -26665,5 +26665,27 @@
     "apply_link": "https://www.naukri.com/job-listings-senior-tibco-developer-pwc-mumbai-pune-gurugram-5-to-10-years-180826041974",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-18T12:57:42.524242Z"
+  },
+  {
+    "title": "Cyberark Developer",
+    "company": "Tata Consultancy Services",
+    "location": "kochi, chennai, mumbai (all areas)",
+    "job_type": "6-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "PAM",
+      "CyberArk",
+      "CCP",
+      "Conjur",
+      "AIM",
+      "Cloud",
+      "API",
+      "Privilege Access Management"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-cyberark-developer-tata-consultancy-services-kochi-chennai-mumbai-all-areas-6-to-10-years-180826046485",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-18T16:38:17.780339Z"
   }
 ]
