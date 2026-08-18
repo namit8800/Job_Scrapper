@@ -26557,5 +26557,113 @@
     "apply_link": "https://www.naukri.com/job-listings-servicenow-developer-hexaware-technologies-chennai-bengaluru-mumbai-all-areas-5-to-10-years-180826019550",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-18T08:44:13.643336Z"
+  },
+  {
+    "title": "Relationship Associate - Credit Life",
+    "company": "Axis Max Life Insurance",
+    "location": "mumbai, nagpur, thane, nashik, pune, chhatrapati sambhajinagar",
+    "job_type": "0-3 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "switching",
+      "network engineering",
+      "customer service",
+      "networking",
+      "business development",
+      "sales",
+      "customer support",
+      "routing"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-relationship-associate-credit-life-axis-max-life-insurance-limited-mumbai-nagpur-thane-nashik-pune-chhatrapati-sambhajinagar-0-to-3-years-180826500287",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-18T12:57:41.459834Z"
+  },
+  {
+    "title": "Java Spring boot Microservices",
+    "company": "Tata Consultancy Services",
+    "location": "bengaluru, mumbai (all areas)",
+    "job_type": "7-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Java",
+      "Spring Boot",
+      "Microservices",
+      "Boot",
+      "Spring Microservices",
+      "Spring",
+      "Java Spring Boot"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-java-spring-boot-microservices-tata-consultancy-services-bengaluru-mumbai-all-areas-7-to-10-years-180826029476",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-18T12:57:41.541990Z"
+  },
+  {
+    "title": "Senior Java Developer",
+    "company": "Hdfc Bank",
+    "location": "hybrid - mumbai, pune, bengaluru",
+    "job_type": "8-13 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Java",
+      "Cloud",
+      "Spring Boot",
+      "Microservices",
+      "Backend Development",
+      "DevOps",
+      "GCP",
+      "Kafka"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-senior-java-developer-hdfc-bank-mumbai-pune-bengaluru-8-to-13-years-180826034151",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-18T12:57:42.047414Z"
+  },
+  {
+    "title": "Senior Technical Consultant - ServiceNow HRSD (Global Role)",
+    "company": "Atos",
+    "location": "hybrid - chennai, bengaluru, mumbai (all areas)",
+    "job_type": "8-12 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "servicenow",
+      "gbs",
+      "hrsd",
+      "Global",
+      "Senior",
+      "Technical",
+      "Consulting"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-senior-technical-consultant-servicenow-hrsd-global-role-atos-chennai-bengaluru-mumbai-all-areas-8-to-12-years-180826041814",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-18T12:57:42.210906Z"
+  },
+  {
+    "title": "Senior Tibco Developer",
+    "company": "PwC",
+    "location": "hybrid - mumbai, pune, gurugram",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "TIBCO BW",
+      "Business Events",
+      "Business Works",
+      "tibco BE",
+      "TIBCO",
+      "Development",
+      "Senior",
+      "Events"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-senior-tibco-developer-pwc-mumbai-pune-gurugram-5-to-10-years-180826041974",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-18T12:57:42.524242Z"
   }
 ]
