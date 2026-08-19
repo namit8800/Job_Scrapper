@@ -26990,5 +26990,136 @@
     "apply_link": "https://www.naukri.com/job-listings-gn-i-e-industry-architect-platforms-sap-cl5-accenture-solutions-pvt-ltd-mumbai-10-to-15-years-190826915563",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-19T08:45:37.489319Z"
+  },
+  {
+    "title": "Mobile Automation Test Engineer",
+    "company": "Infosys",
+    "location": "hybrid - chennai, bengaluru, mumbai (all areas)",
+    "job_type": "3-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Mobile Automation Testing",
+      "Appium",
+      "Android Testing",
+      "iOS Testing",
+      "Io",
+      "Mobile Automation",
+      "Automation",
+      "Mobile testing"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-mobile-automation-test-engineer-infosys-chennai-bengaluru-mumbai-all-areas-3-to-8-years-190826024593",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-19T12:57:58.612007Z"
+  },
+  {
+    "title": "Automation Test Engineer",
+    "company": "Infosys",
+    "location": "hybrid - chennai, bengaluru, mumbai (all areas)",
+    "job_type": "3-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Playwright",
+      "Selenium with Java",
+      "Selenium",
+      "Automation Testing",
+      "Java",
+      "Software testing",
+      "Automation"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-automation-test-engineer-infosys-chennai-bengaluru-mumbai-all-areas-3-to-8-years-190826024313",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-19T12:57:58.764042Z"
+  },
+  {
+    "title": "Performance Test Engineer",
+    "company": "Infosys",
+    "location": "hybrid - chennai, bengaluru, mumbai (all areas)",
+    "job_type": "3-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Performance Testing",
+      "Load Runner",
+      "JMeter",
+      "Load",
+      "Performance engineering",
+      "Runner",
+      "Software testing",
+      "Performance"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-performance-test-engineer-infosys-chennai-bengaluru-mumbai-all-areas-3-to-8-years-190826025005",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-19T12:57:59.064949Z"
+  },
+  {
+    "title": "Etl Testing Engineer",
+    "company": "Infosys",
+    "location": "hybrid - chennai, bengaluru, mumbai (all areas)",
+    "job_type": "3-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "DWH Testing",
+      "ETL Testing",
+      "Big Data Testing",
+      "Data Testing",
+      "Data warehousing",
+      "Big Data",
+      "Data",
+      "ETL"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-etl-testing-engineer-infosys-chennai-bengaluru-mumbai-all-areas-3-to-8-years-190826024847",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-19T12:57:59.510331Z"
+  },
+  {
+    "title": "Sr Mainframe COBOL Developer (COBOL/ CICS/ IMS)",
+    "company": "Crisil",
+    "location": "mumbai, pune",
+    "job_type": "8-13 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "VSAM",
+      "Automation",
+      "JCL",
+      "Db2",
+      "Cics",
+      "Cobol",
+      "Workflow",
+      "HTML"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-sr-mainframe-cobol-developer-cobol-cics-ims-crisil-mumbai-pune-8-to-13-years-190826501992",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-19T12:57:59.814956Z"
+  },
+  {
+    "title": "Senior Consultant",
+    "company": "EY",
+    "location": "mumbai",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Business administration",
+      "Assurance",
+      "US GAAP",
+      "Operational excellence",
+      "data science",
+      "External audit",
+      "technology risk",
+      "Manager Technology"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-senior-consultant-ernst-young-mumbai-5-to-10-years-190826504580",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-19T12:57:59.891373Z"
   }
 ]
