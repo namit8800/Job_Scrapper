@@ -27253,5 +27253,155 @@
     "apply_link": "https://www.naukri.com/job-listings-sap-bw4-hana-with-l3-support-capgemini-hyderabad-pune-bengaluru-5-to-10-years-190826031100",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-20T01:39:00.131682Z"
+  },
+  {
+    "title": "SAP SF EC Consultant",
+    "company": "Capgemini",
+    "location": "hybrid - pune, bengaluru, mumbai (all areas)",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Implementation and Integration Projects",
+      "SAP SF EC",
+      "SAP Success Factor",
+      "Employee Central",
+      "Sf Ec",
+      "ECS",
+      "Saps",
+      "Successfactors"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-sap-sf-ec-consultant-capgemini-pune-bengaluru-mumbai-all-areas-6-to-11-years-240326019169",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-20T08:47:23.779348Z"
+  },
+  {
+    "title": "Technical Lead-Salesforce",
+    "company": "Mphasis",
+    "location": "hybrid - mumbai, bengaluru",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Leadership",
+      "Lwc",
+      "Apex",
+      "Salesforce",
+      "Technical"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-technical-lead-salesforce-mphasis-mumbai-bengaluru-6-to-11-years-200826015956",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-20T08:47:23.957021Z"
+  },
+  {
+    "title": "Etl Testing Engineer",
+    "company": "Infosys",
+    "location": "hybrid - hyderabad, bengaluru, mumbai (all areas)",
+    "job_type": "3-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "DWH Testing",
+      "ETL Testing",
+      "Big Data Testing",
+      "Data Testing",
+      "Software testing",
+      "Data warehousing",
+      "ETL",
+      "Data"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-etl-testing-engineer-infosys-hyderabad-bengaluru-mumbai-all-areas-3-to-8-years-200826014848",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-20T08:47:24.057049Z"
+  },
+  {
+    "title": "Kolkata/Pune/Bangalore/BBSR",
+    "company": "Tata Consultancy Services",
+    "location": "kolkata, pune, bengaluru",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "NodeJS",
+      "MERN",
+      "Full Stack Developer",
+      "ReactJS",
+      "JavaScript",
+      "Microservices",
+      "TypeScript",
+      "REST API"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-kolkata-pune-bangalore-bbsr-tata-consultancy-services-kolkata-pune-bengaluru-5-to-10-years-200826021149",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-20T08:47:24.622703Z"
+  },
+  {
+    "title": "Mobile Automation Test Engineer",
+    "company": "Infosys",
+    "location": "hybrid - chennai, bengaluru, mumbai (all areas)",
+    "job_type": "3-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Mobile Automation Testing",
+      "Appium",
+      "Android Testing",
+      "iOS Testing",
+      "Automation testing",
+      "Io",
+      "Mobile testing",
+      "Mobile Automation"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-mobile-automation-test-engineer-infosys-chennai-bengaluru-mumbai-all-areas-3-to-8-years-200826014804",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-20T08:47:24.802878Z"
+  },
+  {
+    "title": "SAP BTP Administrator - Integration-10-16Y-HYD-BLR",
+    "company": "PwC",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "10-16 Yrs",
+    "salary": "22.5-32.5 Lacs PA",
+    "salary_numeric": 3250000,
+    "skills_required": [
+      "Work Zone administration",
+      "SAP Identity Authentication Service",
+      "SAP BTP Integration",
+      "Administration",
+      "Authentication",
+      "SAP administration",
+      "Integration",
+      "SAP"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-sap-btp-administrator-integration-10-16y-hyd-blr-pwc-hyderabad-pune-bengaluru-10-to-16-years-200826015993",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-20T08:47:25.489953Z"
+  },
+  {
+    "title": "GCP Artificial Intelligence Lead",
+    "company": "HCLTech",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "9-14 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Artificial Intelligence",
+      "GCP Cloud",
+      "generative ai",
+      "Python",
+      "Cloud",
+      "Intelligence",
+      "GCP"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-gcp-artificial-intelligence-lead-hcltech-hyderabad-pune-bengaluru-9-to-14-years-200826015040",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-20T08:47:25.576091Z"
   }
 ]
