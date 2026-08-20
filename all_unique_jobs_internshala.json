@@ -64692,5 +64692,33 @@
     "source_platform": "Internshala",
     "duration": "N/A",
     "scraped_at": "2026-08-19T20:34:55.113147Z"
+  },
+  {
+    "title": "Python Development",
+    "company": "Basti Ki Pathshala Foundation",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "Unpaid",
+    "salary_numeric": null,
+    "skills_required": [],
+    "posting_date": "Today",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-basti-ki-pathshala-foundation1787130199",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-08-20T01:38:51.375426Z"
+  },
+  {
+    "title": "Full Stack Development",
+    "company": "Web2success",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "\u20b9 4,000 - 6,000 /month",
+    "salary_numeric": 4000,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-web2success1787175139",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-08-20T01:38:51.466903Z"
   }
 ]
