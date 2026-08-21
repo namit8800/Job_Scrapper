@@ -65952,5 +65952,47 @@
     "source_platform": "Internshala",
     "duration": "N/A",
     "scraped_at": "2026-08-20T20:35:33.794511Z"
+  },
+  {
+    "title": "Social Work",
+    "company": "InAmigos Foundation",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "Unpaid",
+    "salary_numeric": null,
+    "skills_required": [],
+    "posting_date": "Today",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-social-work-internship-at-inamigos-foundation1787221508",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-08-21T01:43:32.896583Z"
+  },
+  {
+    "title": "Business Development (Sales)",
+    "company": "Thinksonic Technologies Private Limited (i2v.in)",
+    "location": "noida",
+    "job_type": "Internship",
+    "salary": "\u20b9 12,000 - 15,001 /month",
+    "salary_numeric": 12000,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/business-development-sales-internship-in-noida-at-thinksonic-technologies-private-limited-i2vin1787274529",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-08-21T01:43:32.948398Z"
+  },
+  {
+    "title": "Video Editing/Making",
+    "company": "Housy",
+    "location": "pune",
+    "job_type": "Internship",
+    "salary": "\u20b9 10,000 - 17,000 /month",
+    "salary_numeric": 10000,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/video-editing-making-internship-in-pune-at-housy1787258962",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-08-21T01:43:32.998124Z"
   }
 ]
