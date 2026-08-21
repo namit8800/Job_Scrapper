@@ -27799,5 +27799,93 @@
     "apply_link": "https://www.naukri.com/job-listings-piping-stress-sr-engineer-atkins-global-mumbai-5-to-12-years-210826501314",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-21T12:59:37.101724Z"
+  },
+  {
+    "title": "MDM Professional",
+    "company": "Capgemini",
+    "location": "navi mumbai",
+    "job_type": "3-7 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Ai",
+      "Java",
+      "Laboratory Informatics",
+      "Compliance",
+      "Customization",
+      "Data Structures",
+      "Digital Transformation",
+      "Chemical Engineering"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-mdm-professional-capgemini-technology-services-india-limited-navi-mumbai-3-to-7-years-210826932238",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-21T16:41:08.349474Z"
+  },
+  {
+    "title": "OICS Professional",
+    "company": "Capgemini",
+    "location": "mumbai",
+    "job_type": "2-4 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Ai",
+      "Event-Driven Architecture",
+      "Erp",
+      "Api Design",
+      "Architecture",
+      "Apis",
+      "Json",
+      "Oracle Integration Cloud"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-oics-professional-capgemini-technology-services-india-limited-mumbai-2-to-4-years-210826932346",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-21T16:41:08.712454Z"
+  },
+  {
+    "title": "Senior Actuarial Data Scientist",
+    "company": "Aon",
+    "location": "hybrid - mumbai, bengaluru",
+    "job_type": "6-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "LLM",
+      "Data Science",
+      "Pyspark",
+      "Natural Language Processing",
+      "Machine Learning",
+      "Data Bricks",
+      "Python",
+      "SQL"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-senior-actuarial-data-scientist-aon-mumbai-bengaluru-6-to-10-years-210826038029",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-21T16:41:09.419082Z"
+  },
+  {
+    "title": "Mainframe Developer",
+    "company": "Atos",
+    "location": "hybrid - chennai, bengaluru, mumbai (all areas)",
+    "job_type": "7-12 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "JCL",
+      "IMS DC",
+      "Cobol",
+      "Mainframe Developer",
+      "IMS",
+      "Dc",
+      "Mainframes",
+      "Mainframe Production Support"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-mainframe-developer-atos-chennai-bengaluru-mumbai-all-areas-7-to-12-years-210826037812",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-21T16:41:09.497915Z"
   }
 ]
