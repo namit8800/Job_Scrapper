@@ -27667,5 +27667,49 @@
     "apply_link": "https://www.naukri.com/job-listings-senior-full-stack-java-react-developer-tata-consultancy-services-hyderabad-pune-bengaluru-7-to-11-years-210826004285",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-21T04:45:59.262599Z"
+  },
+  {
+    "title": "Senior Tibco Developer",
+    "company": "PwC",
+    "location": "kolkata, pune, bengaluru",
+    "job_type": "5-10 Yrs",
+    "salary": "60,000 PA",
+    "salary_numeric": 60000,
+    "skills_required": [
+      "TIBCO Business Events (BE) 5.x or 6.",
+      "TIBCO BW",
+      "TIBCO",
+      "TIBCO Business Events",
+      "TIBCO BusinessWorks (BW) 5.x",
+      "Business Events",
+      "Development",
+      "TIBCO Business"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-senior-tibco-developer-pwc-kolkata-pune-bengaluru-5-to-10-years-210826006344",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-21T08:49:15.132867Z"
+  },
+  {
+    "title": "SAP IBP Consultant",
+    "company": "EY",
+    "location": "hybrid - kolkata, mumbai, bengaluru",
+    "job_type": "2-7 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SAP IBP",
+      "SAP Ibp Implementation",
+      "OBP",
+      "Integrated Business Planning",
+      "SAP Business Planning and Consolidation",
+      "Order based planning",
+      "Consolidation",
+      "SAP Business Workflow"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-sap-ibp-consultant-ey-kolkata-mumbai-bengaluru-2-to-7-years-190626014641",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-21T08:49:15.379243Z"
   }
 ]
