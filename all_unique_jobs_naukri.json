@@ -27645,5 +27645,27 @@
     "apply_link": "https://www.naukri.com/job-listings-btp-cpi-tata-consultancy-services-hyderabad-pune-bengaluru-7-to-12-years-200826037925",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-21T01:43:39.895968Z"
+  },
+  {
+    "title": "Senior full stack (Java + React) Developer",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, pune, bengaluru",
+    "job_type": "7-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Spring Boot",
+      "Java Fullstack",
+      "Javascript",
+      "React.js",
+      "AWS",
+      "Java",
+      "React Pages",
+      "Scripts"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-senior-full-stack-java-react-developer-tata-consultancy-services-hyderabad-pune-bengaluru-7-to-11-years-210826004285",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-21T04:45:59.262599Z"
   }
 ]
