@@ -27953,5 +27953,49 @@
     "apply_link": "https://www.naukri.com/job-listings-assistant-manager-cat-elite-axis-max-life-insurance-limited-mumbai-nagpur-thane-nashik-pune-chhatrapati-sambhajinagar-0-to-4-years-210826503883",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-22T01:37:02.190731Z"
+  },
+  {
+    "title": "Automation Test Engineer (1.5 To 3 years)",
+    "company": "Infosys",
+    "location": "hybrid - chennai, bengaluru, mumbai (all areas)",
+    "job_type": "1-3 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "API Testing",
+      "Automation Testing",
+      "Java Selenium",
+      "Playwright Automation",
+      "API",
+      "Automation",
+      "Software testing",
+      "Selenium"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-automation-test-engineer-1-5-to-3-years-infosys-chennai-bengaluru-mumbai-all-areas-1-to-3-years-220826008810",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-22T08:37:18.531888Z"
+  },
+  {
+    "title": "Performance Test Engineer (1.5 To 3 years)",
+    "company": "Infosys",
+    "location": "hybrid - chennai, bengaluru, mumbai (all areas)",
+    "job_type": "2-3 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Performance Testing",
+      "Load Runner",
+      "JMeter",
+      "Load",
+      "Runner",
+      "Performance",
+      "Performance engineering",
+      "Software testing"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-performance-test-engineer-1-5-to-3-years-infosys-chennai-bengaluru-mumbai-all-areas-2-to-3-years-220826009165",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-22T08:37:18.704377Z"
   }
 ]
