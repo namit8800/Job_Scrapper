@@ -27997,5 +27997,49 @@
     "apply_link": "https://www.naukri.com/job-listings-performance-test-engineer-1-5-to-3-years-infosys-chennai-bengaluru-mumbai-all-areas-2-to-3-years-220826009165",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-22T08:37:18.704377Z"
+  },
+  {
+    "title": "Wintel Administrator",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, pune, bengaluru",
+    "job_type": "4-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "VMware",
+      "Windows Server",
+      "Wintel Administration",
+      "Microsoft Windows",
+      "Administration",
+      "Server",
+      "Serv",
+      "WinTEL"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-wintel-administrator-tata-consultancy-services-hyderabad-pune-bengaluru-4-to-8-years-220826013727",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-22T12:51:04.235355Z"
+  },
+  {
+    "title": "Etl Test Engineer",
+    "company": "Infosys",
+    "location": "hybrid - chennai, bengaluru, mumbai (all areas)",
+    "job_type": "2-3 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Data Warehouse Testing",
+      "ETL Testing",
+      "Big Data Testing",
+      "Data Testing",
+      "Data warehousing",
+      "Big Data",
+      "Warehouse",
+      "Data"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-etl-test-engineer-infosys-chennai-bengaluru-mumbai-all-areas-2-to-3-years-220826011481",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-22T12:51:04.525608Z"
   }
 ]
