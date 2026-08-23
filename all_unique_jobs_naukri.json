@@ -28507,5 +28507,45 @@
     "apply_link": "https://www.naukri.com/job-listings-tcs-hiring-for-application-packaging-engineer-tata-consultancy-services-hyderabad-pune-mumbai-all-areas-7-to-10-years-230826004792",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-23T16:33:12.867253Z"
+  },
+  {
+    "title": "AWS Devops Engineer & EKS",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, pune, bengaluru",
+    "job_type": "6-10 Yrs",
+    "salary": "9-19 Lacs PA",
+    "salary_numeric": 1900000,
+    "skills_required": [
+      "AWS DevOps",
+      "Eks",
+      "DevOps",
+      "AWS"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-aws-devops-engineer-eks-tata-consultancy-services-hyderabad-pune-bengaluru-6-to-10-years-230826005030",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-23T20:30:12.539185Z"
+  },
+  {
+    "title": "Salesforce Development and Technical Design_Virtual Interview",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, pune, chennai",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Salesforce Sales Cloud",
+      "Soql",
+      "Sosl",
+      "LWC",
+      "Salesforce",
+      "REST/SOAP",
+      "Experience Cloud",
+      "Apex"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-salesforce-development-and-technical-design-virtual-interview-tata-consultancy-services-hyderabad-pune-chennai-6-to-11-years-270726006180",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-23T20:30:12.700258Z"
   }
 ]
