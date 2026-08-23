@@ -28400,5 +28400,24 @@
     "apply_link": "https://www.naukri.com/job-listings-sfcc-pwa-developer-tata-consultancy-services-pune-mumbai-all-areas-6-to-11-years-220826014287",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-23T01:46:59.715634Z"
+  },
+  {
+    "title": "Phlebotomist",
+    "company": "Physiopod Healthcare Centre",
+    "location": "mumbai(chinchpokli)",
+    "job_type": "0-3 Yrs",
+    "salary": "1.75-2 Lacs PA",
+    "salary_numeric": 200000,
+    "skills_required": [
+      "Sample Collection",
+      "Blood Collection",
+      "Phlebotomy",
+      "Sampling",
+      "Collections"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-phlebotomist-physiopod-healthcare-centre-mumbai-0-to-3-years-230826002735",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-23T08:37:24.953356Z"
   }
 ]
