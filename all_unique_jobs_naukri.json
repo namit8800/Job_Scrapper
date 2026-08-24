@@ -28741,5 +28741,179 @@
     "apply_link": "https://www.naukri.com/job-listings-embedded-c-linux-larsen-toubro-l-t-chennai-bengaluru-5-to-10-years-230826004716",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-24T01:44:27.507800Z"
+  },
+  {
+    "title": "Api Automation Tester",
+    "company": "Infosys",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "3-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Rest Assured",
+      "API Automation",
+      "Postman",
+      "Swagger",
+      "Rest",
+      "API Testing",
+      "API",
+      "Automation testing"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-api-automation-tester-infosys-hyderabad-pune-bengaluru-3-to-8-years-240826001288",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-24T04:52:37.895590Z"
+  },
+  {
+    "title": "Mobile Automation Test Engineer",
+    "company": "Infosys",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "3-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Mobile Automation Testing",
+      "Appium",
+      "Android Testing",
+      "Mobile Automation",
+      "Android",
+      "Mobile testing",
+      "Automation testing",
+      "Software testing"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-mobile-automation-test-engineer-infosys-hyderabad-pune-bengaluru-3-to-8-years-240826001390",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-24T04:52:37.964205Z"
+  },
+  {
+    "title": "Performance Test Engineer",
+    "company": "Infosys",
+    "location": "hybrid - pune, chennai, bengaluru",
+    "job_type": "3-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Performance Testing",
+      "Load Runner",
+      "JMeter",
+      "Load",
+      "Runner",
+      "Performance",
+      "Performance engineering",
+      "Software testing"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-performance-test-engineer-infosys-pune-chennai-bengaluru-3-to-8-years-240826001414",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-24T04:52:38.147284Z"
+  },
+  {
+    "title": "Automation Test Engineer",
+    "company": "Infosys",
+    "location": "hybrid - pune, chennai, bengaluru",
+    "job_type": "3-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Java",
+      "API Testing",
+      "Automation Testing",
+      "Selenium",
+      "Playwright Automation",
+      "API",
+      "Automation",
+      "Software testing"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-automation-test-engineer-infosys-pune-chennai-bengaluru-3-to-8-years-240826001304",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-24T04:52:38.214440Z"
+  },
+  {
+    "title": "Java developer with IAM",
+    "company": "Trigent Software",
+    "location": "hybrid - chennai, bengaluru, mumbai (all areas)",
+    "job_type": "9-14 Yrs",
+    "salary": "25-37.5 Lacs PA",
+    "salary_numeric": 3750000,
+    "skills_required": [
+      "Identity & Access Management",
+      "Java 11/17",
+      "OAuth 2.0",
+      "Spring Security",
+      "Microservices",
+      "IAM",
+      "Spring Boot",
+      "Oauth"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-java-developer-with-iam-trigent-software-chennai-bengaluru-mumbai-all-areas-9-to-14-years-240826002278",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-24T04:52:38.472843Z"
+  },
+  {
+    "title": "Etl Test Engineer",
+    "company": "Infosys",
+    "location": "pune, chennai, bengaluru",
+    "job_type": "3-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Data Warehouse Testing",
+      "ETL Testing",
+      "Big Data Testing",
+      "Data Testing",
+      "Data warehousing",
+      "Big Data",
+      "Warehouse",
+      "Data"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-etl-test-engineer-infosys-pune-chennai-bengaluru-3-to-8-years-240826001316",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-24T04:52:38.546745Z"
+  },
+  {
+    "title": "Ai Ml Engineer",
+    "company": "Infosys",
+    "location": "hybrid - hyderabad, bengaluru, mumbai (all areas)",
+    "job_type": "5-9 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Aiml",
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Ml",
+      "Intelligence",
+      "Machine"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-ai-ml-engineer-infosys-hyderabad-bengaluru-mumbai-all-areas-5-to-9-years-240826002383",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-24T04:52:38.608210Z"
+  },
+  {
+    "title": "SAP ABAP Hana Consultant (CDS view & ODATA Must)",
+    "company": "Capgemini",
+    "location": "hyderabad, pune, bengaluru",
+    "job_type": "9-12 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "OData",
+      "SAP ABAP",
+      "CDS Views",
+      "Hana",
+      "SAP",
+      "Cds",
+      "Cd",
+      "SAP Hana"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-sap-abap-hana-consultant-cds-view-odata-must-capgemini-hyderabad-pune-bengaluru-9-to-12-years-240826002381",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-24T04:52:38.678278Z"
   }
 ]
