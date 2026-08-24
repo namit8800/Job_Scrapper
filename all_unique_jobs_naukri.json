@@ -29283,5 +29283,92 @@
     "apply_link": "https://www.naukri.com/job-listings-sap-btp-administrator-integration-10-16y-hyd-blr-pwc-hyderabad-pune-bengaluru-10-to-16-years-240826018007",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-24T13:01:58.773290Z"
+  },
+  {
+    "title": "SAS Tester",
+    "company": "Tata Consultancy Services",
+    "location": "kolkata, hyderabad, mumbai (all areas)",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Base SAS",
+      "SAS Macros",
+      "SAS Testing",
+      "Proc SQL",
+      "SAS Programming",
+      "Data Validation",
+      "SAS",
+      "SAS Enterprise Guide"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-sas-tester-tata-consultancy-services-kolkata-hyderabad-mumbai-all-areas-6-to-11-years-240826032236",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-24T16:45:44.926505Z"
+  },
+  {
+    "title": "Azure Data Engineer",
+    "company": "Tata Consultancy Services",
+    "location": "kolkata, pune, mumbai (all areas)",
+    "job_type": "6-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Azure Data Factory",
+      "Pyspark",
+      "Azure Databricks",
+      "Azure Synapse",
+      "Azure Data Lake",
+      "SQL",
+      "Microsoft Azure",
+      "Factory"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-azure-data-engineer-tata-consultancy-services-kolkata-pune-mumbai-all-areas-6-to-10-years-240826032144",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-24T16:45:45.274636Z"
+  },
+  {
+    "title": "GN - Management Consulting - CFO&EV - Analyst",
+    "company": "Accenture",
+    "location": "mumbai, gurugram, bengaluru",
+    "job_type": "3-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "presentation skills",
+      "stakeholder management",
+      "finance process",
+      "taxation",
+      "finance",
+      "management consulting",
+      "sap",
+      "forecasting"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-gn-management-consulting-cfo-ev-analyst-accenture-solutions-pvt-ltd-mumbai-gurugram-bengaluru-3-to-8-years-240826925432",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-24T16:45:45.786883Z"
+  },
+  {
+    "title": "SAP SD S4Hana Lead - Mumbai/Pune/Bangalore/Gandhinagar",
+    "company": "Capgemini",
+    "location": "pune, bengaluru, mumbai (all areas)",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "S4hana",
+      "SAP SD",
+      "Implementation",
+      "SAP",
+      "Saps",
+      "SD",
+      "SAP S Hana"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-sap-sd-s4hana-lead-mumbai-pune-bangalore-gandhinagar-capgemini-pune-bengaluru-mumbai-all-areas-5-to-10-years-240826031880",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-24T16:45:46.038843Z"
   }
 ]
