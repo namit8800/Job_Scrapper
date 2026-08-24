@@ -28915,5 +28915,243 @@
     "apply_link": "https://www.naukri.com/job-listings-sap-abap-hana-consultant-cds-view-odata-must-capgemini-hyderabad-pune-bengaluru-9-to-12-years-240826002381",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-24T04:52:38.678278Z"
+  },
+  {
+    "title": "Java Full Stack Developer(ReactJS/NodeJS)",
+    "company": "Tata Consultancy Services",
+    "location": "pune, bengaluru, mumbai (all areas)",
+    "job_type": "6-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Java",
+      "Full Stack",
+      "Spring Boot",
+      "Microservices",
+      "Node.js",
+      "React.js",
+      "Stack",
+      "Boot"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-java-full-stack-developer-reactjs-nodejs-tata-consultancy-services-pune-bengaluru-mumbai-all-areas-6-to-10-years-240826004360",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-24T08:55:31.266959Z"
+  },
+  {
+    "title": "SCADA Design - Solar",
+    "company": "Reliance Industries (RIL)",
+    "location": "mumbai, bengaluru",
+    "job_type": "14-20 Yrs",
+    "salary": "20-30 Lacs PA",
+    "salary_numeric": 3000000,
+    "skills_required": [
+      "HMI",
+      "PLC",
+      "Solar Power",
+      "SCADA Designing",
+      "Detail Engineering",
+      "Project Engineering",
+      "SCADA Programming",
+      "Commissioning"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-scada-design-solar-reliance-industries-ril-mumbai-bengaluru-14-to-20-years-240826009347",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-24T08:55:31.427357Z"
+  },
+  {
+    "title": "Front End Developer",
+    "company": "Capgemini",
+    "location": "hybrid - hyderabad, bengaluru, mumbai (all areas)",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Azure Databricks",
+      "React.js",
+      "Azure Data Factory",
+      "Pyspark",
+      "CSS",
+      "Frontend Development",
+      "HTML",
+      "Python"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-front-end-developer-capgemini-hyderabad-bengaluru-mumbai-all-areas-6-to-11-years-240826009182",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-24T08:55:31.511407Z"
+  },
+  {
+    "title": "GCP Tech Lead",
+    "company": "Capco",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "8-13 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Pubsub",
+      "GCP",
+      "Bigquery",
+      "Data Flow",
+      "Technical analysis",
+      "Flow",
+      "Data"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-gcp-tech-lead-capco-hyderabad-pune-bengaluru-8-to-13-years-240826011352",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-24T08:55:31.822918Z"
+  },
+  {
+    "title": "SAP BTP CAPM Developer",
+    "company": "Careernet",
+    "location": "hyderabad, pune, delhi / ncr",
+    "job_type": "10-15 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Odata",
+      "CAPM",
+      "SAP Btp",
+      "Node.js",
+      "API",
+      "TypeScript",
+      "SAP Cloud Application Programming",
+      "CDS"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-sap-btp-capm-developer-careernet-hyderabad-pune-delhi-ncr-10-to-15-years-240826010692",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-24T08:55:32.009636Z"
+  },
+  {
+    "title": "Java, Springboot, Microservices-ReactJS/NodeJS",
+    "company": "Tata Consultancy Services",
+    "location": "kolkata, pune, mumbai (all areas)",
+    "job_type": "7-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Spring Boot",
+      "React.js",
+      "Microservices",
+      "Java",
+      "Boot",
+      "Spring",
+      "Node.js"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-java-springboot-microservices-reactjs-nodejs-tata-consultancy-services-kolkata-pune-mumbai-all-areas-7-to-10-years-240826009030",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-24T08:55:32.098298Z"
+  },
+  {
+    "title": "Mainframe Technical Support",
+    "company": "Tata Consultancy Services",
+    "location": "pune, chennai, mumbai (all areas)",
+    "job_type": "4-9 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "JCL",
+      "Mainframe Support",
+      "Cobol",
+      "DBMS",
+      "System Support",
+      "Mainframes",
+      "Technical",
+      "System"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-mainframe-technical-support-tata-consultancy-services-pune-chennai-mumbai-all-areas-4-to-9-years-240826005920",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-24T08:55:32.179273Z"
+  },
+  {
+    "title": "Kafka FDA Developer",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, bengaluru, mumbai (all areas)",
+    "job_type": "4-7 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "apache kafka",
+      "JSON",
+      "Kafka Streams",
+      "Kstreams",
+      "Development",
+      "Kafka FDA Developer",
+      "FDA",
+      "Apache"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-kafka-fda-developer-tata-consultancy-services-hyderabad-bengaluru-mumbai-all-areas-4-to-7-years-240826009270",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-24T08:55:32.262152Z"
+  },
+  {
+    "title": "AWS Cloud Devops",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, bengaluru, mumbai (all areas)",
+    "job_type": "6-8 Yrs",
+    "salary": "50,000 PA",
+    "salary_numeric": 50000,
+    "skills_required": [
+      "AWS Cloud Devops",
+      "Terraform",
+      "Ansible",
+      "Cloud",
+      "Devops",
+      "AWS",
+      "AWS Cloud"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-aws-cloud-devops-tata-consultancy-services-hyderabad-bengaluru-mumbai-all-areas-6-to-8-years-240826009109",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-24T08:55:32.333939Z"
+  },
+  {
+    "title": "SAP BTP Technical consultant-6-10 years, CAPM, RAP, Java, ABAP",
+    "company": "PwC",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "6-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "RESTful Application Programming (RAP)",
+      "SAP Cloud Application Programming Model (CAP)",
+      "RAP",
+      "Java",
+      "CAPM",
+      "SAP BTP",
+      "Node.js",
+      "MCP"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-sap-btp-technical-consultant-6-10-years-capm-rap-java-abap-pwc-hyderabad-pune-bengaluru-6-to-10-years-240826007345",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-24T08:55:32.569825Z"
+  },
+  {
+    "title": "Workday Consultant - Learning Module",
+    "company": "PwC",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Workday Certified",
+      "Workday HCM",
+      "Workday Learning",
+      "Certified",
+      "Consulting",
+      "Workday",
+      "HCM"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-workday-consultant-learning-module-pwc-hyderabad-pune-bengaluru-5-to-10-years-240826003974",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-24T08:55:32.642592Z"
   }
 ]
