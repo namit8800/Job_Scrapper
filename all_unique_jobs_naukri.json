@@ -29892,5 +29892,49 @@
     "apply_link": "https://www.naukri.com/job-listings-associate-consultant-tmt-cns-risk-digital-risk-ernst-young-mumbai-2-to-7-years-260826502243",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-26T13:04:09.455155Z"
+  },
+  {
+    "title": "Area Manager-NPS Sales",
+    "company": "ICICI Pension Fund Management",
+    "location": "chennai, bengaluru, mumbai (all areas)",
+    "job_type": "8-13 Yrs",
+    "salary": "8-14 Lacs PA",
+    "salary_numeric": 1400000,
+    "skills_required": [
+      "Client Acquisition",
+      "Business Development",
+      "Business Acquisition",
+      "New Client Acquisition",
+      "Lead Generation",
+      "Sales",
+      "Business Generation",
+      "New Business Development"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-area-manager-nps-sales-icici-pension-fund-management-chennai-bengaluru-mumbai-all-areas-8-to-13-years-260826031482",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-26T16:52:04.347389Z"
+  },
+  {
+    "title": ".NET Ffullstack Developer (Angular + Azure Open AI)",
+    "company": "Hexaware Technologies",
+    "location": "noida, bengaluru, mumbai (all areas)",
+    "job_type": "6-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "AZURE OPEN AI",
+      "Angular",
+      ".NET Core",
+      "Microsoft Azure",
+      "Core",
+      "Open",
+      "Artificial Intelligence",
+      ".Net"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-net-ffullstack-developer-angular-azure-open-ai-hexaware-technologies-noida-bengaluru-mumbai-all-areas-6-to-10-years-260826031964",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-26T16:52:04.942246Z"
   }
 ]
