@@ -29760,5 +29760,93 @@
     "apply_link": "https://www.naukri.com/job-listings-relationship-manager-cat-loyalty-axis-max-life-insurance-limited-mumbai-nagpur-thane-nashik-pune-chhatrapati-sambhajinagar-0-to-5-years-250826502869",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-26T01:44:24.531190Z"
+  },
+  {
+    "title": "Playwright Automation Engineer",
+    "company": "Tata Consultancy Services",
+    "location": "pune, bengaluru, mumbai (all areas)",
+    "job_type": "6-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Playwright",
+      "Javascript",
+      "Automation Testing",
+      "TypeScript",
+      "SOAP UI",
+      "Json / Xml",
+      "Selenium",
+      "UI"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-playwright-automation-engineer-tata-consultancy-services-pune-bengaluru-mumbai-all-areas-6-to-10-years-260826014967",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-26T08:52:02.551231Z"
+  },
+  {
+    "title": "IMU CAL Senior Manager",
+    "company": "Accenture",
+    "location": "mumbai",
+    "job_type": "12-14 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "advanced analytics",
+      "algorithms",
+      "data pipelines",
+      "digital manufacturing",
+      "ai",
+      "business development",
+      "cloud platforms",
+      "data engineering"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-imu-cal-senior-manager-accenture-solutions-pvt-ltd-mumbai-12-to-14-years-260826912901",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-26T08:52:02.762476Z"
+  },
+  {
+    "title": "Tosca Tester",
+    "company": "Capgemini",
+    "location": "hybrid - pune, bengaluru, mumbai (all areas)",
+    "job_type": "2-4 Yrs",
+    "salary": "6-6.5 Lacs PA",
+    "salary_numeric": 650000,
+    "skills_required": [
+      "Tosca",
+      "Uft",
+      "Model Based Testing",
+      "Tricentis Tosca",
+      "Tosca Automation",
+      "SAP Automation",
+      "JIRA",
+      "Functional Testing"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-tosca-tester-capgemini-pune-bengaluru-mumbai-all-areas-2-to-4-years-260826017906",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-26T08:52:02.863820Z"
+  },
+  {
+    "title": "TIBCO Business event Developer",
+    "company": "PwC",
+    "location": "pune, gurugram, bengaluru",
+    "job_type": "5-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "TIBCO Businessevents6x",
+      "Business Events",
+      "TIBCO Businessevents 5X",
+      "TIBCO Business Events",
+      "TIBCO",
+      "Business development",
+      "TIBCO Business",
+      "Development"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-tibco-business-event-developer-pwc-pune-gurugram-bengaluru-5-to-8-years-260826018515",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-26T08:52:03.078034Z"
   }
 ]
