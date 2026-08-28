@@ -30349,5 +30349,49 @@
     "apply_link": "https://www.naukri.com/job-listings-workday-finance-consultant-pwc-hyderabad-pune-bangalore-rural-5-to-10-years-280826006436",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-28T10:57:03.560505Z"
+  },
+  {
+    "title": "Api Automation Tester",
+    "company": "Infosys",
+    "location": "hyderabad, bengaluru, mumbai (all areas)",
+    "job_type": "2-3 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Rest Assured",
+      "API Testing",
+      "Postman",
+      "Swagger",
+      "Rest",
+      "API",
+      "Automation testing",
+      "Software testing"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-api-automation-tester-infosys-hyderabad-bengaluru-mumbai-all-areas-2-to-3-years-280826011315",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-28T22:06:09.720194Z"
+  },
+  {
+    "title": "Automation Test Engineer",
+    "company": "Infosys",
+    "location": "hybrid - pune, bengaluru, mumbai (all areas)",
+    "job_type": "2-3 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Java",
+      "Selenium",
+      "Playwright Automation",
+      "API Testing",
+      "Automation Testing",
+      "Software testing",
+      "Automation",
+      "API"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-automation-test-engineer-infosys-pune-bengaluru-mumbai-all-areas-2-to-3-years-280826011299",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-28T22:06:09.879482Z"
   }
 ]
