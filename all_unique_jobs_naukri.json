@@ -30844,5 +30844,49 @@
     "apply_link": "https://www.naukri.com/job-listings-microsoft-dynamics-ax-2012-administrator-atos-chennai-bengaluru-mumbai-all-areas-5-to-10-years-300826004604",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-30T13:43:47.207408Z"
+  },
+  {
+    "title": "Dot Net Fullstack Developer - Gen AI",
+    "company": "Hexaware Technologies",
+    "location": "hybrid - pune, chennai, mumbai (all areas)",
+    "job_type": "7-12 Yrs",
+    "salary": "10-20 Lacs PA",
+    "salary_numeric": 2000000,
+    "skills_required": [
+      ".Net Core",
+      "AI",
+      "Azure Cloud Services",
+      "React",
+      "Angular",
+      "Microsoft Azure",
+      "Cloud",
+      "Core"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-dot-net-fullstack-developer-gen-ai-hexaware-technologies-pune-chennai-mumbai-all-areas-7-to-12-years-300826005310",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-30T19:14:41.093946Z"
+  },
+  {
+    "title": "Dot Net Fullstack Developer",
+    "company": "Hexaware Technologies",
+    "location": "hybrid - pune, chennai, mumbai (all areas)",
+    "job_type": "7-12 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      ".Net core",
+      "MongoDB",
+      "Javascript",
+      "React",
+      "Angular",
+      "ASP.Net",
+      "DoT",
+      ".Net"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-dot-net-fullstack-developer-hexaware-technologies-pune-chennai-mumbai-all-areas-7-to-12-years-300826005241",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-30T19:14:41.169895Z"
   }
 ]
