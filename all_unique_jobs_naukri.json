@@ -30780,5 +30780,69 @@
     "apply_link": "https://www.naukri.com/job-listings-hiring-quadient-inspire-bangalore-cognizant-hyderabad-pune-bengaluru-3-to-8-years-290826008656",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-30T04:55:54.828932Z"
+  },
+  {
+    "title": "Network Security Engineer",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, pune, bengaluru",
+    "job_type": "6-9 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Network Security",
+      "Palo Alto Firewall",
+      "Load Balancing",
+      "F5",
+      "Load",
+      "Firewall",
+      "Network engineering",
+      "Balance"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-network-security-engineer-tata-consultancy-services-hyderabad-pune-bengaluru-6-to-9-years-300826004373",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-30T13:43:46.066729Z"
+  },
+  {
+    "title": "Dynatrace Administration",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, pune, bengaluru",
+    "job_type": "5-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Application Monitoring",
+      "Dynatrace",
+      "Observability",
+      "Monitoring",
+      "Administration",
+      "Application"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-dynatrace-administration-tata-consultancy-services-hyderabad-pune-bengaluru-5-to-8-years-300826004393",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-30T13:43:46.423709Z"
+  },
+  {
+    "title": "Microsoft Dynamics AX 2012 Administrator",
+    "company": "Atos",
+    "location": "hybrid - chennai, bengaluru, mumbai (all areas)",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "AX 2012",
+      "Administrator",
+      "Microsoft Dynamics AX",
+      "Production Support",
+      "Dynamics",
+      "Administration",
+      "Microsoft Dynamics",
+      "Microsoft"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-microsoft-dynamics-ax-2012-administrator-atos-chennai-bengaluru-mumbai-all-areas-5-to-10-years-300826004604",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-30T13:43:47.207408Z"
   }
 ]
