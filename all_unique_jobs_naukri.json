@@ -30696,5 +30696,89 @@
     "apply_link": "https://www.naukri.com/job-listings-salesforce-omnistudio-developer-cognizant-hyderabad-pune-bengaluru-4-to-9-years-290826009392",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-29T13:46:02.929194Z"
+  },
+  {
+    "title": "Investigation Associate",
+    "company": "Amazon",
+    "location": "bangalore rural, bengaluru",
+    "job_type": "0-2 Yrs",
+    "salary": "2-2.5 Lacs PA",
+    "salary_numeric": 250000,
+    "skills_required": [
+      "Fraud Investigation",
+      "Communication Skills",
+      "Investigation",
+      "Fraud Control",
+      "Control",
+      "Fraud"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-investigation-associate-amazon-bangalore-rural-bengaluru-0-to-2-years-290826010243",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-30T04:55:53.493525Z"
+  },
+  {
+    "title": "Mis Executive",
+    "company": "Careernet",
+    "location": "hybrid - bengaluru",
+    "job_type": "0-1 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Advanced Excel",
+      "MIS Reporting",
+      "Excel",
+      "VLOOKUP",
+      "Reporting",
+      "MIS"
+    ],
+    "posting_date": "Today",
+    "apply_link": "https://www.naukri.com/job-listings-mis-executive-careernet-bengaluru-0-to-1-years-300826000550",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-30T04:55:53.866351Z"
+  },
+  {
+    "title": "AWS DevOps Engineer | Pune/Bangalore/Hyd/Chennai",
+    "company": "Capgemini",
+    "location": "hybrid - pune, chennai, bengaluru",
+    "job_type": "6-9 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "AWS DevOps",
+      "Terraform",
+      "Docker",
+      "Kubernetes",
+      "Jenkins",
+      "Ci/Cd",
+      "Python",
+      "Devops"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-aws-devops-engineer-pune-bangalore-hyd-chennai-capgemini-pune-chennai-bengaluru-6-to-9-years-010626004552",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-30T04:55:54.383693Z"
+  },
+  {
+    "title": "Hiring Quadient Inspire -Bangalore",
+    "company": "Cognizant",
+    "location": "hyderabad, pune, bengaluru",
+    "job_type": "3-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Designer",
+      "Quadient Inspire",
+      "Scaler",
+      "ERP",
+      "Interactive",
+      "CRM",
+      "Hiring",
+      "Design"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-hiring-quadient-inspire-bangalore-cognizant-hyderabad-pune-bengaluru-3-to-8-years-290826008656",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-30T04:55:54.828932Z"
   }
 ]
