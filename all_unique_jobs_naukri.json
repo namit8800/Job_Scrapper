@@ -31431,5 +31431,27 @@
     "apply_link": "https://www.naukri.com/job-listings-sap-btp-datasphere-adore-technosoft-opc-bangalore-rural-bengaluru-mumbai-all-areas-15-to-30-years-310826016501",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-31T16:03:26.853998Z"
+  },
+  {
+    "title": "SAP BTP CAPM Engineer | XP: 6 +",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, pune, bengaluru",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SAP Cloud Application Programming",
+      "SAP HANA Database",
+      "SAP Btp",
+      "Node.js Development",
+      "Javascript",
+      "TypeScript",
+      "Database Administration",
+      "SAP HANA"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-sap-btp-capm-engineer-xp-6-tata-consultancy-services-hyderabad-pune-bengaluru-6-to-11-years-310826026974",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-08-31T23:41:27.784922Z"
   }
 ]
