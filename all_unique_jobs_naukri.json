@@ -31517,5 +31517,156 @@
     "apply_link": "https://www.naukri.com/job-listings-workday-benefits-consultant-pwc-hyderabad-pune-bengaluru-5-to-10-years-270826016142",
     "source_platform": "Naukri",
     "scraped_at": "2026-09-01T04:38:52.311046Z"
+  },
+  {
+    "title": "GEN AI Engineer (Bangalore /Hyderabad/ Mumbai)",
+    "company": "EY",
+    "location": "hybrid - hyderabad, bengaluru, mumbai (all areas)",
+    "job_type": "5-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Agentic Ai",
+      "generative ai",
+      "Cloud",
+      "Machine Learning",
+      "Python",
+      "Artificial Intelligence",
+      "Gen",
+      "Machine"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-gen-ai-engineer-bangalore-hyderabad-mumbai-ey-hyderabad-bengaluru-mumbai-all-areas-5-to-8-years-010926036004",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-01T19:19:31.513828Z"
+  },
+  {
+    "title": "EDI - Electronic Data Interchange Consultant",
+    "company": "Tata Consultancy Services",
+    "location": "bengaluru, mumbai (all areas)",
+    "job_type": "4-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Electronic Data Interchange",
+      "EDI",
+      "Edifact",
+      "Consulting",
+      "Electronics",
+      "Data"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-edi-electronic-data-interchange-consultant-tata-consultancy-services-bengaluru-mumbai-all-areas-4-to-8-years-010926038269",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-01T19:19:31.578352Z"
+  },
+  {
+    "title": "GCP Data Migration Expert - IP (Tableau/Cognos To Looker)",
+    "company": "HCLTech",
+    "location": "hybrid - hyderabad, bengaluru, mumbai (all areas)",
+    "job_type": "12-22 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Tableau",
+      "Data Migration",
+      "GCP",
+      "Cognos",
+      "Looker",
+      "Migration",
+      "Data",
+      "IP"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-gcp-data-migration-expert-ip-tableau-cognos-to-looker-hcltech-hyderabad-bengaluru-mumbai-all-areas-12-to-22-years-010926032284",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-01T19:19:31.654398Z"
+  },
+  {
+    "title": "Java Spingboot and Micorservices",
+    "company": "Tata Consultancy Services",
+    "location": "bengaluru, mumbai (all areas)",
+    "job_type": "7-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Hibernate",
+      "Java Spring Boot",
+      "Spring Boot",
+      "Core Javascript",
+      "Microservices",
+      "Springboot Java",
+      "Core",
+      "Boot"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-java-spingboot-and-micorservices-tata-consultancy-services-bengaluru-mumbai-all-areas-7-to-10-years-310826027613",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-01T19:19:31.729424Z"
+  },
+  {
+    "title": "Adobe Experience Platform Lead",
+    "company": "MALABAR GOLD & DIAMONDS",
+    "location": "mumbai, kozhikode, bengaluru",
+    "job_type": "7-12 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Customer Data Platform",
+      "Adobe Experience Platform",
+      "Analytics",
+      "Data Governance",
+      "Governance",
+      "Adobe",
+      "Data"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-adobe-experience-platform-lead-malabar-gold-diamonds-mumbai-kozhikode-bengaluru-7-to-12-years-010926012300",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-01T19:19:31.945689Z"
+  },
+  {
+    "title": "SAP S4HANA Finance Solution Architect",
+    "company": "Atos",
+    "location": "hybrid - chennai, bengaluru, mumbai (all areas)",
+    "job_type": "15-20 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "sap",
+      "solution architect",
+      "s4hana",
+      "tranformation",
+      "finance",
+      "gloabl template",
+      "R2R",
+      "global rollout"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-sap-s4hana-finance-solution-architect-atos-chennai-bengaluru-mumbai-all-areas-15-to-20-years-240726023892",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-01T19:19:32.234358Z"
+  },
+  {
+    "title": "Workday Technical & Functional Consultant",
+    "company": "KPMG Assurance and Consulting Services LLP",
+    "location": "mumbai, bangalore rural, bengaluru",
+    "job_type": "4-16 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Workday Integration",
+      "Workday",
+      "Workday Functional",
+      "Workday Orchestrate",
+      "Matrix Reports",
+      "Core Connector",
+      "Workday HCM",
+      "Workday Extend"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-workday-technical-functional-consultant-kpmg-assurance-and-consulting-services-llp-mumbai-bangalore-rural-bengaluru-4-to-16-years-010926029530",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-01T19:19:32.515600Z"
   }
 ]
