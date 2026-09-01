@@ -31453,5 +31453,69 @@
     "apply_link": "https://www.naukri.com/job-listings-sap-btp-capm-engineer-xp-6-tata-consultancy-services-hyderabad-pune-bengaluru-6-to-11-years-310826026974",
     "source_platform": "Naukri",
     "scraped_at": "2026-08-31T23:41:27.784922Z"
+  },
+  {
+    "title": "SAP PS technical cosultant@Bangalore ,Hyderabad,Pune,Coimbatore",
+    "company": "HCLTech",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "WBS",
+      "Arc",
+      "SAP S/4HANA Project System",
+      "SAP PS",
+      "APIs",
+      "Soap",
+      "PPM",
+      "ABAP"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-sap-ps-technical-cosultant-bangalore-hyderabad-pune-coimbatore-hcltech-hyderabad-pune-bengaluru-5-to-10-years-270826030381",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-01T04:38:51.807686Z"
+  },
+  {
+    "title": "Workday Payroll Consultant",
+    "company": "PwC",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Workday US Payroll",
+      "Workday Payroll",
+      "Workday Certified",
+      "Certified",
+      "Payroll",
+      "US payroll",
+      "Consulting",
+      "Workday"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-workday-payroll-consultant-pwc-hyderabad-pune-bengaluru-5-to-10-years-270826016029",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-01T04:38:52.246474Z"
+  },
+  {
+    "title": "Workday Benefits Consultant",
+    "company": "PwC",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Workday Certified",
+      "Workday Benefits",
+      "Benefits",
+      "Certified",
+      "Consulting",
+      "Workday"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-workday-benefits-consultant-pwc-hyderabad-pune-bengaluru-5-to-10-years-270826016142",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-01T04:38:52.311046Z"
   }
 ]
