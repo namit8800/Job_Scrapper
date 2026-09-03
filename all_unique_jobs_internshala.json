@@ -76578,5 +76578,33 @@
     "source_platform": "Internshala",
     "duration": "N/A",
     "scraped_at": "2026-09-02T22:30:07.317665Z"
+  },
+  {
+    "title": "Recruitment",
+    "company": "Healthocare Private Limited",
+    "location": "hyderabad",
+    "job_type": "Internship",
+    "salary": "\u20b9 14,000 - 20,000 /month",
+    "salary_numeric": 14000,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/recruitment-internship-in-hyderabad-at-healthocare-private-limited1788404922",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-09-03T03:59:59.934058Z"
+  },
+  {
+    "title": "Teaching",
+    "company": "GEMA Education Technology Private Limited",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "\u20b9 1,000 - 1,500 /month",
+    "salary_numeric": 1000,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-teaching-internship-at-gema-education-technology-private-limited1788397440",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-09-03T04:00:00.048538Z"
   }
 ]
