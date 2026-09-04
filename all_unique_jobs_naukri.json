@@ -32717,5 +32717,49 @@
     "apply_link": "https://www.naukri.com/job-listings-llm-engineer-healthcare-domain-manager-pwc-hyderabad-pune-bengaluru-8-to-12-years-040926020606",
     "source_platform": "Naukri",
     "scraped_at": "2026-09-04T12:38:32.406630Z"
+  },
+  {
+    "title": "Associate Director Performance Marketing",
+    "company": "Accenture",
+    "location": "mumbai, hyderabad",
+    "job_type": "15-20 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "abm",
+      "digital marketing",
+      "cro",
+      "ai",
+      "campaign optimization",
+      "account-based marketing",
+      "analytics",
+      "demand generation"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-associate-director-performance-marketing-accenture-solutions-pvt-ltd-mumbai-hyderabad-15-to-20-years-040926926539",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-04T18:56:11.371573Z"
+  },
+  {
+    "title": "Java Back End Developer",
+    "company": "Hexaware Technologies",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "5-10 Yrs",
+    "salary": "10-19 Lacs PA",
+    "salary_numeric": 1900000,
+    "skills_required": [
+      "Java",
+      "Spring Boot",
+      "Sonarqube",
+      "Microservices",
+      "SQL",
+      "Github",
+      "Kafka",
+      "Kubernetes"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-java-back-end-developer-hexaware-technologies-hyderabad-pune-bengaluru-5-to-10-years-300726035135",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-04T18:56:11.952601Z"
   }
 ]
