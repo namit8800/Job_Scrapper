@@ -32563,5 +32563,159 @@
     "apply_link": "https://www.naukri.com/job-listings-java-lead-bangalore-pan-india-infosys-r-infosys-hyderabad-pune-bengaluru-5-to-9-years-230226022172",
     "source_platform": "Naukri",
     "scraped_at": "2026-09-04T04:02:03.584710Z"
+  },
+  {
+    "title": "Tech & Digital-Sr Software Engineer-Backend",
+    "company": "Hdfc Bank",
+    "location": "navi mumbai",
+    "job_type": "0-1 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Golang",
+      "Data Engineering",
+      "Jasmin",
+      "Blazemeter",
+      "Kafka",
+      "HTML",
+      "Spring Boot",
+      "Microservices"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-tech-digital-sr-software-engineer-backend-hdfc-bank-navi-mumbai-0-to-1-years-040926020566",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-04T12:38:31.552376Z"
+  },
+  {
+    "title": "Tech & Digital-Lead Software Engineer-Backend",
+    "company": "Hdfc Bank",
+    "location": "navi mumbai",
+    "job_type": "0-1 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Golang",
+      "Kafka",
+      "HTML",
+      "Spring Boot",
+      "Microservices",
+      "Native",
+      "Design",
+      "Rest"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-tech-digital-lead-software-engineer-backend-hdfc-bank-navi-mumbai-0-to-1-years-040926020526",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-04T12:38:31.634302Z"
+  },
+  {
+    "title": "Tech & Digital-Sr Data Engineer",
+    "company": "Hdfc Bank",
+    "location": "navi mumbai",
+    "job_type": "0-1 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Change Management",
+      "Streaming",
+      "Automation",
+      "Data Engineering",
+      "Power BI",
+      "BI",
+      "Kafka",
+      "Programming"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-tech-digital-sr-data-engineer-hdfc-bank-navi-mumbai-0-to-1-years-040926020474",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-04T12:38:31.937850Z"
+  },
+  {
+    "title": "Oracle Integration Cloud Consultant",
+    "company": "Tata Consultancy Services",
+    "location": "pune, delhi / ncr, mumbai (all areas)",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Cloud Integration",
+      "Oracle Integration Cloud",
+      "Fbdi",
+      "Rest",
+      "Oracle Cloud",
+      "Oracle",
+      "Oracle Configurator",
+      "Cloud"
+    ],
+    "posting_date": "Today",
+    "apply_link": "https://www.naukri.com/job-listings-oracle-integration-cloud-consultant-tata-consultancy-services-pune-delhi-ncr-mumbai-all-areas-6-to-11-years-030726026207",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-04T12:38:32.150192Z"
+  },
+  {
+    "title": "Tmf Specialist",
+    "company": "IQVIA",
+    "location": "hybrid - mumbai(thane east), bengaluru",
+    "job_type": "1-4 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Etmf",
+      "Veeva Vault",
+      "CTMS",
+      "Clinical Trials",
+      "Clinical",
+      "Tmf",
+      "Vault",
+      "Veeva"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-tmf-specialist-iqvia-mumbai-bengaluru-1-to-4-years-040926018705",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-04T12:38:32.223641Z"
+  },
+  {
+    "title": "Senior Digital Continuity & Manuf Engineer",
+    "company": "Capgemini",
+    "location": "navi mumbai",
+    "job_type": "2-7 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Agile",
+      "Manufacturing Processes",
+      "Business Analyst",
+      "Digital Manufacturing",
+      "Debugging",
+      "Deployment",
+      "Digital Transformation",
+      "Android"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-senior-digital-continuity-manuf-engineer-capgemini-technology-services-india-limited-navi-mumbai-2-to-7-years-040926917255",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-04T12:38:32.299712Z"
+  },
+  {
+    "title": "LLM Engineer+Healthcare Domain-Manager",
+    "company": "PwC",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "8-12 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "GEN AI",
+      "Healthcare",
+      "HL7",
+      "HIPAA",
+      "LANGGRAPH",
+      "LLM",
+      "LANGCHAIN",
+      "Artificial Intelligence"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-llm-engineer-healthcare-domain-manager-pwc-hyderabad-pune-bengaluru-8-to-12-years-040926020606",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-04T12:38:32.406630Z"
   }
 ]
