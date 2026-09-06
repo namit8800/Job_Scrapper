@@ -33304,5 +33304,66 @@
     "apply_link": "https://www.naukri.com/job-listings-sap-sd-hana-consultant-capgemini-pune-bengaluru-mumbai-all-areas-6-to-11-years-290626006604",
     "source_platform": "Naukri",
     "scraped_at": "2026-09-06T04:05:35.257329Z"
+  },
+  {
+    "title": "Graduate Apprentice Trainee",
+    "company": "Volvo Group",
+    "location": "bengaluru",
+    "job_type": "0 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "AutoCAD",
+      "Electronics",
+      "Visio",
+      "Electricals",
+      "Training"
+    ],
+    "posting_date": "Today",
+    "apply_link": "https://www.naukri.com/job-listings-graduate-apprentice-trainee-volvo-group-bengaluru-0-to-0-years-060926002868",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-06T12:04:12.178423Z"
+  },
+  {
+    "title": "Enterprise Sales - (Saas & Agentic AI Products)",
+    "company": "Manupatra Information Solutions",
+    "location": "noida, mumbai suburban, bengaluru",
+    "job_type": "1-6 Yrs",
+    "salary": "6-16 Lacs PA",
+    "salary_numeric": 1600000,
+    "skills_required": [
+      "B2B",
+      "New Client Acquisition",
+      "Consultative Sales",
+      "SaaS",
+      "Enterprise Sales",
+      "SaaS Sales",
+      "Hunting",
+      "AI Sales"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-enterprise-sales-saas-agentic-ai-products-manupatra-information-solutions-noida-mumbai-suburban-bengaluru-1-to-6-years-060926003368",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-06T12:04:12.650975Z"
+  },
+  {
+    "title": "As400 Developer",
+    "company": "CGI",
+    "location": "mumbai, hyderabad, bengaluru",
+    "job_type": "4-8 Yrs",
+    "salary": "50,000 PA",
+    "salary_numeric": 50000,
+    "skills_required": [
+      "RPG",
+      "AS400",
+      "RPGLE",
+      "CLLE",
+      "iSERIES",
+      "Development"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-as400-developer-cgi-mumbai-hyderabad-bengaluru-4-to-8-years-290726030698",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-06T12:04:12.879306Z"
   }
 ]
