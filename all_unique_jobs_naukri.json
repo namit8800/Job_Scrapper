@@ -34585,5 +34585,71 @@
     "apply_link": "https://www.naukri.com/job-listings-sales-executive-reproductive-genetics-genetic-diagnostics-lifecell-mumbai-ahmedabad-bengaluru-1-to-15-years-090926013287",
     "source_platform": "Naukri",
     "scraped_at": "2026-09-09T12:52:20.934970Z"
+  },
+  {
+    "title": "Cognizant is hiring For Azure DevOps, Kubernetes, Dockers & OpenShift",
+    "company": "Cognizant",
+    "location": "hybrid - mumbai, bengaluru",
+    "job_type": "3-5 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Docker",
+      "Openshift",
+      "Gitlab Ci / Cd",
+      "Azure Devops",
+      "Kubernetes",
+      "Microsoft Azure",
+      "Continuous Integration",
+      "Gitlab CI"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-cognizant-is-hiring-for-azure-devops-kubernetes-dockers-openshift-cognizant-mumbai-bengaluru-3-to-5-years-090926035893",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-09T19:11:46.589719Z"
+  },
+  {
+    "title": "Domain Specialist",
+    "company": "Capco",
+    "location": "pune, bengaluru, mumbai (all areas)",
+    "job_type": "7-12 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Data Analysis",
+      "Business Analysis",
+      "SQL",
+      "Data Quality",
+      "Data Monitoring",
+      "Data Lineage",
+      "DNS",
+      "Quality"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-domain-specialist-capco-pune-bengaluru-mumbai-all-areas-7-to-12-years-090926034227",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-09T19:11:46.763588Z"
+  },
+  {
+    "title": "Ui Technical Lead",
+    "company": "Hexaware Technologies",
+    "location": "hybrid - pune, bengaluru, mumbai (all areas)",
+    "job_type": "6-11 Yrs",
+    "salary": "12-19 Lacs PA",
+    "salary_numeric": 1900000,
+    "skills_required": [
+      "GCP",
+      "UI Development",
+      "React.js",
+      "TypeScript",
+      "Css/Css3",
+      "GCP Cloud",
+      "Javascript",
+      "HTML"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-ui-technical-lead-hexaware-technologies-pune-bengaluru-mumbai-all-areas-6-to-11-years-090926036043",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-09T19:11:47.415654Z"
   }
 ]
