@@ -34980,5 +34980,71 @@
     "apply_link": "https://www.naukri.com/job-listings-sap-btp-is-rap-capm-architect-capgemini-technology-services-india-limited-mumbai-15-to-18-years-100926913738",
     "source_platform": "Naukri",
     "scraped_at": "2026-09-10T12:50:20.755733Z"
+  },
+  {
+    "title": "EY is hiring For SM For Employee Relation - Talent function",
+    "company": "EY",
+    "location": "mumbai, bengaluru, delhi / ncr",
+    "job_type": "10-15 Yrs",
+    "salary": "22.5-37.5 Lacs PA",
+    "salary_numeric": 3750000,
+    "skills_required": [
+      "Labour Laws",
+      "Industrial Relations",
+      "Disciplinary Action",
+      "Employee Relations",
+      "Employee Grievances",
+      "HR Compliance",
+      "IR",
+      "Labour Welfare"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-ey-is-hiring-for-sm-for-employee-relation-talent-function-ey-mumbai-bengaluru-delhi-ncr-10-to-15-years-100926035083",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-10T19:03:30.278089Z"
+  },
+  {
+    "title": "GCC Advisory Analyst",
+    "company": "Accenture",
+    "location": "mumbai",
+    "job_type": "2-5 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "ai",
+      "emerging technologies",
+      "o2c",
+      "collaterals",
+      "business development",
+      "market research",
+      "business intelligence",
+      "migration management"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-gcc-advisory-analyst-accenture-solutions-pvt-ltd-mumbai-2-to-5-years-100926931876",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-10T19:03:31.282085Z"
+  },
+  {
+    "title": "Digital Continuity & Manuf Engineer",
+    "company": "Capgemini",
+    "location": "navi mumbai",
+    "job_type": "4-6 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "User Stories",
+      "Manufacturing Execution Systems",
+      "Design",
+      "Manufacturing Execution",
+      "Performance Management",
+      "Mes",
+      "Performance Management Systems",
+      "Manufacturing"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-digital-continuity-manuf-engineer-capgemini-technology-services-india-limited-navi-mumbai-4-to-6-years-100926933847",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-10T19:03:31.555538Z"
   }
 ]
