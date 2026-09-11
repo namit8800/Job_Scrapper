@@ -35178,5 +35178,241 @@
     "apply_link": "https://www.naukri.com/job-listings-assistant-sales-manager-corporate-annuity-funds-axis-max-life-insurance-limited-mumbai-nagpur-thane-nashik-pune-chhatrapati-sambhajinagar-0-to-5-years-100926504096",
     "source_platform": "Naukri",
     "scraped_at": "2026-09-11T04:10:29.093513Z"
+  },
+  {
+    "title": "React JS Developer",
+    "company": "Infosys",
+    "location": "hyderabad, pune, bengaluru",
+    "job_type": "0-7 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Reacts Js",
+      "Node.js",
+      "React.js",
+      "Node"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-react-js-developer-infosys-hyderabad-pune-bengaluru-0-to-7-years-110926019559",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-11T12:44:54.079222Z"
+  },
+  {
+    "title": "Gcp Engineer",
+    "company": "Tata Consultancy Services",
+    "location": "pune, chennai, mumbai (all areas)",
+    "job_type": "6-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Cloud Run",
+      "GCP",
+      "Bigquery",
+      "Cloud",
+      "Google Cloud Platforms",
+      "Cloud Platforms",
+      "Google",
+      "Cloud Platform"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-gcp-engineer-tata-consultancy-services-pune-chennai-mumbai-all-areas-6-to-10-years-110926016864",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-11T12:44:54.168517Z"
+  },
+  {
+    "title": "Lead Azure Data Engineer",
+    "company": "Tata Consultancy Services",
+    "location": "pune, bengaluru, mumbai (all areas)",
+    "job_type": "6-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Azure Databricks",
+      "Azure Data Factory (ADF)",
+      "Azure SQL",
+      "Git",
+      "SQL/T-SQL",
+      "Power BI (DAX & Data Modeling)",
+      "Azure Synapse Analytics",
+      "Azure DevOps (CI/CD)"
+    ],
+    "posting_date": "Today",
+    "apply_link": "https://www.naukri.com/job-listings-lead-azure-data-engineer-tata-consultancy-services-pune-bengaluru-mumbai-all-areas-6-to-10-years-110926004454",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-11T12:44:54.263826Z"
+  },
+  {
+    "title": "Java Full Stack Developer",
+    "company": "Hexaware Technologies",
+    "location": "pune, bengaluru, mumbai (all areas)",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Core Java",
+      "Springboots",
+      "Angular",
+      "Microservices",
+      "Core",
+      "Full Stack",
+      "Spring Boot",
+      "Java"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-java-full-stack-developer-hexaware-technologies-pune-bengaluru-mumbai-all-areas-6-to-11-years-110926016884",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-11T12:44:54.460999Z"
+  },
+  {
+    "title": "SAP SD HANA Professional - Mumbai/Pune/Bangalore/Gandhinagar",
+    "company": "Capgemini",
+    "location": "pune, bengaluru, mumbai (all areas)",
+    "job_type": "5-10 Yrs",
+    "salary": "15-30 Lacs PA",
+    "salary_numeric": 3000000,
+    "skills_required": [
+      "SAP SD",
+      "Sales and Distribution",
+      "HANA",
+      "Sales",
+      "SAP Hana",
+      "SD",
+      "Sales",
+      "Saps"
+    ],
+    "posting_date": "Today",
+    "apply_link": "https://www.naukri.com/job-listings-sap-sd-hana-professional-mumbai-pune-bangalore-gandhinagar-capgemini-pune-bengaluru-mumbai-all-areas-5-to-10-years-110926008417",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-11T12:44:54.560786Z"
+  },
+  {
+    "title": "Assistant Manager - CAT - Elite",
+    "company": "Axis Max Life Insurance",
+    "location": "mumbai, nagpur, thane, nashik, pune, chhatrapati sambhajinagar",
+    "job_type": "0-5 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "market trends",
+      "sales management",
+      "sales strategies",
+      "sales professionals",
+      "customer service",
+      "sales",
+      "Marketing",
+      "Cat"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-assistant-manager-cat-elite-axis-max-life-insurance-limited-mumbai-nagpur-thane-nashik-pune-chhatrapati-sambhajinagar-0-to-5-years-110926504768",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-11T12:44:54.743854Z"
+  },
+  {
+    "title": "Formwork Engineer",
+    "company": "Tata Projects",
+    "location": "mumbai, gurugram, chennai",
+    "job_type": "4-9 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Operation Maintenance",
+      "Manpower Management",
+      "Estimate formwork and scaffolding quantities",
+      "Safety Management",
+      "Prepare Bill of Materials",
+      "Bom Preparation"
+    ],
+    "posting_date": "Today",
+    "apply_link": "https://www.naukri.com/job-listings-formwork-engineer-tata-projects-mumbai-gurugram-chennai-4-to-9-years-110926007158",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-11T12:44:54.824858Z"
+  },
+  {
+    "title": "Architect II",
+    "company": "AtkinsR\u00e9alis",
+    "location": "mumbai",
+    "job_type": "5-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "autodesk",
+      "contractor",
+      "administration",
+      "bim",
+      "ai",
+      "photoshop",
+      "dynamo",
+      "autocad"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-architect-ii-atkins-global-mumbai-5-to-8-years-110926503795",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-11T12:44:55.108729Z"
+  },
+  {
+    "title": "Cloud SCM Functional Professional -Procurement",
+    "company": "Capgemini",
+    "location": "mumbai",
+    "job_type": "5-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Ai",
+      "Gap Analysis",
+      "Deployment",
+      "Oracle Fusion",
+      "Business Requirements",
+      "Cloud Technologies",
+      "Integrations",
+      "Data Migration"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-cloud-scm-functional-professional-procurement-capgemini-technology-services-india-limited-mumbai-5-to-8-years-110926908945",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-11T12:44:55.327179Z"
+  },
+  {
+    "title": "Sap Sd Consultant",
+    "company": "Capgemini",
+    "location": "hybrid - pune, bengaluru, mumbai (all areas)",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SAP HANA",
+      "SAP SD",
+      "End to End Implementation",
+      "Sales and Distribution",
+      "SAP Sales and Distribution",
+      "Sales",
+      "SD",
+      "Sales"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-sap-sd-consultant-capgemini-pune-bengaluru-mumbai-all-areas-6-to-11-years-110926011430",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-11T12:44:55.421070Z"
+  },
+  {
+    "title": "Cloud SCM Functional Professional -Planning",
+    "company": "Capgemini",
+    "location": "mumbai",
+    "job_type": "5-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Ai",
+      "Gap Analysis",
+      "Procurement",
+      "Deployment",
+      "Oracle Fusion",
+      "Business Requirements",
+      "Cloud Technologies",
+      "Order Management"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-cloud-scm-functional-professional-planning-capgemini-technology-services-india-limited-mumbai-5-to-8-years-110926908964",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-11T12:44:55.511946Z"
   }
 ]
