@@ -35566,5 +35566,27 @@
     "apply_link": "https://www.naukri.com/job-listings-senior-officer-cat-loyalty-axis-max-life-insurance-limited-mumbai-nagpur-thane-nashik-pune-chhatrapati-sambhajinagar-0-to-5-years-110926504741",
     "source_platform": "Naukri",
     "scraped_at": "2026-09-12T04:09:19.335141Z"
+  },
+  {
+    "title": "Java Fullstack Developer with AWS",
+    "company": "Xoriant",
+    "location": "hybrid - pune, bengaluru, mumbai (all areas)",
+    "job_type": "7-9 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Java",
+      "Fullstack Development",
+      "React.js",
+      "AWS",
+      "Angular",
+      "Spring Boot",
+      "Java Fullstack",
+      "Microservices"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-java-fullstack-developer-with-aws-xoriant-pune-bengaluru-mumbai-all-areas-7-to-9-years-120926014336",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-12T12:04:58.982856Z"
   }
 ]
