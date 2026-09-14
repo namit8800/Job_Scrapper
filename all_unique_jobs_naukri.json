@@ -36612,5 +36612,90 @@
     "apply_link": "https://www.naukri.com/job-listings-workday-benefits-consultant-pwc-hyderabad-pune-bengaluru-5-to-10-years-140926007982",
     "source_platform": "Naukri",
     "scraped_at": "2026-09-14T14:55:50.967375Z"
+  },
+  {
+    "title": "Content Moderator - Matrix Program",
+    "company": "Concentrix",
+    "location": "bengaluru",
+    "job_type": "0 Yrs",
+    "salary": "50,000-3 Lacs PA",
+    "salary_numeric": 300000,
+    "skills_required": [
+      "Backend Operations",
+      "BPO Non Voice",
+      "Backend",
+      "Non Voice Process",
+      "International Non Voice",
+      "Back Office",
+      "Matrix",
+      "Non voice"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-content-moderator-matrix-program-concentrix-bengaluru-0-to-0-years-150926000254",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-14T20:14:47.211042Z"
+  },
+  {
+    "title": "Java Spingboot and Micorservices",
+    "company": "Tata Consultancy Services",
+    "location": "bengaluru, mumbai (all areas)",
+    "job_type": "7-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Java",
+      "Spring Boot",
+      "Microservices",
+      "Spring",
+      "Boot"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-java-spingboot-and-micorservices-tata-consultancy-services-bengaluru-mumbai-all-areas-7-to-10-years-140926021825",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-14T20:14:47.592275Z"
+  },
+  {
+    "title": "MacOS Software Packaging Engineer",
+    "company": "TEKsystems",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "6-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Shell Scripting",
+      "Software Packaging",
+      "MacOS",
+      "Python",
+      "MacOS Administraion",
+      ".dmg",
+      "Troubleshooting",
+      "Software"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-macos-software-packaging-engineer-allegis-group-hyderabad-pune-bengaluru-6-to-10-years-140926022302",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-14T20:14:47.831392Z"
+  },
+  {
+    "title": "Linux Software Packaging Engineer",
+    "company": "TEKsystems",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "6-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Linux Administration",
+      "Linux OS",
+      "Bash Scripting",
+      "Debian Packaging",
+      "System Troubleshooting",
+      "Golang",
+      "C++",
+      "Rust"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-linux-software-packaging-engineer-allegis-group-hyderabad-pune-bengaluru-6-to-10-years-140926021938",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-14T20:14:48.002279Z"
   }
 ]
