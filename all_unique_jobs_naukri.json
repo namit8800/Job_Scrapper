@@ -36697,5 +36697,27 @@
     "apply_link": "https://www.naukri.com/job-listings-linux-software-packaging-engineer-allegis-group-hyderabad-pune-bengaluru-6-to-10-years-140926021938",
     "source_platform": "Naukri",
     "scraped_at": "2026-09-14T20:14:48.002279Z"
+  },
+  {
+    "title": "Java Full Stack Developer",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, pune, bengaluru",
+    "job_type": "4-9 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Java",
+      "MySQL",
+      "Node.js",
+      "Spring Boot",
+      "React.js",
+      "Stack",
+      "Boot",
+      "Development"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-java-full-stack-developer-tata-consultancy-services-hyderabad-pune-bengaluru-4-to-9-years-150926003642",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-15T04:28:31.217085Z"
   }
 ]
