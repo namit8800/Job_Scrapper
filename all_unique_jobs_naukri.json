@@ -37091,5 +37091,173 @@
     "apply_link": "https://www.naukri.com/job-listings-consultant-assurance-pune-ey-mumbai-pune-0-to-1-years-150926035962",
     "source_platform": "Naukri",
     "scraped_at": "2026-09-16T04:23:44.697396Z"
+  },
+  {
+    "title": "Distributor Salesman",
+    "company": "HERITAGE FOODS LIMITED",
+    "location": "pune, bengaluru, mumbai (all areas)",
+    "job_type": "0-2 Yrs",
+    "salary": "1.5-2.75 Lacs PA",
+    "salary_numeric": 275000,
+    "skills_required": [
+      "Distributor Sales",
+      "Retail",
+      "Retail Sales",
+      "Sales",
+      "Distribution"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-distributor-salesman-heritage-foods-limited-pune-bengaluru-mumbai-all-areas-0-to-2-years-160926044463",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-16T13:20:59.825032Z"
+  },
+  {
+    "title": "Key Accounts Manager",
+    "company": "Paytm Payments Services",
+    "location": "noida, bengaluru, mumbai (all areas)",
+    "job_type": "5-10 Yrs",
+    "salary": "18-25 Lacs PA",
+    "salary_numeric": 2500000,
+    "skills_required": [
+      "B2B",
+      "Hunting",
+      "Payment Gateways",
+      "Enterprise Sales",
+      "Strategic Account Management",
+      "Payment Solutions",
+      "Bfsi Sales",
+      "Digital Payment"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-key-accounts-manager-paytm-payments-services-noida-bengaluru-mumbai-all-areas-5-to-10-years-130726017029",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-16T13:20:59.906976Z"
+  },
+  {
+    "title": "Tcs is Hiring For Azure Network Service Engineer--Virtual Drive on 21s",
+    "company": "Tata Consultancy Services",
+    "location": "pune, bengaluru, mumbai (all areas)",
+    "job_type": "6-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Azure Virtual Network",
+      "VPN",
+      "Azure DDoS Protection",
+      "Network Security",
+      "Monitoring",
+      "Design",
+      "cloud solution",
+      "implement"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-tcs-is-hiring-for-azure-network-service-engineer-virtual-drive-on-21s-tata-consultancy-services-pune-bengaluru-mumbai-all-areas-6-to-10-years-160926016827",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-16T13:20:59.993290Z"
+  },
+  {
+    "title": "Databrick Architect",
+    "company": "Hexaware Technologies",
+    "location": "hybrid - pune, bangalore rural, mumbai (all areas)",
+    "job_type": "13-20 Yrs",
+    "salary": "18-33 Lacs PA",
+    "salary_numeric": 3300000,
+    "skills_required": [
+      "Datafactory",
+      "Databrick",
+      "Data Lake",
+      "Architecture",
+      "Data",
+      "Data Bricks"
+    ],
+    "posting_date": "Today",
+    "apply_link": "https://www.naukri.com/job-listings-databrick-architect-hexaware-technologies-pune-bangalore-rural-mumbai-all-areas-13-to-20-years-160926013769",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-16T13:21:00.561786Z"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Hexaware Technologies",
+    "location": "hybrid - navi mumbai, pune, bangalore rural",
+    "job_type": "6-10 Yrs",
+    "salary": "10-20 Lacs PA",
+    "salary_numeric": 2000000,
+    "skills_required": [
+      "dataform",
+      "GCP",
+      "Bigquery",
+      "Data",
+      "Data Engineering"
+    ],
+    "posting_date": "Today",
+    "apply_link": "https://www.naukri.com/job-listings-data-engineer-hexaware-technologies-navi-mumbai-pune-bangalore-rural-6-to-10-years-160926014081",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-16T13:21:00.624536Z"
+  },
+  {
+    "title": "Manager - Azure Databricks - MosaicAI",
+    "company": "PwC",
+    "location": "hyderabad, bengaluru, mumbai (all areas)",
+    "job_type": "9-14 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "MosaicAI",
+      "Azure",
+      "Databricks",
+      "Agentic AI",
+      "Healthcare Domain",
+      "Data Bricks",
+      "Management",
+      "Artificial Intelligence"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-manager-azure-databricks-mosaicai-pwc-hyderabad-bengaluru-mumbai-all-areas-9-to-14-years-160926044753",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-16T13:21:00.940937Z"
+  },
+  {
+    "title": "Azure Databricks - MosaicAI - Agentic AI - Manager",
+    "company": "PwC",
+    "location": "hybrid - hyderabad, bengaluru, mumbai (all areas)",
+    "job_type": "9-14 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "MosaicAI",
+      "Azure",
+      "Azure Databricks",
+      "Agentic AI",
+      "Airflow",
+      "Healthcare Domain",
+      "Hadoop",
+      "SQL"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-azure-databricks-mosaicai-agentic-ai-manager-pwc-hyderabad-bengaluru-mumbai-all-areas-9-to-14-years-160926025907",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-16T13:21:01.018857Z"
+  },
+  {
+    "title": "MDM - Reltio - Senior Associate",
+    "company": "PwC",
+    "location": "hybrid - hyderabad, bengaluru, mumbai (all areas)",
+    "job_type": "4-9 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Integration",
+      "Configuration",
+      "MDM",
+      "Reltio",
+      "Airflow",
+      "Hadoop",
+      "SQL",
+      "Senior"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-mdm-reltio-senior-associate-pwc-hyderabad-bengaluru-mumbai-all-areas-4-to-9-years-160926025116",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-16T13:21:01.208237Z"
   }
 ]
