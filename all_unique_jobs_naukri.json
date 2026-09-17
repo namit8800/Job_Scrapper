@@ -37479,5 +37479,181 @@
     "apply_link": "https://www.naukri.com/job-listings-bim-engineer-designer-lead-designer-senior-lead-designer-atkins-global-mumbai-5-to-15-years-160926502611",
     "source_platform": "Naukri",
     "scraped_at": "2026-09-17T04:29:49.986692Z"
+  },
+  {
+    "title": "Ericsson Order Care Support",
+    "company": "Tata Consultancy Services",
+    "location": "mumbai, hyderabad, bengaluru",
+    "job_type": "8-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Telecom",
+      "Telecom BSS",
+      "Openshift",
+      "Ericsson Order Care (EOC)",
+      "SQL",
+      "Telecom Operation",
+      "Telecom OSS",
+      "Eoc"
+    ],
+    "posting_date": "Today",
+    "apply_link": "https://www.naukri.com/job-listings-ericsson-order-care-support-tata-consultancy-services-mumbai-hyderabad-bengaluru-8-to-10-years-170926016590",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-17T13:17:08.791551Z"
+  },
+  {
+    "title": "Enterprise Sales Associate",
+    "company": "Delhivery",
+    "location": "bangalore rural, bengaluru, mumbai (all areas)",
+    "job_type": "2-6 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "B2B",
+      "Enterprise Sales",
+      "Enterprise Software",
+      "SaaS Sales",
+      "SaaS",
+      "Enterprise Business",
+      "Enterprise",
+      "Software"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-enterprise-sales-associate-delhivery-bangalore-rural-bengaluru-mumbai-all-areas-2-to-6-years-170926027908",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-17T13:17:08.982036Z"
+  },
+  {
+    "title": "RBM Developer",
+    "company": "Tata Consultancy Services",
+    "location": "mumbai, hyderabad, bengaluru",
+    "job_type": "4-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Java and Unix",
+      "Perl / Shell Scripting",
+      "Eclipse",
+      "RBM Developer",
+      "RBM Core Process",
+      "PL/SQL",
+      "Shell",
+      "SQL"
+    ],
+    "posting_date": "Today",
+    "apply_link": "https://www.naukri.com/job-listings-rbm-developer-tata-consultancy-services-mumbai-hyderabad-bengaluru-4-to-8-years-170926013464",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-17T13:17:09.063891Z"
+  },
+  {
+    "title": "Sales B2B - BDM",
+    "company": "Quest Plus",
+    "location": "kolkata, mumbai, chennai",
+    "job_type": "3-5 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Sales B2B",
+      "Sales",
+      "sales pipeline",
+      "Business development",
+      "Bdm",
+      "B2B",
+      "Pipeline",
+      "Development"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-sales-b2b-bdm-quest-plus-kolkata-mumbai-chennai-3-to-5-years-170926923455",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-17T13:17:09.147936Z"
+  },
+  {
+    "title": "Legal Counsel",
+    "company": "Tata Consultancy Services",
+    "location": "mumbai, bengaluru, delhi / ncr",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Contracts",
+      "AI-related agreement",
+      "Technology Licensing",
+      "IT/ITES",
+      "Outsourcing",
+      "Agreements",
+      "Counselling",
+      "Licensing"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-legal-counsel-tata-consultancy-services-mumbai-bengaluru-delhi-ncr-5-to-10-years-170926029901",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-17T13:17:09.364214Z"
+  },
+  {
+    "title": "PLSQL Developer",
+    "company": "Capgemini",
+    "location": "hybrid - bangalore rural, chennai, mumbai (all areas)",
+    "job_type": "7-12 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Linux",
+      "PLSQL",
+      "Linux Shell",
+      "UNIX Shell Scripting",
+      "UNIX",
+      "Banking Application",
+      "Banking Software",
+      "PLSQL Development"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-plsql-developer-capgemini-bangalore-rural-chennai-mumbai-all-areas-7-to-12-years-170926032396",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-17T13:17:09.442674Z"
+  },
+  {
+    "title": "Data Scientist_ NLP GenAI",
+    "company": "Fractal Analytics",
+    "location": "mumbai, hyderabad, pune, chennai, gurugram, coimbatore, bengaluru",
+    "job_type": "3-5 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Computer science",
+      "Computer vision",
+      "GIT",
+      "GCP",
+      "Analytical",
+      "Software development life cycle",
+      "Workflow",
+      "Application development"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-data-scientist-nlp-genai-fractal-analytics-ltd-mumbai-hyderabad-pune-chennai-gurugram-coimbatore-bengaluru-3-to-5-years-170926502237",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-17T13:17:09.678558Z"
+  },
+  {
+    "title": "Procurement Transformation",
+    "company": "KPMG India",
+    "location": "hybrid - hyderabad, bengaluru, mumbai (all areas)",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Procurement Implementation",
+      "Consulting",
+      "Procurement technology",
+      "Ivalua",
+      "Ariba",
+      "Coupa",
+      "Procurement",
+      "Transformation"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-procurement-transformation-kpmg-hyderabad-bengaluru-mumbai-all-areas-5-to-10-years-170926018786",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-17T13:17:09.913853Z"
   }
 ]
