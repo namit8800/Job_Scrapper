@@ -39319,5 +39319,25 @@
     "apply_link": "https://www.naukri.com/job-listings-sap-papm-5-10y-hyd-blr-pwc-ac-pwc-hyderabad-pune-bengaluru-5-to-9-years-210926028542",
     "source_platform": "Naukri",
     "scraped_at": "2026-09-21T20:21:22.953297Z"
+  },
+  {
+    "title": "Unix Engineer",
+    "company": "Tech Mahindra",
+    "location": "hyderabad, pune, bengaluru",
+    "job_type": "6-9 Yrs",
+    "salary": "8-15 Lacs PA",
+    "salary_numeric": 1500000,
+    "skills_required": [
+      "UNIX Administration",
+      "UNIX Production Support",
+      "UNIX",
+      "Production support",
+      "Production",
+      "Administration"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-unix-engineer-tech-mahindra-hyderabad-pune-bengaluru-6-to-9-years-210926026029",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-22T04:23:53.920471Z"
   }
 ]
