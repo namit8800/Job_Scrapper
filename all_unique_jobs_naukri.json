@@ -39838,5 +39838,111 @@
     "apply_link": "https://www.naukri.com/job-listings-epm-consultant-pwc-mumbai-mumbai-suburban-navi-mumbai-4-to-9-years-230926024653",
     "source_platform": "Naukri",
     "scraped_at": "2026-09-23T13:32:15.230502Z"
+  },
+  {
+    "title": "Selenium + Java Automation",
+    "company": "Tata Consultancy Services",
+    "location": "kolkata, pune, mumbai (all areas)",
+    "job_type": "6-11 Yrs",
+    "salary": "14-24 Lacs PA",
+    "salary_numeric": 2400000,
+    "skills_required": [
+      "Java",
+      "BDD",
+      "Selenium",
+      "Cucumber",
+      "Cypress",
+      "Automation"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-selenium-java-automation-tata-consultancy-services-kolkata-pune-mumbai-all-areas-6-to-11-years-230926039808",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-23T19:36:12.842467Z"
+  },
+  {
+    "title": "Java, Springboot, Microservices",
+    "company": "Tata Consultancy Services",
+    "location": "kolkata, pune, mumbai (all areas)",
+    "job_type": "6-11 Yrs",
+    "salary": "11-21 Lacs PA",
+    "salary_numeric": 2100000,
+    "skills_required": [
+      "Spring Boot",
+      "React.js",
+      "Microservices",
+      "Java",
+      "Spring",
+      "Boot"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-java-springboot-microservices-tata-consultancy-services-kolkata-pune-mumbai-all-areas-6-to-11-years-230926039790",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-23T19:36:12.905988Z"
+  },
+  {
+    "title": "Technical Architect (Azure Databricks & PySpark)",
+    "company": "Tata Consultancy Services",
+    "location": "pune, bengaluru, mumbai (all areas)",
+    "job_type": "10-20 Yrs",
+    "salary": "17-27.5 Lacs PA",
+    "salary_numeric": 2750000,
+    "skills_required": [
+      "Pyspark",
+      "Azure Databricks",
+      "Data Bricks",
+      "Bricks",
+      "Microsoft Azure",
+      "Architecture",
+      "Technical",
+      "Technical architecture"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-technical-architect-azure-databricks-pyspark-tata-consultancy-services-pune-bengaluru-mumbai-all-areas-10-to-20-years-230926039553",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-23T19:36:13.053732Z"
+  },
+  {
+    "title": "Java Development Lead",
+    "company": "Tata Consultancy Services",
+    "location": "mumbai, gurugram, bengaluru",
+    "job_type": "8-12 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Java",
+      "Kafka",
+      "Spring Boot",
+      "AWS",
+      "Microservices",
+      "Boot",
+      "Java Development",
+      "Development"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-java-development-lead-tata-consultancy-services-mumbai-gurugram-bengaluru-8-to-12-years-230926039444",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-23T19:36:13.190173Z"
+  },
+  {
+    "title": "OICS Professional",
+    "company": "Capgemini",
+    "location": "mumbai",
+    "job_type": "2-4 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Ai",
+      "Event-Driven Architecture",
+      "Erp",
+      "Api Design",
+      "Architecture",
+      "Apis",
+      "Json",
+      "Oracle Integration Cloud"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-oics-professional-capgemini-technology-services-india-limited-mumbai-2-to-4-years-230926936240",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-23T19:36:13.987521Z"
   }
 ]
