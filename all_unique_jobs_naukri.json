@@ -39583,5 +39583,93 @@
     "apply_link": "https://www.naukri.com/job-listings-java-playwright-infosys-bengaluru-mumbai-all-areas-2-to-3-years-220926048578",
     "source_platform": "Naukri",
     "scraped_at": "2026-09-22T19:40:31.377825Z"
+  },
+  {
+    "title": "Databricks Data Engineer (GCP BigQuery To Azure Databricks Migration",
+    "company": "Tech Mahindra",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "5-10 Yrs",
+    "salary": "8-18 Lacs PA",
+    "salary_numeric": 1800000,
+    "skills_required": [
+      "Pyspark",
+      "Delta Lake",
+      "Azure Databricks",
+      "Azure Data Lake",
+      "GCP Bigquery",
+      "Adls Gen2",
+      "Data Migration",
+      "Data Build Tool"
+    ],
+    "posting_date": "Today",
+    "apply_link": "https://www.naukri.com/job-listings-databricks-data-engineer-gcp-bigquery-to-azure-databricks-migration-tech-mahindra-hyderabad-pune-bengaluru-5-to-10-years-220926030282",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-23T04:20:41.484451Z"
+  },
+  {
+    "title": "Packaged/SaaS App Engineering Lead",
+    "company": "Accenture",
+    "location": "mumbai",
+    "job_type": "15-20 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "saas",
+      "python",
+      "google cloud platform",
+      "ai",
+      "enterprise architecture",
+      "microsoft azure",
+      "enterprise systems",
+      "subject matter expert"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-packaged-saas-app-engineering-lead-accenture-solutions-pvt-ltd-mumbai-15-to-20-years-220926936374",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-23T04:20:41.733163Z"
+  },
+  {
+    "title": "CFO&EV -Tax Transformation-CL9",
+    "company": "Accenture",
+    "location": "mumbai",
+    "job_type": "2-7 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "vertex",
+      "sabrix",
+      "onesource",
+      "sap",
+      "presentation skills",
+      "gst",
+      "auditing",
+      "accounting"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-cfo-ev-tax-transformation-cl9-accenture-solutions-pvt-ltd-mumbai-2-to-7-years-220926936175",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-23T04:20:42.093658Z"
+  },
+  {
+    "title": "SAP IBP - Senior Associate",
+    "company": "PwC",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "5-9 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SAP IBP",
+      "SAP Integrated Business Planning",
+      "SAP IBP Implementation",
+      "Business planning",
+      "Integrated Business Planning",
+      "Planning",
+      "SAP Automation",
+      "Senior"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-sap-ibp-senior-associate-pwc-hyderabad-pune-bengaluru-5-to-9-years-220926018024",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-23T04:20:42.176621Z"
   }
 ]
