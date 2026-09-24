@@ -91292,5 +91292,33 @@
     "source_platform": "Internshala",
     "duration": "N/A",
     "scraped_at": "2026-09-23T22:51:55.562444Z"
+  },
+  {
+    "title": "Teaching",
+    "company": "Conscript HR Advisors Private Limited",
+    "location": "pune (hybrid)",
+    "job_type": "Internship",
+    "salary": "\u20b9 2,000 /month",
+    "salary_numeric": 2000,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/teaching-internship-in-pune-at-conscript-hr-advisors-private-limited1790220308",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-09-24T04:17:19.745813Z"
+  },
+  {
+    "title": "Web Development",
+    "company": "Conscript HR Advisors Private Limited",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "\u20b9 1,000 /month",
+    "salary_numeric": 1000,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-conscript-hr-advisors-private-limited1790221144",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-09-24T04:17:19.807538Z"
   }
 ]
