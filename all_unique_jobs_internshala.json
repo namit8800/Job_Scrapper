@@ -92664,5 +92664,47 @@
     "source_platform": "Internshala",
     "duration": "N/A",
     "scraped_at": "2026-09-25T13:31:52.204755Z"
+  },
+  {
+    "title": "Fundraising",
+    "company": "She Can Foundation",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "\u20b9 1,501 - 15,001 lump sum",
+    "salary_numeric": 1501,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-part-time-fundraising-internship-at-she-can-foundation1790341639",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-09-25T19:56:58.194686Z"
+  },
+  {
+    "title": "Full Stack Development",
+    "company": "Basti Ki Pathshala Foundation",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "Unpaid",
+    "salary_numeric": null,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-basti-ki-pathshala-foundation1790338086",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-09-25T19:56:58.292315Z"
+  },
+  {
+    "title": "Software Development Engineering (Web)",
+    "company": "Cookiesensei Labs Private Limited",
+    "location": "delhi, gurgaon, noida (hybrid)",
+    "job_type": "Internship",
+    "salary": "\u20b9 15,000 - 33,000 /month",
+    "salary_numeric": 15000,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/software-development-engineering-web-internship-in-multiple-locations-at-cookiesensei-labs-private-limited1790356348",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-09-25T19:56:59.055920Z"
   }
 ]
