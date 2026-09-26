@@ -40828,5 +40828,42 @@
     "apply_link": "https://www.naukri.com/job-listings-rpgle-production-support-engineer-synechron-noida-pune-bengaluru-4-to-9-years-260926003120",
     "source_platform": "Naukri",
     "scraped_at": "2026-09-26T12:54:24.341501Z"
+  },
+  {
+    "title": "React + Flutter",
+    "company": "Infosys",
+    "location": "bengaluru, mumbai (all areas)",
+    "job_type": "3-5 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Flutter",
+      "API",
+      "iOS",
+      "React",
+      "React.js",
+      "Io"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-react-flutter-infosys-bengaluru-mumbai-all-areas-3-to-5-years-260926009455",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-26T19:09:14.197968Z"
+  },
+  {
+    "title": "Sprinklr",
+    "company": "Infosys",
+    "location": "hybrid - hyderabad, bengaluru, mumbai (all areas)",
+    "job_type": "2-7 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "IVR",
+      "Sprinklr",
+      "integration"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-sprinklr-infosys-hyderabad-bengaluru-mumbai-all-areas-2-to-7-years-260926009412",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-26T19:09:14.585920Z"
   }
 ]
