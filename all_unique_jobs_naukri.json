@@ -40762,5 +40762,71 @@
     "apply_link": "https://www.naukri.com/job-listings-associate-sales-manager-csg-axis-max-life-insurance-limited-mumbai-nagpur-thane-nashik-pune-chhatrapati-sambhajinagar-0-to-5-years-250926504025",
     "source_platform": "Naukri",
     "scraped_at": "2026-09-26T04:33:21.614183Z"
+  },
+  {
+    "title": "Java Full Stack Developer",
+    "company": "Hdfc Bank",
+    "location": "hybrid - navi mumbai, pune, bengaluru",
+    "job_type": "11-15 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Java",
+      "Spring Boot",
+      "Microservices",
+      "Cloud",
+      "React.js",
+      "Kafka",
+      "AI",
+      "Ci/Cd"
+    ],
+    "posting_date": "Today",
+    "apply_link": "https://www.naukri.com/job-listings-java-full-stack-developer-hdfc-bank-navi-mumbai-pune-bengaluru-11-to-15-years-260926002306",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-26T12:54:23.645683Z"
+  },
+  {
+    "title": "Oracle Database Administrator",
+    "company": "TEKsystems",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "3-7 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Exadata",
+      "RAC",
+      "Oracle DBA",
+      "Performance Tuning",
+      "RMAN",
+      "Dataguard",
+      "Real Application Cluster",
+      "Patching"
+    ],
+    "posting_date": "Today",
+    "apply_link": "https://www.naukri.com/job-listings-oracle-database-administrator-allegis-group-hyderabad-pune-bengaluru-3-to-7-years-260926001676",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-26T12:54:24.266826Z"
+  },
+  {
+    "title": "RPGLE Production Support Engineer",
+    "company": "Synechron",
+    "location": "noida, pune, bengaluru",
+    "job_type": "4-9 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Banking Financial Services",
+      "RPGLE",
+      "CLLE",
+      "Production",
+      "Production engineering",
+      "Financial services",
+      "Production support",
+      "Finance"
+    ],
+    "posting_date": "Today",
+    "apply_link": "https://www.naukri.com/job-listings-rpgle-production-support-engineer-synechron-noida-pune-bengaluru-4-to-9-years-260926003120",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-26T12:54:24.341501Z"
   }
 ]
