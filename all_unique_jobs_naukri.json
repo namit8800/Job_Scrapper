@@ -41147,5 +41147,93 @@
     "apply_link": "https://www.naukri.com/job-listings-immediate-hiring-international-technical-support-chat-sutherland-thane-navi-mumbai-dombivli-0-to-2-years-260926007945",
     "source_platform": "Naukri",
     "scraped_at": "2026-09-27T13:46:52.608706Z"
+  },
+  {
+    "title": "Automation Tester - Python,selenium",
+    "company": "Capgemini",
+    "location": "hybrid - pune, chennai, bengaluru",
+    "job_type": "4-9 Yrs",
+    "salary": "8.5-11 Lacs PA",
+    "salary_numeric": 1100000,
+    "skills_required": [
+      "Selenium",
+      "Robot",
+      "Python",
+      "Robot Framework",
+      "Automation Testing",
+      "Software testing",
+      "Framework",
+      "Automation"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-automation-tester-python-selenium-capgemini-pune-chennai-bengaluru-4-to-9-years-270926003361",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-27T19:41:08.769818Z"
+  },
+  {
+    "title": "SAP ABAP developer -2026",
+    "company": "Infosys",
+    "location": "hybrid - pune, bengaluru, mumbai (all areas)",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SAP ABAP",
+      "ABAP on HANA",
+      "SAP ABAP HANA",
+      "Core ABAP",
+      "Core",
+      "SAP",
+      "Abap",
+      "Development"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-sap-abap-developer-2026-infosys-pune-bengaluru-mumbai-all-areas-5-to-10-years-270626001812",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-27T19:41:09.186634Z"
+  },
+  {
+    "title": "SAP ABAP Administration -2026",
+    "company": "Infosys",
+    "location": "hybrid - pune, bengaluru, mumbai (all areas)",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SAP ABAP",
+      "ABAP on HANA",
+      "SAP ABAP HANA",
+      "Core ABAP",
+      "Core",
+      "SAP",
+      "Abap",
+      "Administration"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-sap-abap-administration-2026-infosys-pune-bengaluru-mumbai-all-areas-5-to-10-years-270626001823",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-27T19:41:09.277885Z"
+  },
+  {
+    "title": "Sap Pp Consultant",
+    "company": "Capgemini",
+    "location": "hybrid - pune, bengaluru, mumbai (all areas)",
+    "job_type": "4-9 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SAP PP",
+      "PP",
+      "SAP QM",
+      "PP Module",
+      "SAP PP QM",
+      "Production Planning",
+      "SAP PP-QM Integration",
+      "SAP Production Planning"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-sap-pp-consultant-capgemini-pune-bengaluru-mumbai-all-areas-4-to-9-years-070926033403",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-27T19:41:09.532519Z"
   }
 ]
