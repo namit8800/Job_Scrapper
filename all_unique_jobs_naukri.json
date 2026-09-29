@@ -42258,5 +42258,203 @@
     "apply_link": "https://www.naukri.com/job-listings-junior-research-fellow-mabbit-communications-nagpur-hyderabad-pune-lucknow-chennai-coimbatore-bengaluru-vadodara-mumbai-all-areas-0-to-3-years-290926024001",
     "source_platform": "Naukri",
     "scraped_at": "2026-09-29T10:33:23.829283Z"
+  },
+  {
+    "title": "Software Developer",
+    "company": "Mphasis",
+    "location": "hybrid - mumbai, hyderabad, bengaluru",
+    "job_type": "6-9 Yrs",
+    "salary": "15-25 Lacs PA",
+    "salary_numeric": 2500000,
+    "skills_required": [
+      "Ci/Cd",
+      "React.Js",
+      "AWS",
+      "Python",
+      "GIT",
+      "Azure Cloud",
+      "Rest Apis",
+      "Postgresql"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-software-developer-mphasis-mumbai-hyderabad-bengaluru-6-to-9-years-290926038318",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-29T17:58:21.837443Z"
+  },
+  {
+    "title": "SAP IS Retail - Pune/Mumbai/Bangalore/Gandhinagar",
+    "company": "Capgemini",
+    "location": "pune, bengaluru, mumbai (all areas)",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SAP IS Retail",
+      "SD",
+      "implementation",
+      "Retail",
+      "SAP Retail",
+      "SAP Is",
+      "SAP IS-Retail",
+      "SAP"
+    ],
+    "posting_date": "Today",
+    "apply_link": "https://www.naukri.com/job-listings-sap-is-retail-pune-mumbai-bangalore-gandhinagar-capgemini-pune-bengaluru-mumbai-all-areas-5-to-10-years-290926031856",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-29T17:58:21.927617Z"
+  },
+  {
+    "title": "Sales Executive",
+    "company": "Lifecell",
+    "location": "ahmedabad, bengaluru, mumbai (all areas)",
+    "job_type": "2-7 Yrs",
+    "salary": "4-9 Lacs PA",
+    "salary_numeric": 900000,
+    "skills_required": [
+      "Healthcare Sales",
+      "Diagnostic Sales",
+      "Field Sales",
+      "Genetic Diagnostics",
+      "Territory Sales",
+      "Medical Sales",
+      "Direct Sales",
+      "Reproductive Genetics"
+    ],
+    "posting_date": "Today",
+    "apply_link": "https://www.naukri.com/job-listings-sales-executive-lifecell-ahmedabad-bengaluru-mumbai-all-areas-2-to-7-years-290926016430",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-29T17:58:22.096631Z"
+  },
+  {
+    "title": "Tech & Digital-Lead Solutions Architect",
+    "company": "Hdfc Bank",
+    "location": "mumbai",
+    "job_type": "0-1 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Open Source",
+      "PaaS",
+      "Kafka",
+      "ELT",
+      "Microservices",
+      "Software Development Methodologies",
+      "Oracle",
+      "Cloud Native"
+    ],
+    "posting_date": "Today",
+    "apply_link": "https://www.naukri.com/job-listings-tech-digital-lead-solutions-architect-hdfc-bank-mumbai-0-to-1-years-290926029302",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-29T17:58:22.183477Z"
+  },
+  {
+    "title": "Machine Identity Service Architect",
+    "company": "Atos",
+    "location": "bengaluru, mumbai (all areas)",
+    "job_type": "12-20 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "PKI Services",
+      "HSm",
+      "AD",
+      "CLM",
+      "CP CPS",
+      "CA hierarchy design",
+      "IDnomic",
+      "Cryptography"
+    ],
+    "posting_date": "Today",
+    "apply_link": "https://www.naukri.com/job-listings-machine-identity-service-architect-atos-bengaluru-mumbai-all-areas-12-to-20-years-290926031330",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-29T17:58:22.447163Z"
+  },
+  {
+    "title": "SAP Engagement Manager",
+    "company": "Capgemini",
+    "location": "mumbai",
+    "job_type": "12-22 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "sap",
+      "profitability",
+      "engagement",
+      "engagement management",
+      "networking",
+      "program",
+      "transformation",
+      "sales"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-sap-engagement-manager-capgemini-technology-services-india-limited-mumbai-12-to-22-years-290926934304",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-29T17:58:22.609764Z"
+  },
+  {
+    "title": "SAP UI5 and FIori Consultant",
+    "company": "Infosys",
+    "location": "hybrid - noida, ahmedabad, mumbai (all areas)",
+    "job_type": "2-7 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Sapui5",
+      "SAP UI Fiori Development",
+      "Btp Integration",
+      "Fiori UI",
+      "Leonardo Spectrum",
+      "SAP Implementation",
+      "CPI",
+      "Consulting"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-sap-ui5-and-fiori-consultant-infosys-noida-ahmedabad-mumbai-all-areas-2-to-7-years-290926042064",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-29T17:58:22.875130Z"
+  },
+  {
+    "title": "Sap Abap Technical Consultant",
+    "company": "Capgemini",
+    "location": "hybrid - pune, bengaluru, mumbai (all areas)",
+    "job_type": "6-11 Yrs",
+    "salary": "20-30 Lacs PA",
+    "salary_numeric": 3000000,
+    "skills_required": [
+      "Cds Views",
+      "Odata Services",
+      "SAP ABAP HANA",
+      "ABAP on HANA",
+      "Amdp",
+      "Consulting",
+      "SAP",
+      "SAP ABAP"
+    ],
+    "posting_date": "Today",
+    "apply_link": "https://www.naukri.com/job-listings-sap-abap-technical-consultant-capgemini-pune-bengaluru-mumbai-all-areas-6-to-11-years-110826039613",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-29T17:58:22.957833Z"
+  },
+  {
+    "title": "Diagnostic Sales Manager",
+    "company": "Lifecell",
+    "location": "mumbai, ahmedabad, bengaluru",
+    "job_type": "2-10 Yrs",
+    "salary": "4-12 Lacs PA",
+    "salary_numeric": 1200000,
+    "skills_required": [
+      "Diagnostic Sales",
+      "Healthcare Sales",
+      "Genetic Diagnostics",
+      "Territory Sales",
+      "Kol Management",
+      "Medical Sales",
+      "Genomics",
+      "Reproductive Genetics"
+    ],
+    "posting_date": "Today",
+    "apply_link": "https://www.naukri.com/job-listings-diagnostic-sales-manager-lifecell-mumbai-ahmedabad-bengaluru-2-to-10-years-290926015410",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-09-29T17:58:23.307735Z"
   }
 ]
