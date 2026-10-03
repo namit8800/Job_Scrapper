@@ -43628,5 +43628,93 @@
     "apply_link": "https://www.naukri.com/job-listings-sales-officer-corporate-salary-retail-branch-banking-hdfc-bank-thane-navi-mumbai-mumbai-all-areas-0-to-1-years-031026008910",
     "source_platform": "Naukri",
     "scraped_at": "2026-10-03T13:14:06.340205Z"
+  },
+  {
+    "title": "Radiologist Professional (Doctor / Consultant)",
+    "company": "Healthcare",
+    "location": "bengaluru",
+    "job_type": "0-4 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Ultrasound",
+      "Sonography",
+      "Scanning",
+      "Diagnostics",
+      "USG",
+      "Mammography",
+      "Medical Imaging",
+      "radiologist"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-radiologist-professional-doctor-consultant-next-ambition-bengaluru-0-to-4-years-240926039869",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-03T19:08:05.180085Z"
+  },
+  {
+    "title": "Walk-in || Sap PPQM Consultant",
+    "company": "Capgemini",
+    "location": "pune, bengaluru, mumbai (all areas)",
+    "job_type": "N/A",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SAP PP QM",
+      "End to End Implementation",
+      "SAP Production Planning",
+      "Production planning",
+      "Consulting",
+      "Production",
+      "End",
+      "End To End"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-sap-ppqm-consultant-capgemini-pune-bengaluru-mumbai-all-areas-4-to-9-years-031026009186",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-03T19:08:05.541252Z"
+  },
+  {
+    "title": "Walk-in || Sap Qm Consultant",
+    "company": "Capgemini",
+    "location": "hybrid - pune, bengaluru, mumbai (all areas)",
+    "job_type": "N/A",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SAP QM",
+      "SAP S HANA",
+      "SAP Quality Management",
+      "Consulting",
+      "S",
+      "Quality management",
+      "Saps",
+      "SAP Hana"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-sap-qm-consultant-capgemini-pune-bengaluru-mumbai-all-areas-4-to-7-years-031026009226",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-03T19:08:05.625158Z"
+  },
+  {
+    "title": "Walk-in || Sap Pp Consultant",
+    "company": "Capgemini",
+    "location": "hybrid - pune, bengaluru, mumbai (all areas)",
+    "job_type": "N/A",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SAP PP",
+      "End to End Implementation",
+      "SAP Production Planning",
+      "Production planning",
+      "Consulting",
+      "Production",
+      "End",
+      "End To End"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-sap-pp-consultant-capgemini-pune-bengaluru-mumbai-all-areas-4-to-9-years-031026009248",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-03T19:08:05.845451Z"
   }
 ]
