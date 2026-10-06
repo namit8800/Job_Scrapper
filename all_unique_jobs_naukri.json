@@ -44305,5 +44305,114 @@
     "apply_link": "https://www.naukri.com/job-listings-opportunity-gis-solution-architect-professional-atos-bengaluru-mumbai-all-areas-11-to-16-years-051026039052",
     "source_platform": "Naukri",
     "scraped_at": "2026-10-05T17:01:47.035425Z"
+  },
+  {
+    "title": "Specialist Engineer",
+    "company": "Siemens",
+    "location": "kolkata, navi mumbai, chennai",
+    "job_type": "3-8 Yrs",
+    "salary": "12-22 Lacs PA",
+    "salary_numeric": 2200000,
+    "skills_required": [
+      "Harmonic",
+      "Power System",
+      "Steady State",
+      "dynamic",
+      "Power Electronics",
+      "Electronics",
+      "System"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-specialist-engineer-siemens-kolkata-navi-mumbai-chennai-3-to-8-years-051026043011",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-06T01:14:51.426690Z"
+  },
+  {
+    "title": "GN-I&E-Banking-Ops Excellence-Analyst",
+    "company": "Accenture",
+    "location": "mumbai",
+    "job_type": "3-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "agile",
+      "business models",
+      "management consulting",
+      "emerging technologies",
+      "business process reengineering",
+      "blogs",
+      "banking operations",
+      "mining"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-gn-i-e-banking-ops-excellence-analyst-accenture-solutions-pvt-ltd-mumbai-3-to-8-years-051026931963",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-06T01:14:51.487812Z"
+  },
+  {
+    "title": "GN-I&E-Banking-Core Banking-Analyst",
+    "company": "Accenture",
+    "location": "mumbai",
+    "job_type": "4-9 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "agile",
+      "business models",
+      "management consulting",
+      "emerging technologies",
+      "banking application",
+      "blogs",
+      "banking solutions",
+      "process improvement"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-gn-i-e-banking-core-banking-analyst-accenture-solutions-pvt-ltd-mumbai-4-to-9-years-051026931904",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-06T01:14:51.612398Z"
+  },
+  {
+    "title": "Custom Software Engineering Lead",
+    "company": "Accenture",
+    "location": "mumbai",
+    "job_type": "7-12 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "architectural design",
+      "design concepts",
+      "sap",
+      "software development",
+      "hris",
+      "knowledge management",
+      "code quality",
+      "software architecture"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-custom-software-engineering-lead-accenture-solutions-pvt-ltd-mumbai-7-to-12-years-051026931068",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-06T01:14:51.904059Z"
+  },
+  {
+    "title": "IMU - AI & Data Manager",
+    "company": "Accenture",
+    "location": "mumbai",
+    "job_type": "10-12 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "administration",
+      "cloud services",
+      "data analysis",
+      "conversational ai",
+      "data dictionary",
+      "ai",
+      "articulate",
+      "cloud platforms"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-imu-ai-data-manager-accenture-solutions-pvt-ltd-mumbai-10-to-12-years-051026933895",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-06T01:14:52.024324Z"
   }
 ]
