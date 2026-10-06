@@ -44414,5 +44414,93 @@
     "apply_link": "https://www.naukri.com/job-listings-imu-ai-data-manager-accenture-solutions-pvt-ltd-mumbai-10-to-12-years-051026933895",
     "source_platform": "Naukri",
     "scraped_at": "2026-10-06T01:14:52.024324Z"
+  },
+  {
+    "title": "Google - Senior Manager",
+    "company": "Accenture",
+    "location": "mumbai",
+    "job_type": "13-18 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "agile",
+      "business models",
+      "business requirements",
+      "blogs",
+      "ai",
+      "amazon lex",
+      "analytical skills",
+      "agile delivery"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-google-senior-manager-accenture-solutions-pvt-ltd-mumbai-13-to-18-years-051026937696",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-06T11:09:24.092975Z"
+  },
+  {
+    "title": "Java Developer",
+    "company": "Tata Consultancy Services",
+    "location": "bengaluru, mumbai (all areas)",
+    "job_type": "6-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Java",
+      "Spring Boot",
+      "AWS",
+      "Microservices",
+      "Boot",
+      "Java Development",
+      "Development",
+      "Spring"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-java-developer-tata-consultancy-services-bengaluru-mumbai-all-areas-6-to-10-years-061026014273",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-06T11:09:24.228761Z"
+  },
+  {
+    "title": "Microsoft Full Stack Developer",
+    "company": "Hexaware Technologies",
+    "location": "pune, chennai, mumbai (all areas)",
+    "job_type": "9-14 Yrs",
+    "salary": "15-25 Lacs PA",
+    "salary_numeric": 2500000,
+    "skills_required": [
+      ".net core",
+      "React",
+      "Azure Services",
+      "Angular",
+      "microservices",
+      "Core",
+      "Full Stack",
+      "Microsoft Azure"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-microsoft-full-stack-developer-hexaware-technologies-pune-chennai-mumbai-all-areas-9-to-14-years-061026004680",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-06T11:09:24.358336Z"
+  },
+  {
+    "title": "Seo Analyst",
+    "company": "eClerx",
+    "location": "navi mumbai, pune, mumbai (all areas)",
+    "job_type": "0 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Search Engine Optimization",
+      "SEO Analysis",
+      "GEO",
+      "On-Page Optimization",
+      "Off Page SEO",
+      "Technical SEO",
+      "Keyword Research",
+      "AEO"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-seo-analyst-eclerx-navi-mumbai-pune-mumbai-all-areas-0-to-0-years-061026020772",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-06T11:09:24.427900Z"
   }
 ]
