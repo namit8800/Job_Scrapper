@@ -44678,5 +44678,137 @@
     "apply_link": "https://www.naukri.com/job-listings-sap-ewm-functional-consultant-envision-technology-solutions-tech-think-infotech-mumbai-pune-chennai-bengaluru-6-to-11-years-061026503835",
     "source_platform": "Naukri",
     "scraped_at": "2026-10-06T18:12:20.135050Z"
+  },
+  {
+    "title": "Fresher Maintenance Engineer",
+    "company": "JOB PLUS HR CONSULTANCY PRIVATE LIMITED",
+    "location": "pune, ahmedabad, mumbai (all areas)",
+    "job_type": "0-5 Yrs",
+    "salary": "4.5-7.5 Lacs PA",
+    "salary_numeric": 750000,
+    "skills_required": [
+      "Production and Maintenance",
+      "Electrical Maintenance",
+      "Maintenance Engineering",
+      "Engineering",
+      "Production",
+      "Mechanical",
+      "Production Engineering",
+      "Machine Maintenance"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-fresher-maintenance-engineer-plus-hr-consultancy-mumbai-pune-ahmedabad-mumbai-all-areas-0-to-5-years-061026005185",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-07T05:27:40.652017Z"
+  },
+  {
+    "title": "Associate Sales Manager",
+    "company": "Axis Max Life Insurance",
+    "location": "mumbai, nagpur, thane, nashik, pune, chhatrapati sambhajinagar",
+    "job_type": "0-5 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "insurance",
+      "channel sales",
+      "direct marketing",
+      "general insurance sales",
+      "business development",
+      "distribution",
+      "sales",
+      "life insurance"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-associate-sales-manager-axis-max-life-insurance-limited-mumbai-nagpur-thane-nashik-pune-chhatrapati-sambhajinagar-0-to-5-years-061026503891",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-07T05:27:40.743567Z"
+  },
+  {
+    "title": "Senior Associate - Delinea Implementation",
+    "company": "PwC",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "3-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Delinea",
+      "Implementation",
+      "Cyberark",
+      "Integration",
+      "Rest API Automation",
+      "PAM",
+      "Privilege Access Management",
+      "API"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-senior-associate-delinea-implementation-pwc-hyderabad-pune-bengaluru-3-to-8-years-310726018214",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-07T05:27:42.005934Z"
+  },
+  {
+    "title": "CONSULTANT",
+    "company": "Atos",
+    "location": "mumbai, navi mumbai",
+    "job_type": "6-12 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "asp.net core",
+      "ci/cd pipelines",
+      "css",
+      "cosmos db",
+      "csr",
+      "angular cli",
+      "bootstrap",
+      "cosmos"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-consultant-atos-pvt-ltd-mumbai-navi-mumbai-6-to-12-years-061026502710",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-07T05:27:42.093058Z"
+  },
+  {
+    "title": "Sr SAS DEVELOPER",
+    "company": "Atos",
+    "location": "mumbai, navi mumbai",
+    "job_type": "7-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "ci/cd pipelines",
+      "csr",
+      "blob storage",
+      "data manipulation",
+      "ai",
+      "automated testing",
+      "cybersecurity",
+      "data engineering"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-sr-sas-developer-atos-pvt-ltd-mumbai-navi-mumbai-7-to-11-years-061026502433",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-07T05:27:42.178859Z"
+  },
+  {
+    "title": ".NET React Azure Developer",
+    "company": "Hexaware Technologies",
+    "location": "hybrid - hyderabad, bengaluru, mumbai (all areas)",
+    "job_type": "9-12 Yrs",
+    "salary": "15-22.5 Lacs PA",
+    "salary_numeric": 2250000,
+    "skills_required": [
+      "Azure Services & Functions",
+      "React.js",
+      ".NET Core",
+      "SQL",
+      "Core",
+      "Functional",
+      "Microsoft Azure",
+      ".Net"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-net-react-azure-developer-hexaware-technologies-hyderabad-bengaluru-mumbai-all-areas-9-to-12-years-071026015531",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-07T05:27:42.353302Z"
   }
 ]
