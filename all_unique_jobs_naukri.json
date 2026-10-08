@@ -45161,5 +45161,137 @@
     "apply_link": "https://www.naukri.com/job-listings-workday-adaptive-planning-consultant-pwc-hyderabad-pune-bengaluru-5-to-10-years-081026013006",
     "source_platform": "Naukri",
     "scraped_at": "2026-10-08T05:36:12.517812Z"
+  },
+  {
+    "title": "Sales Executive - Chennai NP",
+    "company": "NoBroker",
+    "location": "hybrid - noida, chennai, mumbai (all areas)",
+    "job_type": "0-4 Yrs",
+    "salary": "3-4 Lacs PA",
+    "salary_numeric": 400000,
+    "skills_required": [
+      "Sales",
+      "Advisory and Consultancy",
+      "Property Management Services",
+      "Field Sales",
+      "Presales",
+      "Business Development",
+      "Tele / Inside Sales",
+      "Residential Properties"
+    ],
+    "posting_date": "Today",
+    "apply_link": "https://www.naukri.com/job-listings-sales-executive-chennai-np-nobroker-noida-chennai-mumbai-all-areas-0-to-4-years-081026016125",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-08T15:27:45.632257Z"
+  },
+  {
+    "title": "Azure Devops",
+    "company": "Capgemini",
+    "location": "bengaluru, mumbai (all areas)",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Azure Kubernetes",
+      "Terraform",
+      "Sre",
+      "K8",
+      "Azure Devops",
+      "Devops",
+      "Kubernetes",
+      "Microsoft Azure"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-azure-devops-capgemini-bengaluru-mumbai-all-areas-6-to-11-years-071026048496",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-08T15:27:45.989444Z"
+  },
+  {
+    "title": "Walk-in || CDM professional's",
+    "company": "IQVIA",
+    "location": "hybrid - hyderabad, bengaluru, mumbai (all areas)",
+    "job_type": "N/A",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Database lock",
+      "Query Management",
+      "Reconciliation",
+      "Rave",
+      "Clinical Data Management",
+      "S",
+      "Cdm",
+      "Query"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-cdm-professional-s-iqvia-hyderabad-bengaluru-mumbai-all-areas-3-to-8-years-081026047443",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-08T15:27:46.108996Z"
+  },
+  {
+    "title": "Java Full Stack With Angular",
+    "company": "Tata Consultancy Services",
+    "location": "mumbai, bengaluru",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Java",
+      "Spring Boot",
+      "Angular",
+      "Hibernate",
+      "JSON",
+      "Microservices",
+      "Boot",
+      "Bootstrap"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-java-full-stack-with-angular-tata-consultancy-services-mumbai-bengaluru-6-to-11-years-081026050183",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-08T15:27:46.342935Z"
+  },
+  {
+    "title": "Opportunity AWS Data Engineer professional",
+    "company": "Atos",
+    "location": "chennai, bengaluru, mumbai (all areas)",
+    "job_type": "10-15 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Pyspark",
+      "Glue",
+      "AWS",
+      "AWS Data Engineer",
+      "Athena",
+      "Lambda",
+      "Redshift",
+      "Amazon Redshift"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-opportunity-aws-data-engineer-professional-atos-chennai-bengaluru-mumbai-all-areas-10-to-15-years-081026031283",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-08T15:27:46.524834Z"
+  },
+  {
+    "title": "Sr Partner Sales Manager",
+    "company": "Salesforce",
+    "location": "mumbai, gurugram, bengaluru",
+    "job_type": "15-18 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "agentforce",
+      "customer success",
+      "ai",
+      "artificial intelligence",
+      "sales",
+      "salesforce",
+      "ai tools",
+      "operations"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-sr-partner-sales-manager-salesforce-mumbai-gurugram-bengaluru-15-to-18-years-081026505114",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-08T15:27:46.584669Z"
   }
 ]
