@@ -45052,5 +45052,114 @@
     "apply_link": "https://www.naukri.com/job-listings-senior-digital-continuity-manuf-engineer-capgemini-technology-services-india-limited-navi-mumbai-2-to-7-years-071026942186",
     "source_platform": "Naukri",
     "scraped_at": "2026-10-07T21:09:17.381341Z"
+  },
+  {
+    "title": "ReactJs Developer",
+    "company": "Tata Consultancy Services",
+    "location": "chennai, bengaluru, mumbai (all areas)",
+    "job_type": "6-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "TypeScript",
+      "Javascript",
+      "React.js",
+      "Html/Css",
+      "Cs",
+      "CSS",
+      "Development",
+      "HTML"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-reactjs-developer-tata-consultancy-services-chennai-bengaluru-mumbai-all-areas-6-to-10-years-081026010542",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-08T05:36:11.539528Z"
+  },
+  {
+    "title": "Workday Recruiting Consultant",
+    "company": "PwC",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "2-7 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Workday Certified",
+      "Workday Talent",
+      "Workday Recruiting",
+      "Certified",
+      "Recruitment",
+      "Consulting",
+      "Workday"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-workday-recruiting-consultant-pwc-hyderabad-pune-bengaluru-2-to-7-years-081026012663",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-08T05:36:11.619373Z"
+  },
+  {
+    "title": "GCP Cloud Data SRE (Chennai/Bangalore/Hyderabad/Delhi/ Pune)",
+    "company": "Tata Consultancy Services",
+    "location": "hyderabad, pune, bengaluru",
+    "job_type": "8-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Terraform",
+      "GCP",
+      "CI/CD",
+      "Site Reliability Engineering",
+      "Cloud Engineering",
+      "Jenkins",
+      "Sre",
+      "Cd"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-gcp-cloud-data-sre-chennai-bangalore-hyderabad-delhi-pune-tata-consultancy-services-hyderabad-pune-bengaluru-8-to-10-years-071026047767",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-08T05:36:12.118108Z"
+  },
+  {
+    "title": "Sap Wm Consultant",
+    "company": "Genpact",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "5-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SAP WM",
+      "SAP Warehouse Management",
+      "WM",
+      "SAP EWM",
+      "Warehouse Management",
+      "Consulting",
+      "Warehouse",
+      "Ewm"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-sap-wm-consultant-genpact-hyderabad-pune-bengaluru-5-to-8-years-071026047790",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-08T05:36:12.278991Z"
+  },
+  {
+    "title": "Workday Adaptive Planning consultant",
+    "company": "PwC",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Workday Adaptive",
+      "Workday Certified",
+      "Workday Adaptive planning",
+      "Consulting",
+      "Planning",
+      "Workday",
+      "Certified",
+      "Adaptability"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-workday-adaptive-planning-consultant-pwc-hyderabad-pune-bengaluru-5-to-10-years-081026013006",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-08T05:36:12.517812Z"
   }
 ]
