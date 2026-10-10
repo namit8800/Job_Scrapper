@@ -45749,5 +45749,27 @@
     "apply_link": "https://www.naukri.com/job-listings-looking-for-outsystem-reactive-developer-bangalore-hyderabad-pune-hcltech-hyderabad-pune-bengaluru-7-to-12-years-091026000927",
     "source_platform": "Naukri",
     "scraped_at": "2026-10-10T05:24:23.939350Z"
+  },
+  {
+    "title": "Azure Data Factory Developer",
+    "company": "Infosys",
+    "location": "hyderabad, pune, bengaluru",
+    "job_type": "2-5 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "PySpark",
+      "Azure Databricks",
+      "Azure Data Factory (ADF)",
+      "ETL/ELT Development",
+      "SQL",
+      "Apache Spark",
+      "Git",
+      "Azure Data Lake Storage (ADLS)"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-azure-data-factory-developer-infosys-hyderabad-pune-bengaluru-2-to-5-years-101026016068",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-10T14:23:30.168179Z"
   }
 ]
