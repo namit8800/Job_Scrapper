@@ -102912,5 +102912,61 @@
     "source_platform": "Internshala",
     "duration": "N/A",
     "scraped_at": "2026-10-10T19:56:51.026965Z"
+  },
+  {
+    "title": "Fundraising",
+    "company": "Basti Ki Pathshala Foundation",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "\u20b9 1,501 - 15,001 lump sum",
+    "salary_numeric": 1501,
+    "skills_required": [],
+    "posting_date": "1 day ago",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-part-time-fundraising-internship-at-basti-ki-pathshala-foundation1791540799",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-10-11T05:16:52.963817Z"
+  },
+  {
+    "title": "Software Development",
+    "company": "She Can Foundation",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "Unpaid",
+    "salary_numeric": null,
+    "skills_required": [],
+    "posting_date": "1 day ago",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-she-can-foundation1791545212",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-10-11T05:16:53.225167Z"
+  },
+  {
+    "title": "Business Development (Sales)",
+    "company": "Quantazone",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "\u20b9 15,000 /month",
+    "salary_numeric": 15000,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-business-development-sales-internship-at-quantazone1791692897",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-10-11T05:16:53.266910Z"
+  },
+  {
+    "title": "Front End Development",
+    "company": "QuickHyre",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "\u20b9 40,000 - 90,000 /month",
+    "salary_numeric": 40000,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-front-end-development-internship-at-quickhyre1791689912",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-10-11T05:16:53.311077Z"
   }
 ]
