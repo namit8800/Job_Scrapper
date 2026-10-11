@@ -46030,5 +46030,27 @@
     "apply_link": "https://www.naukri.com/job-listings-generative-ai-engineer-dn-infosys-pune-delhi-ncr-mumbai-all-areas-5-to-9-years-240426029435",
     "source_platform": "Naukri",
     "scraped_at": "2026-10-11T05:17:07.757459Z"
+  },
+  {
+    "title": "Fullstack Developer",
+    "company": "Aon",
+    "location": "hybrid - bengaluru",
+    "job_type": "0-3 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "OOPs",
+      "data structure",
+      "algorithm",
+      "C#",
+      "Java",
+      "python",
+      ".NET",
+      "Full Stack"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-fullstack-developer-aon-bengaluru-0-to-3-years-111026004601",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-11T14:50:05.588379Z"
   }
 ]
