@@ -46873,5 +46873,49 @@
     "apply_link": "https://www.naukri.com/job-listings-net-application-developer-angular-reactjs-gen-ai-hexaware-technologies-noida-bangalore-rural-mumbai-all-areas-8-to-13-years-131026044193",
     "source_platform": "Naukri",
     "scraped_at": "2026-10-13T19:08:45.518579Z"
+  },
+  {
+    "title": "Associate Director Performance Marketing",
+    "company": "Accenture",
+    "location": "mumbai, hyderabad",
+    "job_type": "15-20 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "abm",
+      "digital marketing",
+      "cro",
+      "ai",
+      "campaign optimization",
+      "account-based marketing",
+      "analytics",
+      "demand generation"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-associate-director-performance-marketing-accenture-solutions-pvt-ltd-mumbai-hyderabad-15-to-20-years-131026940501",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-13T23:41:18.315848Z"
+  },
+  {
+    "title": "SAP MDG Consultant",
+    "company": "Infosys",
+    "location": "hybrid - kolkata, bengaluru, mumbai (all areas)",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SAP MDG",
+      "DATA QUALITY",
+      "DATA GOVERNANCE",
+      "REPLICATION",
+      "DATA STEWARDSHIP",
+      "VALIDATION",
+      "Consulting",
+      "Quality"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-sap-mdg-consultant-infosys-kolkata-bengaluru-mumbai-all-areas-5-to-10-years-141026000600",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-13T23:41:18.840333Z"
   }
 ]
