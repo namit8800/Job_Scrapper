@@ -46632,5 +46632,71 @@
     "apply_link": "https://www.naukri.com/job-listings-senior-manager-ernst-young-mumbai-13-to-22-years-121026502653",
     "source_platform": "Naukri",
     "scraped_at": "2026-10-12T17:40:10.065274Z"
+  },
+  {
+    "title": "ACN S&C GN - SC&O - S&P -Business Solutions- Specialist",
+    "company": "Accenture",
+    "location": "mumbai",
+    "job_type": "3-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "accounting",
+      "contract management",
+      "information management",
+      "administration",
+      "contract lifecycle management",
+      "enterprise applications",
+      "functional design",
+      "p2p"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-acn-s-c-gn-sc-o-s-p-business-solutions-specialist-accenture-solutions-pvt-ltd-mumbai-3-to-8-years-121026923454",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-13T01:56:10.270346Z"
+  },
+  {
+    "title": "S&C GN - TS&T -Enterprise AI Value Strategy - Senior Manager",
+    "company": "Accenture",
+    "location": "mumbai",
+    "job_type": "14-19 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "ai",
+      "business models",
+      "data platforms",
+      "databricks",
+      "data architecture",
+      "business intelligence",
+      "change management",
+      "ai governance"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-s-c-gn-ts-t-enterprise-ai-value-strategy-senior-manager-accenture-solutions-pvt-ltd-mumbai-14-to-19-years-121026922998",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-13T01:56:10.826511Z"
+  },
+  {
+    "title": "S&C GN - MC - Industry X - Product & Platform Engineering - Analyst",
+    "company": "Accenture",
+    "location": "mumbai",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "agile",
+      "continuous integration",
+      "cspo",
+      "competitor analysis",
+      "data analysis",
+      "chef",
+      "ites",
+      "articulate"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-s-c-gn-mc-industry-x-product-platform-engineering-analyst-accenture-solutions-pvt-ltd-mumbai-5-to-10-years-121026923082",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-13T01:56:10.872250Z"
   }
 ]
