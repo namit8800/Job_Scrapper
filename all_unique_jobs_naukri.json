@@ -47410,5 +47410,71 @@
     "apply_link": "https://www.naukri.com/job-listings-elastic-search-engineer-tata-consultancy-services-chennai-bengaluru-mumbai-all-areas-8-to-10-years-141026012013",
     "source_platform": "Naukri",
     "scraped_at": "2026-10-15T13:15:54.562643Z"
+  },
+  {
+    "title": "AI Technology Head",
+    "company": "Tata Consultancy Services",
+    "location": "mumbai, bengaluru, delhi / ncr",
+    "job_type": "18-26 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "generative ai",
+      "Presales",
+      "Chief Technology Officer",
+      "SAP",
+      "Servicenow",
+      "Platform Architecture",
+      "Oracle",
+      "Cto"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-ai-technology-head-tata-consultancy-services-mumbai-bengaluru-delhi-ncr-18-to-26-years-151026033442",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-15T19:48:11.889759Z"
+  },
+  {
+    "title": "SAP IS Retail - Pune/Mumbai/Bangalore/Gandhinagar",
+    "company": "Capgemini",
+    "location": "pune, bengaluru, mumbai (all areas)",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SAP IS Retail",
+      "SD",
+      "implementation",
+      "SAP",
+      "SAP Is",
+      "SAP IS-Retail",
+      "Retail",
+      "SAP Retail"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-sap-is-retail-pune-mumbai-bangalore-gandhinagar-capgemini-pune-bengaluru-mumbai-all-areas-6-to-11-years-151026032261",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-15T19:48:12.138965Z"
+  },
+  {
+    "title": "Java Full Stack with Angular",
+    "company": "Tata Consultancy Services",
+    "location": "mumbai, bengaluru",
+    "job_type": "6-11 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Java",
+      "Spring Boot",
+      "Angular",
+      "SQL",
+      "Hibernate",
+      "J2EE",
+      "Microservices",
+      "Spring"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-java-full-stack-with-angular-tata-consultancy-services-mumbai-bengaluru-6-to-11-years-151026033234",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-15T19:48:12.686652Z"
   }
 ]
