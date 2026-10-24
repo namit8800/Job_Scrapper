@@ -112278,5 +112278,33 @@
     "source_platform": "Internshala",
     "duration": "N/A",
     "scraped_at": "2026-10-24T18:42:03.989301Z"
+  },
+  {
+    "title": "Fundraising",
+    "company": "She Can Foundation",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "\u20b9 5,000 - 20,000 lump sum",
+    "salary_numeric": 5000,
+    "skills_required": [],
+    "posting_date": "1 day ago",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-part-time-fundraising-internship-at-she-can-foundation1792747190",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-10-24T22:21:51.789664Z"
+  },
+  {
+    "title": "Customer Support & Recruitment",
+    "company": "Tossit",
+    "location": "bangalore (hybrid)",
+    "job_type": "Internship",
+    "salary": "\u20b9 20,000 - 25,000 /month",
+    "salary_numeric": 20000,
+    "skills_required": [],
+    "posting_date": "1 week ago",
+    "apply_link": "https://internshala.com/internship/detail/customer-support-recruitment-internship-in-bangalore-at-tossit1792053781",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-10-24T22:21:51.877533Z"
   }
 ]
