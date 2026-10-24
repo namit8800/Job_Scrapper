@@ -49879,5 +49879,135 @@
     "apply_link": "https://www.naukri.com/job-listings-sap-control-integration-lead-pwc-hyderabad-pune-bengaluru-12-to-20-years-231026012148",
     "source_platform": "Naukri",
     "scraped_at": "2026-10-23T13:16:44.034822Z"
+  },
+  {
+    "title": "Java Developer",
+    "company": "Infosys",
+    "location": "hybrid - hyderabad, pune, bengaluru",
+    "job_type": "5-9 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Java",
+      "Spring Boot",
+      "Microservices",
+      "Development",
+      "Java Development",
+      "Spring",
+      "Boot"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-java-developer-infosys-hyderabad-pune-bengaluru-5-to-9-years-080726034530",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-24T18:42:14.256955Z"
+  },
+  {
+    "title": "AI Architect",
+    "company": "Tech Mahindra",
+    "location": "hybrid - pune, chennai, bengaluru",
+    "job_type": "10-15 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Machine",
+      "Processing",
+      "Python",
+      "Natural language processing",
+      "Artificial Intelligence",
+      "Architecture",
+      "Process",
+      "Machine learning"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-ai-architect-tech-mahindra-pune-chennai-bengaluru-10-to-15-years-231026034175",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-24T18:42:14.346692Z"
+  },
+  {
+    "title": "Credit Research - Banking Analyst",
+    "company": "Moodys Analytics",
+    "location": "pune",
+    "job_type": "3-4 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Finance",
+      "Financial services",
+      "Credit research",
+      "Research",
+      "Private equity",
+      "Insurance",
+      "Artificial Intelligence",
+      "Analytics"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-credit-research-banking-analyst-acuity-knowledge-partners-pune-3-to-4-years-231026504671",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-24T18:42:14.441201Z"
+  },
+  {
+    "title": "Financial Controller",
+    "company": "Capgemini",
+    "location": "hybrid - pune, mumbai (all areas)",
+    "job_type": "4-9 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Budgeting",
+      "Revenue recognition",
+      "Revenue",
+      "Financial statements",
+      "Finance control",
+      "Forecasting",
+      "Financial control",
+      "Budgeting"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-financial-controller-capgemini-pune-mumbai-all-areas-4-to-9-years-290526023402",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-24T18:42:14.622956Z"
+  },
+  {
+    "title": "SAP CRM TPM Consultant",
+    "company": "Infosys",
+    "location": "pune",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SAP",
+      "Technical design",
+      "SAP CRM",
+      "Monitoring tools",
+      "Transformation",
+      "Tools",
+      "SD",
+      "Budgeting"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-sap-crm-tpm-consultant-infosys-limited-pune-5-to-10-years-231026919286",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-24T18:42:15.284588Z"
+  },
+  {
+    "title": "Pharmacist",
+    "company": "Bangalore Gastro Centre",
+    "location": "bengaluru(hsr layout +1)",
+    "job_type": "0-3 Yrs",
+    "salary": "2-3.5 Lacs PA",
+    "salary_numeric": 350000,
+    "skills_required": [
+      "Pharmaceutical sales",
+      "Sales",
+      "Pharmaceutical",
+      "Pharmacy",
+      "Drug",
+      "Dispensing",
+      "Molecular"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-pharmacist-bangalore-gastro-centre-bengaluru-0-to-3-years-270525033810",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-24T18:42:15.370590Z"
   }
 ]
