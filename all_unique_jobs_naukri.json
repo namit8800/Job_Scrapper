@@ -50334,5 +50334,150 @@
     "apply_link": "https://www.naukri.com/job-listings-sap-abap-hana-technical-consultant-capgemini-pune-bengaluru-mumbai-all-areas-6-to-11-years-241026009271",
     "source_platform": "Naukri",
     "scraped_at": "2026-10-25T04:12:35.724970Z"
+  },
+  {
+    "title": "Walk-in Drive For Freshers at Mphasis Bangalore",
+    "company": "Mphasis",
+    "location": "bengaluru",
+    "job_type": "N/A",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-walk-in-drive-for-freshers-at-mphasis-bangalore-mphasis-bengaluru-0-to-0-years-251026004292",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-25T18:50:57.800559Z"
+  },
+  {
+    "title": "Email Support Executive",
+    "company": "Sutherland",
+    "location": "navi mumbai, dombivli, mumbai (all areas)",
+    "job_type": "0-2 Yrs",
+    "salary": "1.25-3 Lacs PA",
+    "salary_numeric": 300000,
+    "skills_required": [
+      "Spoken english",
+      "Email Writing",
+      "Communication skills",
+      "Written communication",
+      "Email Process",
+      "Typing",
+      "English",
+      "Email support"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-email-support-executive-sutherland-navi-mumbai-dombivli-mumbai-all-areas-0-to-2-years-251026004522",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-25T18:50:57.897745Z"
+  },
+  {
+    "title": "Inside Sales Executive",
+    "company": "Hindustan Consulting",
+    "location": "hyderabad, pune, mumbai (all areas)",
+    "job_type": "0-5 Yrs",
+    "salary": "3-7.5 Lacs PA",
+    "salary_numeric": 750000,
+    "skills_required": [
+      "Sales",
+      "Lead qualification",
+      "Demand generation",
+      "Inbound",
+      "Sales lead generation",
+      "Lead generation",
+      "Generation",
+      "Prospecting"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-inside-sales-executive-hindustan-consulting-services-india-hyderabad-pune-mumbai-all-areas-0-to-5-years-251026004659",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-25T18:50:58.608356Z"
+  },
+  {
+    "title": "Api Automation Testing- 3-5 yrs",
+    "company": "Infosys",
+    "location": "hybrid - pune, chennai, bengaluru",
+    "job_type": "3-5 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Rest Assured",
+      "API Testing",
+      "Postman",
+      "Swagger",
+      "API Automation",
+      "Software testing",
+      "Rest",
+      "Automation testing"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-api-automation-testing-3-5-yrs-infosys-pune-chennai-bengaluru-3-to-5-years-040926000062",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-25T18:50:58.703527Z"
+  },
+  {
+    "title": "Vendor risk management",
+    "company": "Tata Consultancy Services",
+    "location": "pune, mumbai (all areas)",
+    "job_type": "9-14 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Vendor",
+      "Assessment",
+      "VRM",
+      "Management",
+      "Risk",
+      "Risk management",
+      "Risk assessment",
+      "Vendor Risk Management"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-vendor-risk-management-tata-consultancy-services-pune-mumbai-all-areas-9-to-14-years-251026005230",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-25T18:50:58.797321Z"
+  },
+  {
+    "title": "Gen AI Data Scientist",
+    "company": "Tata Consultancy Services",
+    "location": "kochi, pune, mumbai (all areas)",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Science",
+      "Intelligence",
+      "IT services",
+      "Aiml",
+      "Data Science",
+      "Data",
+      "Gen",
+      "Artificial Intelligence"
+    ],
+    "posting_date": "1 day ago",
+    "apply_link": "https://www.naukri.com/job-listings-gen-ai-data-scientist-tata-consultancy-services-kochi-pune-mumbai-all-areas-5-to-10-years-231026008943",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-25T18:50:58.980910Z"
+  },
+  {
+    "title": "Salesforce Test Engineer -Hyderabad",
+    "company": "Infosys",
+    "location": "hybrid - hyderabad, pune, mumbai (all areas)",
+    "job_type": "5-10 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "SFDC Testing",
+      "SFDC",
+      "Salesforce Testing",
+      "salesforce cpq",
+      "Salesforce QA",
+      "Salesforce CRM",
+      "Cpq",
+      "Salesforce"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-salesforce-test-engineer-hyderabad-infosys-hyderabad-pune-mumbai-all-areas-5-to-10-years-010726033503",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-25T18:50:59.462228Z"
   }
 ]
