@@ -112502,5 +112502,33 @@
     "source_platform": "Internshala",
     "duration": "N/A",
     "scraped_at": "2026-10-25T22:24:30.403839Z"
+  },
+  {
+    "title": "Digital Marketing",
+    "company": "Adex Media Hub",
+    "location": "pune",
+    "job_type": "Internship",
+    "salary": "\u20b9 4,000 - 5,001 /month",
+    "salary_numeric": 4000,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/digital-marketing-internship-in-pune-at-adex-media-hub1792983052",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-10-26T04:16:26.138265Z"
+  },
+  {
+    "title": "Teaching",
+    "company": "Boddhi Tree Foundation",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "Unpaid",
+    "salary_numeric": null,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-teaching-internship-at-boddhi-tree-foundation1792984350",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-10-26T04:16:26.173227Z"
   }
 ]
