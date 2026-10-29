@@ -51622,5 +51622,137 @@
     "apply_link": "https://www.naukri.com/job-listings-aws-redshift-glue-pyspark-pwc-pune-gurugram-bengaluru-2-to-4-years-291026002842",
     "source_platform": "Naukri",
     "scraped_at": "2026-10-29T05:20:39.753321Z"
+  },
+  {
+    "title": "Backend Developer (Java)",
+    "company": "Infosys",
+    "location": "hybrid - pune, chennai, mumbai (all areas)",
+    "job_type": "1-3 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Boot",
+      "Backend Development",
+      "Java Development",
+      "Spring Boot",
+      "SQL",
+      "Bootstrap",
+      "Microservices",
+      "Java"
+    ],
+    "posting_date": "Just now",
+    "apply_link": "https://www.naukri.com/job-listings-backend-developer-java-infosys-pune-chennai-mumbai-all-areas-1-to-3-years-291026037578",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-29T15:06:34.318188Z"
+  },
+  {
+    "title": "Specialist - Software Engineering",
+    "company": "LTM",
+    "location": "pune",
+    "job_type": "0-7 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Iac",
+      "Glm",
+      "Monitoring",
+      "Cloud Infrastructure",
+      "Continuous Integration",
+      "Grafana",
+      "Gitlab",
+      "Docker"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-specialist-software-engineering-mindtree-limited-pune-0-to-7-years-291026500460",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-29T15:06:34.845830Z"
+  },
+  {
+    "title": "Data Scientist/Senior Data Scientist",
+    "company": "Fractal Analytics",
+    "location": "noida, mumbai, pune, chennai, gurugram, bengaluru",
+    "job_type": "4-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "Coding",
+      "Computer vision",
+      "Generation",
+      "Classification",
+      "Application",
+      "Certified",
+      "Data",
+      "Vision"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-data-scientist-senior-data-scientist-fractal-analytics-ltd-noida-mumbai-pune-chennai-gurugram-bengaluru-4-to-8-years-291026500812",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-29T15:06:35.016077Z"
+  },
+  {
+    "title": "Counterparty Relationship Manager - Supply chain Finance",
+    "company": "Vivriti Next",
+    "location": "mumbai, bengaluru, delhi / ncr",
+    "job_type": "4-9 Yrs",
+    "salary": "8-12 Lacs PA",
+    "salary_numeric": 1200000,
+    "skills_required": [
+      "Dealing",
+      "Supply chain management",
+      "Client Onboarding",
+      "Vendor",
+      "Supply chain",
+      "Channel management",
+      "Supply",
+      "Channel"
+    ],
+    "posting_date": "Today",
+    "apply_link": "https://www.naukri.com/job-listings-counterparty-relationship-manager-supply-chain-finance-vivriti-next-mumbai-bengaluru-delhi-ncr-4-to-9-years-291026003972",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-29T15:06:35.278347Z"
+  },
+  {
+    "title": "Senior Consultant - Tech Consulting - FS - CNS - TC - QAE",
+    "company": "EY",
+    "location": "mumbai",
+    "job_type": "5-8 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "CNS",
+      "Senior",
+      "Appium",
+      "Automation testing",
+      "Version control",
+      "Agile methodology",
+      "Agile",
+      "Financial services"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-senior-consultant-tech-consulting-fs-cns-tc-qae-ernst-young-mumbai-5-to-8-years-291026502155",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-29T15:06:35.892611Z"
+  },
+  {
+    "title": "Senior Engineer - ME Highways",
+    "company": "AtkinsR\u00e9alis",
+    "location": "mumbai, bengaluru",
+    "job_type": "8-12 Yrs",
+    "salary": "Not disclosed",
+    "salary_numeric": null,
+    "skills_required": [
+      "AutoCAD",
+      "Finance",
+      "Autodesk",
+      "Medical",
+      "Client satisfaction",
+      "Nutrition",
+      "Legal",
+      "Highway Projects"
+    ],
+    "posting_date": "Few hours ago",
+    "apply_link": "https://www.naukri.com/job-listings-senior-engineer-me-highways-atkins-global-mumbai-bengaluru-8-to-12-years-291026502712",
+    "source_platform": "Naukri",
+    "scraped_at": "2026-10-29T15:06:35.972774Z"
   }
 ]
