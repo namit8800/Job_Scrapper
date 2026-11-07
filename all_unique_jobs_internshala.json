@@ -121042,5 +121042,61 @@
     "source_platform": "Internshala",
     "duration": "N/A",
     "scraped_at": "2026-11-07T14:48:59.200501Z"
+  },
+  {
+    "title": "Fundraising",
+    "company": "She Can Foundation",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "\u20b9 1,500 - 15,000 lump sum",
+    "salary_numeric": 1500,
+    "skills_required": [],
+    "posting_date": "1 day ago",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-part-time-fundraising-internship-at-she-can-foundation1793962901",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-11-07T20:04:48.799626Z"
+  },
+  {
+    "title": "Full Stack Development",
+    "company": "Basti Ki Pathshala Foundation",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "Unpaid",
+    "salary_numeric": null,
+    "skills_required": [],
+    "posting_date": "1 day ago",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-part-time-full-stack-development-internship-at-basti-ki-pathshala-foundation1793968157",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-11-07T20:04:48.844001Z"
+  },
+  {
+    "title": "Front End Development",
+    "company": "She Can Foundation",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "Unpaid",
+    "salary_numeric": null,
+    "skills_required": [],
+    "posting_date": "1 day ago",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-front-end-development-internship-at-she-can-foundation1793961607",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-11-07T20:04:48.966384Z"
+  },
+  {
+    "title": "Business Development (Sales)",
+    "company": "Midpoint Solutions Private Limited",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "\u20b9 9,500 - 15,000 /month",
+    "salary_numeric": 9500,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-business-development-sales-internship-at-midpoint-solutions-private-limited1794069693",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-11-07T20:04:49.263479Z"
   }
 ]
