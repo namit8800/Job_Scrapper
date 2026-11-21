@@ -130240,5 +130240,47 @@
     "source_platform": "Internshala",
     "duration": "N/A",
     "scraped_at": "2026-11-20T16:52:28.931561Z"
+  },
+  {
+    "title": "Inside Sales",
+    "company": "Akroherbs Global Llp",
+    "location": "navi mumbai",
+    "job_type": "Internship",
+    "salary": "\u20b9 15,001 - 30,001 lump sum",
+    "salary_numeric": 15001,
+    "skills_required": [],
+    "posting_date": "2 days ago",
+    "apply_link": "https://internshala.com/internship/detail/inside-sales-internship-in-navi-mumbai-at-akroherbs-global-llp1795005728",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-11-21T01:17:08.480928Z"
+  },
+  {
+    "title": "Sales and Marketing",
+    "company": "Prasoft IT Services Private Limited",
+    "location": "chennai, pune, hyderabad, bangalore",
+    "job_type": "Internship",
+    "salary": "\u20b9 16,000 - 20,000 /month",
+    "salary_numeric": 16000,
+    "skills_required": [],
+    "posting_date": "4 days ago",
+    "apply_link": "https://internshala.com/internship/detail/sales-and-marketing-internship-in-multiple-locations-at-prasoft-it-services-private-limited1794832602",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-11-21T01:17:08.847594Z"
+  },
+  {
+    "title": "AI Academic Coordinator",
+    "company": "Referencified Tech Private Limited",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "\u20b9 3,000 - 6,000 /month",
+    "salary_numeric": 3000,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-ai-academic-coordinator-internship-at-referencified-tech-private-limited1795198458",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-11-21T01:17:10.086356Z"
   }
 ]
