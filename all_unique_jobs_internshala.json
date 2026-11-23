@@ -131038,5 +131038,61 @@
     "source_platform": "Internshala",
     "duration": "N/A",
     "scraped_at": "2026-11-22T16:07:28.954978Z"
+  },
+  {
+    "title": "Marketing",
+    "company": "Yardstick",
+    "location": "bangalore",
+    "job_type": "Internship",
+    "salary": "\u20b9 10,000 - 25,000 /month",
+    "salary_numeric": 10000,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/marketing-internship-in-bangalore-at-yardstick1795384172",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-11-23T00:41:40.610205Z"
+  },
+  {
+    "title": "Full Stack Development",
+    "company": "Yardstick",
+    "location": "bangalore",
+    "job_type": "Internship",
+    "salary": "\u20b9 10,000 - 25,000 /month",
+    "salary_numeric": 10000,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/full-stack-development-internship-in-bangalore-at-yardstick1795380853",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-11-23T00:41:40.661238Z"
+  },
+  {
+    "title": "Web Development",
+    "company": "INXRO",
+    "location": "hyderabad",
+    "job_type": "Internship",
+    "salary": "\u20b9 5,000 /month",
+    "salary_numeric": 5000,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/web-development-internship-in-hyderabad-at-inxro1795367523",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-11-23T00:41:40.714358Z"
+  },
+  {
+    "title": "Trading Intern",
+    "company": "Pipraiser",
+    "location": "work from home",
+    "job_type": "Internship",
+    "salary": "\u20b9 2,000 /month",
+    "salary_numeric": 2000,
+    "skills_required": [],
+    "posting_date": "N/A",
+    "apply_link": "https://internshala.com/internship/detail/work-from-home-trading-intern-internship-at-pipraiser1795373732",
+    "source_platform": "Internshala",
+    "duration": "N/A",
+    "scraped_at": "2026-11-23T00:41:40.849897Z"
   }
 ]
